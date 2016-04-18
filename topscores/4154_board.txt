@@ -1,0 +1,858 @@
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                    F             
+                        M                 M       
+                                                  
+                                                  
+                                                  
+                                      F           
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                    X             
+                                                  
+                                                  
+                                                  
+                                                  
+------------------------------------------------------------------------
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                M F               
+                        M                         
+                                                  
+                                          M       
+                                                  
+                                      F           
+                                        F         
+                                                  
+                                                  
+                                                  
+                                                  
+                                    X             
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+------------------------------------------------------------------------
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                    F             
+                          M     M   F             
+                                          M       
+                                                  
+                                        M         
+                                        F F       
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                  X               
+                                                  
+                                                  
+                                                  
+                                                  
+------------------------------------------------------------------------
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                  F               
+                                M F               
+                        M     M                   
+                                            M     
+                                      M           
+                                                  
+                                    F             
+                                      F     F     
+                                              F   
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                X                 
+                                                  
+                                                  
+                                                  
+------------------------------------------------------------------------
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                F                 
+                          M   M   F               
+                            M   M M               
+                                      M           
+                                            M     
+                                      M           
+                                  F     F         
+                                              F   
+                                            F     
+                                              F   
+                                                  
+                                                  
+                                                  
+                                  X               
+                                                  
+                                                  
+                                                  
+                                                  
+------------------------------------------------------------------------
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                              M                   
+                              F                   
+                                                  
+                        M         F M             
+                              M   M F             
+                              M                   
+                                    M M           
+                                          F M     
+                                          F     F 
+                                    F           F 
+                                      F   F       
+                                                  
+                                            F     
+                                              F   
+                                                  
+                                                  
+                                    X             
+                                                  
+                                                  
+                                                  
+------------------------------------------------------------------------
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                            M                     
+                            F         M           
+                              M M                 
+                        M         F   F           
+                              M   M   F           
+                            M           M M F     
+                                        F   F M   
+                                  F           F   
+                                  F             F 
+                                            F     
+                                      F     F     
+                                          F       
+                                            F     
+                                            F     
+                                                  
+                                  X               
+                                                  
+                                                  
+                                                  
+------------------------------------------------------------------------
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                              M                   
+                                      M           
+                          F     M                 
+                            M                     
+                              M M   M   F         
+                        M   M     F F     M     F 
+                                  M       F F F   
+                              M   F   F   M M     
+                                    F     F       
+                                              F   
+                                              F F 
+                                        F     F F 
+                                      F     F F F 
+                                              F F 
+                                            F     
+                                    X         F   
+                                                  
+                                                  
+                                                  
+                                                  
+------------------------------------------------------------------------
+                                                  
+                                                  
+                                                  
+                                                  
+                              M                   
+                        F               M         
+                        F                         
+                                                  
+                              M M   F M           
+                        M   M M F F       F F     
+                              M   F     F F M F   
+                            M       M M F F   M F 
+                                    F   F F       
+                                      F M     M F 
+                                    F F     F F M 
+                                        F F F F F 
+                                            F F   
+                                              F F 
+                                        F F F F   
+                                          F   F   
+                                                  
+                                      X     F     
+                                          F       
+                                                  
+                                                  
+------------------------------------------------------------------------
+                                                  
+                                                  
+                                                  
+                                                  
+                          F                       
+                          F   M                   
+                        F               M         
+                              M   M F M           
+                            M   F F           F   
+                                  F F F F F F M   
+                        M     M     M M F   F M F 
+                              M     F F   F F F M 
+                            M       F F M F F F M 
+                                    F   F M F M F 
+                                    M   F F F F M 
+                                    F F F F F M X 
+                                      F M F M   F 
+                                      F   F F M F 
+                                        F F     F 
+                                            M   F 
+                                              F M 
+                                                  
+                                    X       F     
+                                          F   F   
+                                                  
+------------------------------------------------------------------------
+                                                  
+                                                  
+                                                  
+                                                  
+                              M                   
+                        F                 M       
+                      F     M       M             
+                      F     M   M   F F     M     
+                                    M F M F F   F 
+                            M F M   M   F   F M F 
+                                F F M M F F M F F 
+                                  F F   M   F F M 
+                            M     F   M F F   F M 
+                            M   M F F F M M F M F 
+                                F F M F F F F X M 
+                                  F M F F F F M X 
+                                        F M M F M 
+                                      M F X M M M 
+                                    F F   F F F M 
+                                    M F F F   F M 
+                                          M F F   
+                                          M M   F 
+                                        F     F F 
+                                                M 
+                                                  
+------------------------------------------------------------------------
+                                                  
+                                                  
+                                                  
+                                                  
+                            M                     
+                          F   M   M         M     
+                    F   F F   M   M   F   M   M   
+                      F           F M   M F   F F 
+                          M M F F M   M   M M F F 
+                              M   F F F F F     M 
+                                F M F M F M M F F 
+                            M M F   F M M F F F M 
+                                F F F M F F F F M 
+                          M   M   M F F M M F M F 
+                              M M F F F F X X X X 
+                              F F M   M F F F M X 
+                                F   M F X M M F M 
+                                  F M F F X M M M 
+                                  F F F F F F F M 
+                                M         M F M M 
+                                  M   F F M F F F 
+                                      M       F F 
+                                        M F M F F 
+                                        F     F   
+                                              M M 
+------------------------------------------------------------------------
+                                                  
+                                                  
+                                                  
+                                                  
+                          M     M             M   
+                  F M   F   M   M M F   F   M     
+                      M F F M       F   F M M F M 
+                        M       F F   F   F F F   
+                    F       M M   M F M F M M X F 
+                          M   F M F F F F M F F M 
+                            F M M F F M F M M F F 
+                            M   M F   M M F F F X 
+                            M F F F F M F F M X X 
+                                F M F F M F M X X 
+                            M   M M M F F X X X X 
+                              M F F F X F F X X X 
+                            F   F F M F X X M X X 
+                            F F M   M F M X X X M 
+                                F X F   F F X X M 
+                                  F F F F M F F M 
+                              M M M F F M F M   F 
+                                    F   M M F F F 
+                                      F M   F F F 
+                                      F M M F F M 
+                                            F M M 
+------------------------------------------------------------------------
+                                                  
+                                                  
+                                                  
+                          F     M                 
+                  F     F   M M   M       F       
+                  F   M F M       F   F   M M M M 
+                    F M M M   F F F F M M     F M 
+                    F F   M M F F   F F F F F M F 
+                    M   M   M   F F F M M M X X F 
+                            F M F M   F M M F F M 
+                              M F F F F M M X F X 
+                          M   M M F F M M F X X X 
+                          M   F F F F M X X X X X 
+                            F M F M F X X X X X X 
+                            M M M M X X X X X X X 
+                          M F   F X F X X X X X X 
+                            M F F X M X X X X X X 
+                          F   F X F M X X X X X X 
+                            M F M   F F X X X X X 
+                            M F F F F F X M M X M 
+                                M   M   F F M X X 
+                                M F F M F M F F F 
+                                    F F M F F F F 
+                                    F   M M F F M 
+                                    F   M F F M M 
+------------------------------------------------------------------------
+                                                  
+                                                  
+                        F                         
+                    F   F   M   M     F           
+                  F F F M F   M F M F M   M M   M 
+                F   M     M M   M F F M M   F M F 
+                M F     M   F   M F F M   F F M F 
+                  F   M   M F   F F   F F X X   F 
+                      F M F F M F F F M X X X X F 
+                      M   M M   M M F F M X X X X 
+                        M   M F F F F F M X X X X 
+                        M   F M M F F X X X X X X 
+                            M F M F F X X X X X X 
+                          M M   F X X X X X X X X 
+                          F M   X M X X X X X X X 
+                          M F F X X X X X X X X X 
+                        M M   F F   X X X X X X X 
+                          M F F F X X X X X X X X 
+                        F F   X X F X X X X X X X 
+                          M F M M F F X X X X X X 
+                          M F F   M M X X X X X X 
+                                F M F F F M X X F 
+                                  F M F M M M X F 
+                                M     M M F F F M 
+                                    F F F F F M M 
+------------------------------------------------------------------------
+                                                  
+                      F F                         
+                  F   F F M M M                   
+                  F   F   F   M M F F M F F M M   
+                M   M     M   F M   X   M   F M F 
+            F       F   F F M M F F F X X F M X   
+              F   M   M M F F F M F F X X M X X F 
+              M F   F   M F F M F F F   X X   X X 
+                  F X   M   M F F M F X X X X X X 
+                  M       M   M M X F X X X X X X 
+                      M M F F F F F X X X X X   X 
+                          M F X X X X X X X X X X 
+                          M   X X X X X X X X X X 
+                        F M M X X X X X X X X X X 
+                          M M F X X X X X X X X X 
+                        M F   X X X X X X X X X X 
+                        M   F X X X X X   X X X X 
+                        M F X X X X X X   X X X   
+                        M   F X X X X X X X X X X 
+                      F M F X M   X X X X X X X X 
+                        F   X F M X X X X X X X X 
+                        M F M F M   X X X X X X X 
+                                F F F F M X M X X 
+                              F   M F M M F F X X 
+                              M   M F F F F F M X 
+------------------------------------------------------------------------
+                        F F F                     
+                    F   F   M         X           
+              M     F   F     M M   X X X F   X   
+              M F   F F F F F M F M X X       X X 
+                    F   M F M F   X X X   X   X   
+              M   M M M F   F X X F   X X X   X X 
+            F M F     M   M F M M X X X X X   X X 
+                M X X M M F F M X X X X   X X X X 
+                F     F F M M F X X X X X X X   X 
+                F   F F M F X X X X X X   X X X   
+                  M   F     F X X X X X X X X X X 
+                      M F M F X X X X X X X X X X 
+                        F   X X X X X X X X X X X 
+                        X M X X X X X X X X   X X 
+                        X M X X X X   X X X X X X 
+                      M     X   X X X X X X X X X 
+                        M F X X X X X X X X X X   
+                      M X X   X X   X X X X X X X 
+                      M F F X X X X X X X X X X X 
+                    F M F F     X X X   X X   X X 
+                      X   X X X X X X X X X X X X 
+                      X X     X X X X X   X X X   
+                      M F X   X F X X X X X   X X 
+                            X   X F X X X X X X X 
+                            F   M M F X X X X X X 
+------------------------------------------------------------------------
+                F F M F M X X X         X         
+                  F F F F M F M   X     X X       
+                M   F F F F X   X X X       X   X 
+              M   F   F M F F X F   X   X     X   
+                  F M F M M X F X X X X X   X X X 
+            M   M F M F M M F F X X X X X X X X   
+            M M X X X M M   X X X X X   X   X   X 
+            F     X   F F F F X X X X X X X X X X 
+                M F M M F F M X     X X   X X X   
+                  F F F M X X X X X X X X X   X X 
+                F   M   X X X X X X X X X X X X X 
+                  M M     X X X X X X X X X X   X 
+                        X X X     X X X X X X   X 
+                      X     X X X X X X X X X X   
+                    M X M X X   X X X X X X X X X 
+                    M X X X X X X X X X X X X   X 
+                      X X X X X   X   X X X X X X 
+                    M X X X X X X X X X X X   X X 
+                    X F X X   X X X X X X X X X   
+                  F X       X X X   X X X X X   X 
+                  F   X X X X   X X   X X   X X   
+                    X       X X X X X X X X   X X 
+                    X   X   X X X X X X X X X X X 
+                        X X X X   X X X X X X X   
+                          X   X X X X X X X   X X 
+------------------------------------------------------------------------
+              F   F M F X X X X X         X       
+              M F M F X X X X X X   X X       X X 
+              F F F F F F X X X   X X   X X       
+                F   F F M F X X   X   X         X 
+            M   X M   X M   X X X X X   X X X X X 
+          M   X X M X X M X X X X   X X   X X X X 
+            M     X F X X X X X X X X X   X X X   
+          F M M X   F X X X   X X   X X X X   X   
+          F   F X X   M X X X X X X X X X X   X X 
+                X M X X X X X X   X X X X   X X X 
+                  F X X   X   X X   X   X X X X X 
+                F F X X X   X   X   X X X X   X   
+                  X X     X X X X X X X X X X X   
+                    X X X X X X   X X X X X X X X 
+                      X X X   X X X X   X X X X X 
+                  M X X   X   X X X X   X X X X   
+                    X X X X   X X X X X X X   X X 
+                    X   X   X X X X X   X X X     
+                  X X X     X X X X   X X   X X X 
+                      X X   X X X X X X   X X X X 
+                  X     X X   X X X X X X X       
+              F X     X   X X X X X X X X   X X X 
+                  X       X X X X X   X X X X X   
+                        X   X X X   X X X X   X X 
+                        X   X X X X   X X X X   X 
+------------------------------------------------------------------------
+            M   F F F X   X X X   X X   X     X   
+            F F M M F M X X X X X X     X         
+                X X F F X X X X X X     X     X X 
+            F X X X X X X X X X X X   X X X X X   
+              X X X X X X X X X X   X X X X X     
+            M X X   X X X X     X X     X   X   X 
+              X X F X X X X X X X X   X X X X X   
+            X X X F X     X X X X X X X X X X   X 
+        F   F   X     X X X X   X X     X   X     
+            M X X   X   X X X X X X X X X X X X X 
+                X X X X X X X   X X   X X     X   
+                  X X X X X X X X X X X   X X X X 
+              X   X X X X X X X X     X X X X   X 
+                  X   X X X   X X X X     X X   X 
+                        X   X X X X X X X X X X   
+                  X X X X X   X     X X   X     X 
+                X X       X X   X X X   X   X X   
+                X     X   X     X X   X X   X X X 
+                    X   X X X X X X X X   X X X   
+                  X X X   X X X X X   X X X X   X 
+                X     X     X X X X X X     X X X 
+                        X X   X X       X X     X 
+                X     X X X X X     X   X X X   X 
+                    X     X   X X X X X X   X X X 
+                          X X X X X X X   X X X   
+------------------------------------------------------------------------
+            F F X X X X X   X X X   X X   X       
+          X   F   X X X X   X X X X X X   X     X 
+          X X     X X X X X   X X X   X   X X     
+          X   X X X   X X   X X X X X X X X X X X 
+          X X X X   X X X X X   X X X X   X   X X 
+                X X X X X X X X   X   X   X X X   
+          X X X   X   X X X     X X     X       X 
+              X X X X X X X X X X X   X X     X X 
+            X X   X   X X X   X X X X X X X   X   
+        F X   X X X   X X X     X X     X X       
+              X X X   X X X X X X X X X           
+              X X X   X   X       X X   X X   X   
+                X     X X X X X   X X X     X   X 
+              X X X   X X   X X X   X X   X       
+                    X X   X X         X     X     
+              X         X   X X X   X X X X X     
+                X   X   X   X X   X     X X X X X 
+                  X     X X X X     X   X X       
+                X   X X   X X X X   X     X X X X 
+                X X X X X     X X X X X     X X   
+                    X   X X X X   X     X X   X X 
+                        X   X     X X X X   X X   
+                      X X X X X X X X X   X   X X 
+                X       X X X X X X X X X X X     
+                        X   X X X           X   X 
+------------------------------------------------------------------------
+          X X X X X X X X X     X X   X X         
+        X       X X   X X X X X X X X X X   X     
+            X X X X       X X X X X X X X X X X X 
+        X   X     X X X X X     X X X     X       
+        X   X X X X   X X X X X   X X   X X X   X 
+          X   X X X X     X X   X X X X X   X   X 
+            X X X X X   X X X       X   X X   X   
+          X X X     X X X X X   X   X   X X       
+        X X     X X X     X X X X X     X X   X   
+        X   X     X X X X   X X       X           
+            X X X   X X X   X     X       X X     
+                X   X   X   X X X X X X X   X     
+            X   X X   X X   X   X   X     X       
+                X       X X X X                   
+              X X X   X   X   X X   X   X X       
+              X     X X     X X         X     X   
+                        X X   X X   X X   X     X 
+                X X X X   X X X X     X   X   X   
+                      X X X       X           X   
+              X X         X X X X X X   X X X   X 
+                X   X     X     X   X X X   X X   
+                    X X   X X X X   X     X   X X 
+                X       X     X X X X X X         
+                      X X X X X X X       X X X X 
+                          X X   X   X   X X       
+------------------------------------------------------------------------
+          X X X X X X X X X     X     X X         
+        X       X X   X X X X X X X X X X         
+            X X X X       X   X X X X X X X X X X 
+        X   X     X X X X       X X X     X       
+        X   X X X X   X X X X X   X X     X X   X 
+          X   X X X X     X X   X X X X X   X   X 
+            X X X X X   X X X       X   X X       
+          X   X     X X X X X   X   X   X         
+        X X     X X X     X X X X X     X X       
+        X   X     X X X X   X X                   
+            X X X     X X   X     X       X X     
+                X   X   X   X X X X X X X         
+            X   X X     X   X                     
+                X       X     X                   
+              X X X   X   X   X X   X             
+              X     X X     X X         X         
+                        X X   X X   X X   X     X 
+                  X X X   X X X X     X   X   X   
+                      X   X                   X   
+              X X         X X X X X       X X   X 
+                X   X     X     X   X X X   X X   
+                      X   X X   X   X         X   
+                X       X     X X X X X           
+                      X X X X X X X       X X     
+                          X X   X   X     X       
+------------------------------------------------------------------------
+          X X X X X X X X X     X     X X         
+        X       X X   X X X X X X   X X X         
+            X   X X       X   X   X X X X X   X X 
+        X   X     X X X X       X X X             
+        X   X X X X   X X   X X   X X           X 
+          X   X X X X     X X   X X X X X   X   X 
+            X X X X X   X X X           X         
+          X   X     X X X X X   X   X   X         
+        X X     X X X     X X X X X               
+        X   X     X   X X     X                   
+            X X X     X X   X     X       X X     
+                X   X   X     X X                 
+            X   X X     X   X                     
+                X       X     X                   
+              X   X   X   X   X X   X             
+              X     X X     X X                   
+                        X X   X X         X     X 
+                  X X X   X X   X         X   X   
+                      X   X                   X   
+              X X         X X X X X         X     
+                X   X     X           X     X X   
+                      X     X   X   X             
+                        X     X X X X X           
+                      X X X X X X           X     
+                          X X   X   X             
+------------------------------------------------------------------------
+          X X X X X X X X X           X X         
+        X       X X   X X X X X X     X X         
+            X   X X       X   X   X   X X X     X 
+        X         X X X X       X X X             
+        X   X X X X   X X   X X   X X           X 
+          X   X X X X     X X   X X   X X   X   X 
+            X X X X X   X X             X         
+          X   X     X X X X X   X                 
+        X X     X X X     X   X X                 
+        X         X   X X     X                   
+            X X X     X X   X     X       X       
+                X   X         X                   
+            X   X X     X   X                     
+                X       X     X                   
+              X       X   X     X                 
+                    X X     X X                   
+                        X     X X                 
+                    X X   X X   X         X   X   
+                      X   X                   X   
+              X X         X   X X                 
+                X   X                 X           
+                            X   X   X             
+                        X     X X X X X           
+                      X X X   X X                 
+                            X   X                 
+------------------------------------------------------------------------
+          X X X X X X X X                         
+        X       X X   X X X X X X     X X         
+            X   X X       X   X   X     X         
+        X           X X         X X               
+        X   X X X X   X X   X X   X X             
+          X     X X X     X X   X X   X X   X     
+            X X   X X   X X                       
+          X   X     X X X X X   X                 
+        X X     X X X     X   X                   
+        X         X   X X     X                   
+            X X X     X X   X                     
+                X             X                   
+            X   X X     X   X                     
+                X       X     X                   
+              X                                   
+                      X     X X                   
+                              X X                 
+                    X X     X             X   X   
+                          X                       
+              X X         X   X                   
+                X   X                             
+                            X       X             
+                        X     X X X               
+                      X X     X X                 
+                            X   X                 
+------------------------------------------------------------------------
+          X X X X X X X                           
+        X         X   X X X X X       X           
+                X X       X             X         
+        X           X X         X X               
+            X X X X   X X   X       X             
+          X     X X X     X X     X   X           
+            X     X X   X X                       
+          X   X     X X         X                 
+        X X     X X       X                       
+        X         X   X X     X                   
+              X X     X     X                     
+                X                                 
+            X   X           X                     
+                X       X                         
+              X                                   
+                            X X                   
+                              X X                 
+                    X X                           
+                                                  
+              X X         X                       
+                X   X                             
+                            X       X             
+                        X                         
+                      X         X                 
+                                X                 
+------------------------------------------------------------------------
+          X X X X X X X                           
+        X         X   X X X X X       X           
+                X                                 
+        X           X X           X               
+                X X   X     X       X             
+          X     X X X             X               
+            X     X X   X                         
+          X   X     X X         X                 
+        X X               X                       
+        X         X     X     X                   
+                X     X     X                     
+                                                  
+                X                                 
+                X       X                         
+              X                                   
+                              X                   
+                              X                   
+                                                  
+                                                  
+                X         X                       
+                X   X                             
+                                                  
+                                                  
+                                X                 
+                                X                 
+------------------------------------------------------------------------
+            X X X X X                             
+        X         X   X X             X           
+                X                                 
+        X                                         
+                      X     X                     
+                  X X                             
+            X     X     X                         
+          X   X     X                             
+        X X                                       
+        X         X     X                         
+                                                  
+                                                  
+                X                                 
+                X                                 
+              X                                   
+                                                  
+                                                  
+                                                  
+                                                  
+                X                                 
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+------------------------------------------------------------------------
+            X X X X                               
+        X         X                               
+                X                                 
+                                                  
+                                                  
+                  X X                             
+            X           X                         
+          X   X                                   
+        X                                         
+        X                                         
+                                                  
+                                                  
+                                                  
+                X                                 
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+------------------------------------------------------------------------
+            X X X                                 
+                                                  
+                X                                 
+                                                  
+                                                  
+                                                  
+                                                  
+              X                                   
+        X                                         
+        X                                         
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+------------------------------------------------------------------------
+            X                                     
+                                                  
+                X                                 
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+        X                                         
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+------------------------------------------------------------------------
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+------------------------------------------------------------------------

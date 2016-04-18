@@ -1,0 +1,4154 @@
+
+Isidoro   	1	M	purplish grey       	Healthy
+Quinlan   	1	M	fern green          	Healthy
+Matty     	1	F	dark blue           	Radioactive
+Jacky     	1	F	warm purple         	Healthy
+Filide    	1	F	dark navy blue      	Healthy
+------------------------------------------------------------------------
+Isidoro   	2	M	purplish grey       	Healthy
+Quinlan   	2	M	fern green          	Healthy
+Matty     	2	F	dark blue           	Radioactive
+Jacky     	2	F	warm purple         	Healthy
+Filide    	2	F	dark navy blue      	Healthy
+Kellia    	0	F	warm purple         	Healthy
+Leicester 	0	M	dark navy blue      	Healthy
+------------------------------------------------------------------------
+Isidoro   	3	M	purplish grey       	Healthy
+Quinlan   	3	M	fern green          	Healthy
+Matty     	3	F	dark blue           	Radioactive
+Jacky     	3	F	warm purple         	Healthy
+Filide    	3	F	dark navy blue      	Healthy
+Kellia    	1	F	warm purple         	Healthy
+Leicester 	1	M	dark navy blue      	Healthy
+Inness    	0	M	warm purple         	Healthy
+Kacey     	0	F	dark navy blue      	Healthy
+------------------------------------------------------------------------
+Isidoro   	4	M	purplish grey       	Healthy
+Quinlan   	4	M	fern green          	Healthy
+Matty     	4	F	dark blue           	Radioactive
+Jacky     	4	F	warm purple         	Healthy
+Filide    	4	F	dark navy blue      	Healthy
+Kellia    	2	F	warm purple         	Healthy
+Leicester 	2	M	dark navy blue      	Healthy
+Inness    	1	M	warm purple         	Healthy
+Kacey     	1	F	dark navy blue      	Healthy
+Myrilla   	0	F	warm purple         	Healthy
+Pavel     	0	M	dark navy blue      	Healthy
+Katusha   	0	F	warm purple         	Healthy
+------------------------------------------------------------------------
+Isidoro   	5	M	purplish grey       	Healthy
+Quinlan   	5	M	fern green          	Healthy
+Matty     	5	F	dark blue           	Radioactive
+Jacky     	5	F	warm purple         	Healthy
+Filide    	5	F	dark navy blue      	Healthy
+Kellia    	3	F	warm purple         	Healthy
+Leicester 	3	M	dark navy blue      	Healthy
+Inness    	2	M	warm purple         	Healthy
+Kacey     	2	F	dark navy blue      	Healthy
+Myrilla   	1	F	warm purple         	Healthy
+Pavel     	1	M	dark navy blue      	Healthy
+Katusha   	1	F	warm purple         	Healthy
+Lindsay   	0	M	warm purple         	Healthy
+Elijah    	0	M	dark navy blue      	Healthy
+Trescha   	0	F	warm purple         	Healthy
+Skyler    	0	M	dark navy blue      	Healthy
+------------------------------------------------------------------------
+Isidoro   	6	M	purplish grey       	Healthy
+Quinlan   	6	M	fern green          	Healthy
+Matty     	6	F	dark blue           	Radioactive
+Jacky     	6	F	warm purple         	Healthy
+Filide    	6	F	dark navy blue      	Healthy
+Kellia    	4	F	warm purple         	Healthy
+Leicester 	4	M	dark navy blue      	Healthy
+Inness    	3	M	warm purple         	Healthy
+Kacey     	3	F	dark navy blue      	Healthy
+Myrilla   	2	F	warm purple         	Healthy
+Pavel     	2	M	dark navy blue      	Healthy
+Katusha   	2	F	warm purple         	Healthy
+Lindsay   	1	M	warm purple         	Healthy
+Elijah    	1	M	dark navy blue      	Healthy
+Trescha   	1	F	warm purple         	Healthy
+Skyler    	1	M	dark navy blue      	Healthy
+Brita     	0	F	warm purple         	Healthy
+Kinnie    	0	M	dark navy blue      	Healthy
+Quinn     	0	F	warm purple         	Healthy
+Kate      	0	F	dark navy blue      	Healthy
+Gretna    	0	F	warm purple         	Healthy
+Josy      	0	F	warm purple         	Healthy
+------------------------------------------------------------------------
+Isidoro   	7	M	purplish grey       	Healthy
+Quinlan   	7	M	fern green          	Healthy
+Matty     	7	F	dark blue           	Radioactive
+Jacky     	7	F	warm purple         	Healthy
+Filide    	7	F	dark navy blue      	Healthy
+Kellia    	5	F	warm purple         	Healthy
+Leicester 	5	M	dark navy blue      	Healthy
+Inness    	4	M	warm purple         	Healthy
+Kacey     	4	F	dark navy blue      	Healthy
+Myrilla   	3	F	warm purple         	Healthy
+Pavel     	3	M	dark navy blue      	Healthy
+Katusha   	3	F	warm purple         	Healthy
+Lindsay   	2	M	warm purple         	Healthy
+Elijah    	2	M	dark navy blue      	Healthy
+Trescha   	2	F	warm purple         	Healthy
+Skyler    	2	M	dark navy blue      	Healthy
+Brita     	1	F	warm purple         	Healthy
+Kinnie    	1	M	dark navy blue      	Healthy
+Quinn     	1	F	warm purple         	Healthy
+Kate      	1	F	dark navy blue      	Healthy
+Gretna    	1	F	warm purple         	Healthy
+Josy      	1	F	warm purple         	Healthy
+Darline   	0	F	warm purple         	Healthy
+Chester   	0	M	dark navy blue      	Healthy
+Abby      	0	M	warm purple         	Healthy
+Minnie    	0	F	dark navy blue      	Healthy
+Rozelle   	0	F	warm purple         	Healthy
+Dulcine   	0	F	warm purple         	Healthy
+Angelica  	0	F	warm purple         	Healthy
+------------------------------------------------------------------------
+Isidoro   	8	M	purplish grey       	Healthy
+Quinlan   	8	M	fern green          	Healthy
+Matty     	8	F	dark blue           	Radioactive
+Jacky     	8	F	warm purple         	Healthy
+Filide    	8	F	dark navy blue      	Healthy
+Kellia    	6	F	warm purple         	Healthy
+Leicester 	6	M	dark navy blue      	Healthy
+Inness    	5	M	warm purple         	Healthy
+Kacey     	5	F	dark navy blue      	Healthy
+Myrilla   	4	F	warm purple         	Healthy
+Pavel     	4	M	dark navy blue      	Healthy
+Katusha   	4	F	warm purple         	Healthy
+Lindsay   	3	M	warm purple         	Healthy
+Elijah    	3	M	dark navy blue      	Healthy
+Trescha   	3	F	warm purple         	Healthy
+Skyler    	3	M	dark navy blue      	Healthy
+Brita     	2	F	warm purple         	Healthy
+Kinnie    	2	M	dark navy blue      	Healthy
+Quinn     	2	F	warm purple         	Healthy
+Kate      	2	F	dark navy blue      	Healthy
+Gretna    	2	F	warm purple         	Healthy
+Josy      	2	F	warm purple         	Healthy
+Darline   	1	F	warm purple         	Healthy
+Chester   	1	M	dark navy blue      	Healthy
+Abby      	1	M	warm purple         	Healthy
+Minnie    	1	F	dark navy blue      	Healthy
+Rozelle   	1	F	warm purple         	Healthy
+Dulcine   	1	F	warm purple         	Healthy
+Angelica  	1	F	warm purple         	Healthy
+Dedra     	0	F	warm purple         	Healthy
+Gasparo   	0	M	dark navy blue      	Healthy
+Danika    	0	F	warm purple         	Healthy
+Amby      	0	M	dark navy blue      	Healthy
+Belinda   	0	F	warm purple         	Healthy
+Vivianna  	0	F	warm purple         	Healthy
+Collette  	0	F	warm purple         	Healthy
+Georgine  	0	F	warm purple         	Healthy
+Rebekkah  	0	F	warm purple         	Healthy
+Delano    	0	M	dark navy blue      	Healthy
+Kizzie    	0	F	warm purple         	Healthy
+Meryl     	0	F	warm purple         	Healthy
+------------------------------------------------------------------------
+Isidoro   	9	M	purplish grey       	Healthy
+Quinlan   	9	M	fern green          	Healthy
+Matty     	9	F	dark blue           	Radioactive
+Jacky     	9	F	warm purple         	Healthy
+Filide    	9	F	dark navy blue      	Healthy
+Kellia    	7	F	warm purple         	Healthy
+Leicester 	7	M	dark navy blue      	Healthy
+Inness    	6	M	warm purple         	Healthy
+Kacey     	6	F	dark navy blue      	Healthy
+Myrilla   	5	F	warm purple         	Healthy
+Pavel     	5	M	dark navy blue      	Healthy
+Katusha   	5	F	warm purple         	Healthy
+Lindsay   	4	M	warm purple         	Healthy
+Elijah    	4	M	dark navy blue      	Healthy
+Trescha   	4	F	warm purple         	Healthy
+Skyler    	4	M	dark navy blue      	Healthy
+Brita     	3	F	warm purple         	Healthy
+Kinnie    	3	M	dark navy blue      	Healthy
+Quinn     	3	F	warm purple         	Healthy
+Kate      	3	F	dark navy blue      	Healthy
+Gretna    	3	F	warm purple         	Healthy
+Josy      	3	F	warm purple         	Healthy
+Darline   	2	F	warm purple         	Healthy
+Chester   	2	M	dark navy blue      	Healthy
+Abby      	2	M	warm purple         	Healthy
+Minnie    	2	F	dark navy blue      	Healthy
+Rozelle   	2	F	warm purple         	Healthy
+Dulcine   	2	F	warm purple         	Healthy
+Angelica  	2	F	warm purple         	Healthy
+Dedra     	1	F	warm purple         	Healthy
+Gasparo   	1	M	dark navy blue      	Healthy
+Danika    	1	F	warm purple         	Healthy
+Amby      	1	M	dark navy blue      	Healthy
+Belinda   	1	F	warm purple         	Healthy
+Vivianna  	1	F	warm purple         	Healthy
+Collette  	1	F	warm purple         	Healthy
+Georgine  	1	F	warm purple         	Healthy
+Rebekkah  	1	F	warm purple         	Healthy
+Delano    	1	M	dark navy blue      	Healthy
+Kizzie    	1	F	warm purple         	Healthy
+Meryl     	1	F	warm purple         	Healthy
+Bobbee    	0	F	warm purple         	Healthy
+Francine  	0	F	dark navy blue      	Healthy
+Grantham  	0	M	warm purple         	Healthy
+Debi      	0	F	dark navy blue      	Healthy
+Millisent 	0	F	warm purple         	Healthy
+Shelley   	0	F	warm purple         	Healthy
+Hedy      	0	F	warm purple         	Healthy
+Sinclair  	0	M	warm purple         	Healthy
+Jarret    	0	M	warm purple         	Healthy
+Mallissa  	0	F	dark navy blue      	Healthy
+Carmine   	0	F	warm purple         	Healthy
+Anstice   	0	F	warm purple         	Healthy
+Tildy     	0	F	warm purple         	Healthy
+Annabelle 	0	F	dark navy blue      	Healthy
+Linette   	0	F	warm purple         	Healthy
+Sallyanne 	0	F	warm purple         	Healthy
+Drucie    	0	F	warm purple         	Healthy
+------------------------------------------------------------------------
+Isidoro   	10	M	purplish grey       	Healthy
+Quinlan   	10	M	fern green          	Healthy
+Matty     	10	F	dark blue           	Radioactive
+Jacky     	10	F	warm purple         	Healthy
+Filide    	10	F	dark navy blue      	Healthy
+Kellia    	8	F	warm purple         	Healthy
+Leicester 	8	M	dark navy blue      	Healthy
+Inness    	7	M	warm purple         	Healthy
+Kacey     	7	F	dark navy blue      	Healthy
+Myrilla   	6	F	warm purple         	Healthy
+Pavel     	6	M	dark navy blue      	Healthy
+Katusha   	6	F	warm purple         	Healthy
+Lindsay   	5	M	warm purple         	Healthy
+Elijah    	5	M	dark navy blue      	Healthy
+Trescha   	5	F	warm purple         	Healthy
+Skyler    	5	M	dark navy blue      	Healthy
+Brita     	4	F	warm purple         	Healthy
+Kinnie    	4	M	dark navy blue      	Healthy
+Quinn     	4	F	warm purple         	Healthy
+Kate      	4	F	dark navy blue      	Healthy
+Gretna    	4	F	warm purple         	Healthy
+Josy      	4	F	warm purple         	Healthy
+Darline   	3	F	warm purple         	Healthy
+Chester   	3	M	dark navy blue      	Healthy
+Abby      	3	M	warm purple         	Healthy
+Minnie    	3	F	dark navy blue      	Healthy
+Rozelle   	3	F	warm purple         	Healthy
+Dulcine   	3	F	warm purple         	Healthy
+Angelica  	3	F	warm purple         	Healthy
+Dedra     	2	F	warm purple         	Healthy
+Gasparo   	2	M	dark navy blue      	Healthy
+Danika    	2	F	warm purple         	Healthy
+Amby      	2	M	dark navy blue      	Healthy
+Belinda   	2	F	warm purple         	Healthy
+Vivianna  	2	F	warm purple         	Healthy
+Collette  	2	F	warm purple         	Healthy
+Georgine  	2	F	warm purple         	Healthy
+Rebekkah  	2	F	warm purple         	Healthy
+Delano    	2	M	dark navy blue      	Healthy
+Kizzie    	2	F	warm purple         	Healthy
+Meryl     	2	F	warm purple         	Healthy
+Bobbee    	1	F	warm purple         	Healthy
+Francine  	1	F	dark navy blue      	Healthy
+Grantham  	1	M	warm purple         	Healthy
+Debi      	1	F	dark navy blue      	Healthy
+Millisent 	1	F	warm purple         	Healthy
+Shelley   	1	F	warm purple         	Healthy
+Hedy      	1	F	warm purple         	Healthy
+Sinclair  	1	M	warm purple         	Healthy
+Jarret    	1	M	warm purple         	Healthy
+Mallissa  	1	F	dark navy blue      	Healthy
+Carmine   	1	F	warm purple         	Healthy
+Anstice   	1	F	warm purple         	Healthy
+Tildy     	1	F	warm purple         	Healthy
+Annabelle 	1	F	dark navy blue      	Healthy
+Linette   	1	F	warm purple         	Healthy
+Sallyanne 	1	F	warm purple         	Healthy
+Drucie    	1	F	warm purple         	Healthy
+Kean      	0	M	warm purple         	Healthy
+Veronika  	0	F	dark navy blue      	Healthy
+Lynelle   	0	F	warm purple         	Healthy
+Shandie   	0	F	dark navy blue      	Healthy
+Lisbeth   	0	F	warm purple         	Healthy
+Alonso    	0	M	warm purple         	Healthy
+Barney    	0	M	warm purple         	Healthy
+Velma     	0	F	warm purple         	Healthy
+Fredericka	0	F	warm purple         	Healthy
+Gussie    	0	F	dark navy blue      	Healthy
+Christalle	0	F	warm purple         	Healthy
+Minette   	0	F	warm purple         	Healthy
+Courtney  	0	F	warm purple         	Healthy
+Kassey    	0	F	dark navy blue      	Healthy
+Jaimie    	0	M	warm purple         	Healthy
+Andonis   	0	M	warm purple         	Healthy
+Arch      	0	M	warm purple         	Radioactive
+Lesley    	0	M	warm purple         	Healthy
+Lenette   	0	F	warm purple         	Healthy
+Kingston  	0	M	warm purple         	Healthy
+Dom       	0	M	warm purple         	Healthy
+Mirabella 	0	F	warm purple         	Healthy
+Robert    	0	M	warm purple         	Healthy
+Analise   	0	F	warm purple         	Healthy
+Chilton   	0	M	warm purple         	Healthy
+------------------------------------------------------------------------
+Kellia    	9	F	warm purple         	Healthy
+Leicester 	9	M	dark navy blue      	Healthy
+Inness    	8	M	warm purple         	Healthy
+Kacey     	8	F	dark navy blue      	Healthy
+Myrilla   	7	F	warm purple         	Healthy
+Pavel     	7	M	dark navy blue      	Healthy
+Katusha   	7	F	warm purple         	Healthy
+Lindsay   	6	M	warm purple         	Healthy
+Elijah    	6	M	dark navy blue      	Healthy
+Trescha   	6	F	warm purple         	Healthy
+Skyler    	6	M	dark navy blue      	Healthy
+Brita     	5	F	warm purple         	Healthy
+Kinnie    	5	M	dark navy blue      	Healthy
+Quinn     	5	F	warm purple         	Healthy
+Kate      	5	F	dark navy blue      	Healthy
+Gretna    	5	F	warm purple         	Healthy
+Josy      	5	F	warm purple         	Healthy
+Darline   	4	F	warm purple         	Healthy
+Chester   	4	M	dark navy blue      	Healthy
+Abby      	4	M	warm purple         	Healthy
+Minnie    	4	F	dark navy blue      	Healthy
+Rozelle   	4	F	warm purple         	Healthy
+Dulcine   	4	F	warm purple         	Healthy
+Angelica  	4	F	warm purple         	Healthy
+Dedra     	3	F	warm purple         	Healthy
+Gasparo   	3	M	dark navy blue      	Healthy
+Danika    	3	F	warm purple         	Radioactive
+Amby      	3	M	dark navy blue      	Healthy
+Belinda   	3	F	warm purple         	Healthy
+Vivianna  	3	F	warm purple         	Healthy
+Collette  	3	F	warm purple         	Healthy
+Georgine  	3	F	warm purple         	Healthy
+Rebekkah  	3	F	warm purple         	Healthy
+Delano    	3	M	dark navy blue      	Healthy
+Kizzie    	3	F	warm purple         	Healthy
+Meryl     	3	F	warm purple         	Healthy
+Bobbee    	2	F	warm purple         	Healthy
+Francine  	2	F	dark navy blue      	Healthy
+Grantham  	2	M	warm purple         	Healthy
+Debi      	2	F	dark navy blue      	Healthy
+Millisent 	2	F	warm purple         	Healthy
+Shelley   	2	F	warm purple         	Healthy
+Hedy      	2	F	warm purple         	Healthy
+Sinclair  	2	M	warm purple         	Healthy
+Jarret    	2	M	warm purple         	Healthy
+Mallissa  	2	F	dark navy blue      	Healthy
+Carmine   	2	F	warm purple         	Healthy
+Anstice   	2	F	warm purple         	Healthy
+Tildy     	2	F	warm purple         	Healthy
+Annabelle 	2	F	dark navy blue      	Healthy
+Linette   	2	F	warm purple         	Healthy
+Sallyanne 	2	F	warm purple         	Healthy
+Drucie    	2	F	warm purple         	Healthy
+Kean      	1	M	warm purple         	Healthy
+Veronika  	1	F	dark navy blue      	Healthy
+Lynelle   	1	F	warm purple         	Healthy
+Shandie   	1	F	dark navy blue      	Healthy
+Lisbeth   	1	F	warm purple         	Healthy
+Alonso    	1	M	warm purple         	Healthy
+Barney    	1	M	warm purple         	Healthy
+Velma     	1	F	warm purple         	Healthy
+Fredericka	1	F	warm purple         	Healthy
+Gussie    	1	F	dark navy blue      	Healthy
+Christalle	1	F	warm purple         	Healthy
+Minette   	1	F	warm purple         	Healthy
+Courtney  	1	F	warm purple         	Healthy
+Kassey    	1	F	dark navy blue      	Healthy
+Jaimie    	1	M	warm purple         	Healthy
+Andonis   	1	M	warm purple         	Healthy
+Arch      	1	M	warm purple         	Radioactive
+Lesley    	1	M	warm purple         	Healthy
+Lenette   	1	F	warm purple         	Healthy
+Kingston  	1	M	warm purple         	Healthy
+Dom       	1	M	warm purple         	Healthy
+Mirabella 	1	F	warm purple         	Healthy
+Robert    	1	M	warm purple         	Healthy
+Analise   	1	F	warm purple         	Healthy
+Chilton   	1	M	warm purple         	Healthy
+Michell   	0	F	dark navy blue      	Healthy
+Salli     	0	F	warm purple         	Healthy
+Carlo     	0	M	warm purple         	Healthy
+Benedicto 	0	M	warm purple         	Healthy
+Hewie     	0	M	warm purple         	Healthy
+Decca     	0	M	dark navy blue      	Healthy
+Gib       	0	M	warm purple         	Healthy
+Antone    	0	M	warm purple         	Healthy
+Gannie    	0	M	dark navy blue      	Healthy
+Chrystel  	0	F	warm purple         	Healthy
+Ferdinanda	0	F	warm purple         	Radioactive
+Zebedee   	0	M	warm purple         	Healthy
+Caritta   	0	F	warm purple         	Healthy
+Terence   	0	M	warm purple         	Healthy
+Siward    	0	M	warm purple         	Healthy
+Aloysius  	0	M	warm purple         	Healthy
+Lucian    	0	M	warm purple         	Healthy
+Lane      	0	F	warm purple         	Healthy
+Roselia   	0	F	warm purple         	Healthy
+Renie     	0	F	dark navy blue      	Healthy
+Dominik   	0	M	dark navy blue      	Healthy
+Harv      	0	M	warm purple         	Healthy
+Ilsa      	0	F	warm purple         	Healthy
+Park      	0	M	dark navy blue      	Healthy
+Waldemar  	0	M	warm purple         	Healthy
+Aubert    	0	M	warm purple         	Healthy
+Nathanil  	0	M	dark navy blue      	Healthy
+Karola    	0	F	warm purple         	Healthy
+Helaine   	0	F	warm purple         	Healthy
+Yorgo     	0	M	warm purple         	Healthy
+------------------------------------------------------------------------
+Kellia    	10	F	warm purple         	Healthy
+Leicester 	10	M	dark navy blue      	Healthy
+Inness    	9	M	warm purple         	Healthy
+Kacey     	9	F	dark navy blue      	Healthy
+Myrilla   	8	F	warm purple         	Healthy
+Pavel     	8	M	dark navy blue      	Healthy
+Katusha   	8	F	warm purple         	Healthy
+Lindsay   	7	M	warm purple         	Healthy
+Elijah    	7	M	dark navy blue      	Healthy
+Trescha   	7	F	warm purple         	Healthy
+Skyler    	7	M	dark navy blue      	Healthy
+Brita     	6	F	warm purple         	Healthy
+Kinnie    	6	M	dark navy blue      	Healthy
+Quinn     	6	F	warm purple         	Healthy
+Kate      	6	F	dark navy blue      	Healthy
+Gretna    	6	F	warm purple         	Radioactive
+Josy      	6	F	warm purple         	Healthy
+Darline   	5	F	warm purple         	Healthy
+Chester   	5	M	dark navy blue      	Healthy
+Abby      	5	M	warm purple         	Healthy
+Minnie    	5	F	dark navy blue      	Healthy
+Rozelle   	5	F	warm purple         	Healthy
+Dulcine   	5	F	warm purple         	Healthy
+Angelica  	5	F	warm purple         	Healthy
+Dedra     	4	F	warm purple         	Healthy
+Gasparo   	4	M	dark navy blue      	Healthy
+Danika    	4	F	warm purple         	Radioactive
+Amby      	4	M	dark navy blue      	Healthy
+Belinda   	4	F	warm purple         	Healthy
+Vivianna  	4	F	warm purple         	Healthy
+Collette  	4	F	warm purple         	Healthy
+Georgine  	4	F	warm purple         	Healthy
+Rebekkah  	4	F	warm purple         	Radioactive
+Delano    	4	M	dark navy blue      	Healthy
+Kizzie    	4	F	warm purple         	Healthy
+Meryl     	4	F	warm purple         	Healthy
+Bobbee    	3	F	warm purple         	Healthy
+Francine  	3	F	dark navy blue      	Healthy
+Grantham  	3	M	warm purple         	Healthy
+Debi      	3	F	dark navy blue      	Healthy
+Millisent 	3	F	warm purple         	Healthy
+Shelley   	3	F	warm purple         	Healthy
+Hedy      	3	F	warm purple         	Healthy
+Sinclair  	3	M	warm purple         	Healthy
+Jarret    	3	M	warm purple         	Radioactive
+Mallissa  	3	F	dark navy blue      	Healthy
+Carmine   	3	F	warm purple         	Healthy
+Anstice   	3	F	warm purple         	Healthy
+Tildy     	3	F	warm purple         	Healthy
+Annabelle 	3	F	dark navy blue      	Healthy
+Linette   	3	F	warm purple         	Healthy
+Sallyanne 	3	F	warm purple         	Healthy
+Drucie    	3	F	warm purple         	Healthy
+Kean      	2	M	warm purple         	Healthy
+Veronika  	2	F	dark navy blue      	Healthy
+Lynelle   	2	F	warm purple         	Healthy
+Shandie   	2	F	dark navy blue      	Healthy
+Lisbeth   	2	F	warm purple         	Healthy
+Alonso    	2	M	warm purple         	Healthy
+Barney    	2	M	warm purple         	Healthy
+Velma     	2	F	warm purple         	Healthy
+Fredericka	2	F	warm purple         	Healthy
+Gussie    	2	F	dark navy blue      	Healthy
+Christalle	2	F	warm purple         	Healthy
+Minette   	2	F	warm purple         	Healthy
+Courtney  	2	F	warm purple         	Healthy
+Kassey    	2	F	dark navy blue      	Healthy
+Jaimie    	2	M	warm purple         	Healthy
+Andonis   	2	M	warm purple         	Healthy
+Arch      	2	M	warm purple         	Radioactive
+Lesley    	2	M	warm purple         	Healthy
+Lenette   	2	F	warm purple         	Healthy
+Kingston  	2	M	warm purple         	Healthy
+Dom       	2	M	warm purple         	Healthy
+Mirabella 	2	F	warm purple         	Healthy
+Robert    	2	M	warm purple         	Healthy
+Analise   	2	F	warm purple         	Healthy
+Chilton   	2	M	warm purple         	Healthy
+Michell   	1	F	dark navy blue      	Healthy
+Salli     	1	F	warm purple         	Healthy
+Carlo     	1	M	warm purple         	Healthy
+Benedicto 	1	M	warm purple         	Healthy
+Hewie     	1	M	warm purple         	Healthy
+Decca     	1	M	dark navy blue      	Healthy
+Gib       	1	M	warm purple         	Healthy
+Antone    	1	M	warm purple         	Healthy
+Gannie    	1	M	dark navy blue      	Healthy
+Chrystel  	1	F	warm purple         	Healthy
+Ferdinanda	1	F	warm purple         	Radioactive
+Zebedee   	1	M	warm purple         	Healthy
+Caritta   	1	F	warm purple         	Healthy
+Terence   	1	M	warm purple         	Healthy
+Siward    	1	M	warm purple         	Healthy
+Aloysius  	1	M	warm purple         	Healthy
+Lucian    	1	M	warm purple         	Healthy
+Lane      	1	F	warm purple         	Healthy
+Roselia   	1	F	warm purple         	Healthy
+Renie     	1	F	dark navy blue      	Healthy
+Dominik   	1	M	dark navy blue      	Healthy
+Harv      	1	M	warm purple         	Healthy
+Ilsa      	1	F	warm purple         	Healthy
+Park      	1	M	dark navy blue      	Healthy
+Waldemar  	1	M	warm purple         	Healthy
+Aubert    	1	M	warm purple         	Healthy
+Nathanil  	1	M	dark navy blue      	Healthy
+Karola    	1	F	warm purple         	Healthy
+Helaine   	1	F	warm purple         	Healthy
+Yorgo     	1	M	warm purple         	Healthy
+Robina    	0	F	warm purple         	Healthy
+Raimund   	0	M	dark navy blue      	Healthy
+Conrade   	0	M	warm purple         	Healthy
+Rollin    	0	M	warm purple         	Healthy
+Lyman     	0	M	warm purple         	Healthy
+Joellen   	0	F	dark navy blue      	Healthy
+Braden    	0	M	warm purple         	Healthy
+Ammamaria 	0	F	warm purple         	Healthy
+Zebulon   	0	M	dark navy blue      	Healthy
+Carter    	0	M	warm purple         	Healthy
+Kiah      	0	F	warm purple         	Healthy
+Josiah    	0	M	warm purple         	Healthy
+Electra   	0	F	warm purple         	Healthy
+Alex      	0	M	warm purple         	Healthy
+Lolita    	0	F	warm purple         	Healthy
+Wilton    	0	M	warm purple         	Healthy
+Teddie    	0	F	dark navy blue      	Healthy
+Gabriel   	0	M	dark navy blue      	Healthy
+Harmonia  	0	F	warm purple         	Healthy
+Quinton   	0	M	warm purple         	Healthy
+Casper    	0	M	dark navy blue      	Healthy
+Dael      	0	F	warm purple         	Healthy
+Halsey    	0	M	dark navy blue      	Healthy
+Mart      	0	M	warm purple         	Healthy
+Brandi    	0	F	warm purple         	Healthy
+Josee     	0	F	warm purple         	Healthy
+Elvina    	0	F	dark navy blue      	Healthy
+Wolfie    	0	M	dark navy blue      	Healthy
+Mathilda  	0	F	warm purple         	Healthy
+Brigham   	0	M	dark navy blue      	Healthy
+Abie      	0	M	warm purple         	Radioactive
+Kristen   	0	F	warm purple         	Healthy
+Harmonie  	0	F	warm purple         	Healthy
+Luciana   	0	F	dark navy blue      	Healthy
+------------------------------------------------------------------------
+Inness    	10	M	warm purple         	Healthy
+Kacey     	10	F	dark navy blue      	Healthy
+Myrilla   	9	F	warm purple         	Healthy
+Pavel     	9	M	dark navy blue      	Healthy
+Katusha   	9	F	warm purple         	Healthy
+Lindsay   	8	M	warm purple         	Healthy
+Elijah    	8	M	dark navy blue      	Healthy
+Trescha   	8	F	warm purple         	Healthy
+Skyler    	8	M	dark navy blue      	Healthy
+Brita     	7	F	warm purple         	Healthy
+Kinnie    	7	M	dark navy blue      	Healthy
+Quinn     	7	F	warm purple         	Healthy
+Kate      	7	F	dark navy blue      	Healthy
+Gretna    	7	F	warm purple         	Radioactive
+Josy      	7	F	warm purple         	Healthy
+Darline   	6	F	warm purple         	Healthy
+Chester   	6	M	dark navy blue      	Healthy
+Abby      	6	M	warm purple         	Radioactive
+Minnie    	6	F	dark navy blue      	Healthy
+Rozelle   	6	F	warm purple         	Healthy
+Dulcine   	6	F	warm purple         	Healthy
+Angelica  	6	F	warm purple         	Radioactive
+Dedra     	5	F	warm purple         	Healthy
+Gasparo   	5	M	dark navy blue      	Healthy
+Danika    	5	F	warm purple         	Radioactive
+Amby      	5	M	dark navy blue      	Healthy
+Belinda   	5	F	warm purple         	Healthy
+Vivianna  	5	F	warm purple         	Radioactive
+Collette  	5	F	warm purple         	Radioactive
+Georgine  	5	F	warm purple         	Healthy
+Rebekkah  	5	F	warm purple         	Radioactive
+Delano    	5	M	dark navy blue      	Healthy
+Kizzie    	5	F	warm purple         	Healthy
+Meryl     	5	F	warm purple         	Healthy
+Bobbee    	4	F	warm purple         	Healthy
+Francine  	4	F	dark navy blue      	Healthy
+Grantham  	4	M	warm purple         	Radioactive
+Debi      	4	F	dark navy blue      	Healthy
+Millisent 	4	F	warm purple         	Healthy
+Shelley   	4	F	warm purple         	Healthy
+Hedy      	4	F	warm purple         	Radioactive
+Sinclair  	4	M	warm purple         	Healthy
+Jarret    	4	M	warm purple         	Radioactive
+Mallissa  	4	F	dark navy blue      	Healthy
+Carmine   	4	F	warm purple         	Healthy
+Anstice   	4	F	warm purple         	Healthy
+Tildy     	4	F	warm purple         	Healthy
+Annabelle 	4	F	dark navy blue      	Healthy
+Linette   	4	F	warm purple         	Healthy
+Sallyanne 	4	F	warm purple         	Healthy
+Drucie    	4	F	warm purple         	Healthy
+Kean      	3	M	warm purple         	Healthy
+Veronika  	3	F	dark navy blue      	Healthy
+Lynelle   	3	F	warm purple         	Healthy
+Shandie   	3	F	dark navy blue      	Healthy
+Lisbeth   	3	F	warm purple         	Healthy
+Alonso    	3	M	warm purple         	Healthy
+Barney    	3	M	warm purple         	Healthy
+Velma     	3	F	warm purple         	Healthy
+Fredericka	3	F	warm purple         	Healthy
+Gussie    	3	F	dark navy blue      	Healthy
+Christalle	3	F	warm purple         	Healthy
+Minette   	3	F	warm purple         	Healthy
+Courtney  	3	F	warm purple         	Healthy
+Kassey    	3	F	dark navy blue      	Healthy
+Jaimie    	3	M	warm purple         	Healthy
+Andonis   	3	M	warm purple         	Healthy
+Arch      	3	M	warm purple         	Radioactive
+Lesley    	3	M	warm purple         	Radioactive
+Lenette   	3	F	warm purple         	Radioactive
+Kingston  	3	M	warm purple         	Healthy
+Dom       	3	M	warm purple         	Radioactive
+Mirabella 	3	F	warm purple         	Healthy
+Robert    	3	M	warm purple         	Radioactive
+Analise   	3	F	warm purple         	Healthy
+Chilton   	3	M	warm purple         	Healthy
+Michell   	2	F	dark navy blue      	Healthy
+Salli     	2	F	warm purple         	Healthy
+Carlo     	2	M	warm purple         	Healthy
+Benedicto 	2	M	warm purple         	Radioactive
+Hewie     	2	M	warm purple         	Healthy
+Decca     	2	M	dark navy blue      	Healthy
+Gib       	2	M	warm purple         	Healthy
+Antone    	2	M	warm purple         	Healthy
+Gannie    	2	M	dark navy blue      	Healthy
+Chrystel  	2	F	warm purple         	Healthy
+Ferdinanda	2	F	warm purple         	Radioactive
+Zebedee   	2	M	warm purple         	Radioactive
+Caritta   	2	F	warm purple         	Healthy
+Terence   	2	M	warm purple         	Healthy
+Siward    	2	M	warm purple         	Healthy
+Aloysius  	2	M	warm purple         	Healthy
+Lucian    	2	M	warm purple         	Healthy
+Lane      	2	F	warm purple         	Healthy
+Roselia   	2	F	warm purple         	Healthy
+Renie     	2	F	dark navy blue      	Healthy
+Dominik   	2	M	dark navy blue      	Healthy
+Harv      	2	M	warm purple         	Radioactive
+Ilsa      	2	F	warm purple         	Healthy
+Park      	2	M	dark navy blue      	Healthy
+Waldemar  	2	M	warm purple         	Healthy
+Aubert    	2	M	warm purple         	Healthy
+Nathanil  	2	M	dark navy blue      	Healthy
+Karola    	2	F	warm purple         	Healthy
+Helaine   	2	F	warm purple         	Healthy
+Yorgo     	2	M	warm purple         	Radioactive
+Robina    	1	F	warm purple         	Radioactive
+Raimund   	1	M	dark navy blue      	Healthy
+Conrade   	1	M	warm purple         	Healthy
+Rollin    	1	M	warm purple         	Healthy
+Lyman     	1	M	warm purple         	Healthy
+Joellen   	1	F	dark navy blue      	Healthy
+Braden    	1	M	warm purple         	Healthy
+Ammamaria 	1	F	warm purple         	Healthy
+Zebulon   	1	M	dark navy blue      	Healthy
+Carter    	1	M	warm purple         	Healthy
+Kiah      	1	F	warm purple         	Healthy
+Josiah    	1	M	warm purple         	Healthy
+Electra   	1	F	warm purple         	Healthy
+Alex      	1	M	warm purple         	Healthy
+Lolita    	1	F	warm purple         	Healthy
+Wilton    	1	M	warm purple         	Healthy
+Teddie    	1	F	dark navy blue      	Healthy
+Gabriel   	1	M	dark navy blue      	Healthy
+Harmonia  	1	F	warm purple         	Healthy
+Quinton   	1	M	warm purple         	Healthy
+Casper    	1	M	dark navy blue      	Healthy
+Dael      	1	F	warm purple         	Healthy
+Halsey    	1	M	dark navy blue      	Healthy
+Mart      	1	M	warm purple         	Healthy
+Brandi    	1	F	warm purple         	Healthy
+Josee     	1	F	warm purple         	Healthy
+Elvina    	1	F	dark navy blue      	Healthy
+Wolfie    	1	M	dark navy blue      	Healthy
+Mathilda  	1	F	warm purple         	Healthy
+Brigham   	1	M	dark navy blue      	Healthy
+Abie      	1	M	warm purple         	Radioactive
+Kristen   	1	F	warm purple         	Healthy
+Harmonie  	1	F	warm purple         	Healthy
+Luciana   	1	F	dark navy blue      	Healthy
+Edyth     	0	F	dark navy blue      	Healthy
+Devon     	0	F	warm purple         	Healthy
+Frans     	0	M	warm purple         	Healthy
+Taddeusz  	0	M	warm purple         	Healthy
+Michele   	0	M	warm purple         	Healthy
+Kevon     	0	M	dark navy blue      	Healthy
+Sharai    	0	F	warm purple         	Healthy
+Drucill   	0	F	warm purple         	Healthy
+Durant    	0	M	warm purple         	Healthy
+Tanhya    	0	F	warm purple         	Healthy
+Candi     	0	F	warm purple         	Radioactive
+Jessica   	0	F	warm purple         	Healthy
+Georges   	0	M	warm purple         	Healthy
+Archibald 	0	M	dark navy blue      	Healthy
+Zandra    	0	F	dark navy blue      	Healthy
+Ibbie     	0	F	warm purple         	Healthy
+Shannan   	0	M	warm purple         	Healthy
+Oralee    	0	F	dark navy blue      	Healthy
+Sarajane  	0	F	warm purple         	Healthy
+Grayce    	0	F	warm purple         	Healthy
+Tabbitha  	0	F	warm purple         	Healthy
+Rriocard  	0	M	warm purple         	Healthy
+Irvin     	0	M	dark navy blue      	Healthy
+Rosalynd  	0	F	warm purple         	Healthy
+Ryan      	0	M	dark navy blue      	Healthy
+Keelia    	0	F	warm purple         	Healthy
+Gaby      	0	F	dark navy blue      	Healthy
+Sigismond 	0	M	warm purple         	Healthy
+Claudelle 	0	F	dark navy blue      	Radioactive
+Rose      	0	F	dark navy blue      	Healthy
+Phineas   	0	M	warm purple         	Healthy
+Earl      	0	M	warm purple         	Healthy
+Katey     	0	F	warm purple         	Healthy
+Reginald  	0	M	dark navy blue      	Healthy
+Davidde   	0	M	warm purple         	Healthy
+Katrine   	0	F	warm purple         	Healthy
+------------------------------------------------------------------------
+Myrilla   	10	F	warm purple         	Healthy
+Pavel     	10	M	dark navy blue      	Healthy
+Katusha   	10	F	warm purple         	Healthy
+Lindsay   	9	M	warm purple         	Radioactive
+Elijah    	9	M	dark navy blue      	Healthy
+Trescha   	9	F	warm purple         	Radioactive
+Skyler    	9	M	dark navy blue      	Healthy
+Brita     	8	F	warm purple         	Healthy
+Kinnie    	8	M	dark navy blue      	Healthy
+Quinn     	8	F	warm purple         	Radioactive
+Kate      	8	F	dark navy blue      	Healthy
+Gretna    	8	F	warm purple         	Radioactive
+Josy      	8	F	warm purple         	Healthy
+Darline   	7	F	warm purple         	Healthy
+Chester   	7	M	dark navy blue      	Healthy
+Abby      	7	M	warm purple         	Radioactive
+Minnie    	7	F	dark navy blue      	Healthy
+Rozelle   	7	F	warm purple         	Healthy
+Dulcine   	7	F	warm purple         	Radioactive
+Angelica  	7	F	warm purple         	Radioactive
+Dedra     	6	F	warm purple         	Healthy
+Gasparo   	6	M	dark navy blue      	Healthy
+Danika    	6	F	warm purple         	Radioactive
+Amby      	6	M	dark navy blue      	Healthy
+Belinda   	6	F	warm purple         	Radioactive
+Vivianna  	6	F	warm purple         	Radioactive
+Collette  	6	F	warm purple         	Radioactive
+Georgine  	6	F	warm purple         	Healthy
+Rebekkah  	6	F	warm purple         	Radioactive
+Delano    	6	M	dark navy blue      	Healthy
+Kizzie    	6	F	warm purple         	Healthy
+Meryl     	6	F	warm purple         	Healthy
+Bobbee    	5	F	warm purple         	Healthy
+Francine  	5	F	dark navy blue      	Healthy
+Grantham  	5	M	warm purple         	Radioactive
+Debi      	5	F	dark navy blue      	Healthy
+Millisent 	5	F	warm purple         	Healthy
+Shelley   	5	F	warm purple         	Healthy
+Hedy      	5	F	warm purple         	Radioactive
+Sinclair  	5	M	warm purple         	Healthy
+Jarret    	5	M	warm purple         	Radioactive
+Mallissa  	5	F	dark navy blue      	Healthy
+Carmine   	5	F	warm purple         	Radioactive
+Anstice   	5	F	warm purple         	Healthy
+Tildy     	5	F	warm purple         	Healthy
+Annabelle 	5	F	dark navy blue      	Healthy
+Linette   	5	F	warm purple         	Healthy
+Sallyanne 	5	F	warm purple         	Healthy
+Drucie    	5	F	warm purple         	Radioactive
+Kean      	4	M	warm purple         	Radioactive
+Veronika  	4	F	dark navy blue      	Healthy
+Lynelle   	4	F	warm purple         	Radioactive
+Shandie   	4	F	dark navy blue      	Healthy
+Lisbeth   	4	F	warm purple         	Radioactive
+Alonso    	4	M	warm purple         	Healthy
+Barney    	4	M	warm purple         	Healthy
+Velma     	4	F	warm purple         	Healthy
+Fredericka	4	F	warm purple         	Radioactive
+Gussie    	4	F	dark navy blue      	Healthy
+Christalle	4	F	warm purple         	Radioactive
+Minette   	4	F	warm purple         	Healthy
+Courtney  	4	F	warm purple         	Healthy
+Kassey    	4	F	dark navy blue      	Healthy
+Jaimie    	4	M	warm purple         	Healthy
+Andonis   	4	M	warm purple         	Radioactive
+Arch      	4	M	warm purple         	Radioactive
+Lesley    	4	M	warm purple         	Radioactive
+Lenette   	4	F	warm purple         	Radioactive
+Kingston  	4	M	warm purple         	Healthy
+Dom       	4	M	warm purple         	Radioactive
+Mirabella 	4	F	warm purple         	Radioactive
+Robert    	4	M	warm purple         	Radioactive
+Analise   	4	F	warm purple         	Radioactive
+Chilton   	4	M	warm purple         	Healthy
+Michell   	3	F	dark navy blue      	Healthy
+Salli     	3	F	warm purple         	Radioactive
+Carlo     	3	M	warm purple         	Healthy
+Benedicto 	3	M	warm purple         	Radioactive
+Hewie     	3	M	warm purple         	Healthy
+Decca     	3	M	dark navy blue      	Healthy
+Gib       	3	M	warm purple         	Healthy
+Antone    	3	M	warm purple         	Radioactive
+Gannie    	3	M	dark navy blue      	Healthy
+Chrystel  	3	F	warm purple         	Healthy
+Ferdinanda	3	F	warm purple         	Radioactive
+Zebedee   	3	M	warm purple         	Radioactive
+Caritta   	3	F	warm purple         	Radioactive
+Terence   	3	M	warm purple         	Radioactive
+Siward    	3	M	warm purple         	Radioactive
+Aloysius  	3	M	warm purple         	Healthy
+Lucian    	3	M	warm purple         	Healthy
+Lane      	3	F	warm purple         	Healthy
+Roselia   	3	F	warm purple         	Healthy
+Renie     	3	F	dark navy blue      	Healthy
+Dominik   	3	M	dark navy blue      	Healthy
+Harv      	3	M	warm purple         	Radioactive
+Ilsa      	3	F	warm purple         	Healthy
+Park      	3	M	dark navy blue      	Healthy
+Waldemar  	3	M	warm purple         	Healthy
+Aubert    	3	M	warm purple         	Healthy
+Nathanil  	3	M	dark navy blue      	Healthy
+Karola    	3	F	warm purple         	Healthy
+Helaine   	3	F	warm purple         	Healthy
+Yorgo     	3	M	warm purple         	Radioactive
+Robina    	2	F	warm purple         	Radioactive
+Raimund   	2	M	dark navy blue      	Healthy
+Conrade   	2	M	warm purple         	Healthy
+Rollin    	2	M	warm purple         	Healthy
+Lyman     	2	M	warm purple         	Healthy
+Joellen   	2	F	dark navy blue      	Healthy
+Braden    	2	M	warm purple         	Healthy
+Ammamaria 	2	F	warm purple         	Radioactive
+Zebulon   	2	M	dark navy blue      	Healthy
+Carter    	2	M	warm purple         	Healthy
+Kiah      	2	F	warm purple         	Healthy
+Josiah    	2	M	warm purple         	Healthy
+Electra   	2	F	warm purple         	Healthy
+Alex      	2	M	warm purple         	Healthy
+Lolita    	2	F	warm purple         	Radioactive
+Wilton    	2	M	warm purple         	Healthy
+Teddie    	2	F	dark navy blue      	Healthy
+Gabriel   	2	M	dark navy blue      	Healthy
+Harmonia  	2	F	warm purple         	Healthy
+Quinton   	2	M	warm purple         	Healthy
+Casper    	2	M	dark navy blue      	Healthy
+Dael      	2	F	warm purple         	Healthy
+Halsey    	2	M	dark navy blue      	Radioactive
+Mart      	2	M	warm purple         	Healthy
+Brandi    	2	F	warm purple         	Healthy
+Josee     	2	F	warm purple         	Radioactive
+Elvina    	2	F	dark navy blue      	Healthy
+Wolfie    	2	M	dark navy blue      	Healthy
+Mathilda  	2	F	warm purple         	Healthy
+Brigham   	2	M	dark navy blue      	Healthy
+Abie      	2	M	warm purple         	Radioactive
+Kristen   	2	F	warm purple         	Healthy
+Harmonie  	2	F	warm purple         	Healthy
+Luciana   	2	F	dark navy blue      	Healthy
+Edyth     	1	F	dark navy blue      	Healthy
+Devon     	1	F	warm purple         	Radioactive
+Frans     	1	M	warm purple         	Healthy
+Taddeusz  	1	M	warm purple         	Healthy
+Michele   	1	M	warm purple         	Radioactive
+Kevon     	1	M	dark navy blue      	Healthy
+Sharai    	1	F	warm purple         	Healthy
+Drucill   	1	F	warm purple         	Healthy
+Durant    	1	M	warm purple         	Healthy
+Tanhya    	1	F	warm purple         	Healthy
+Candi     	1	F	warm purple         	Radioactive
+Jessica   	1	F	warm purple         	Radioactive
+Georges   	1	M	warm purple         	Healthy
+Archibald 	1	M	dark navy blue      	Healthy
+Zandra    	1	F	dark navy blue      	Healthy
+Ibbie     	1	F	warm purple         	Healthy
+Shannan   	1	M	warm purple         	Healthy
+Oralee    	1	F	dark navy blue      	Healthy
+Sarajane  	1	F	warm purple         	Healthy
+Grayce    	1	F	warm purple         	Healthy
+Tabbitha  	1	F	warm purple         	Healthy
+Rriocard  	1	M	warm purple         	Radioactive
+Irvin     	1	M	dark navy blue      	Healthy
+Rosalynd  	1	F	warm purple         	Healthy
+Ryan      	1	M	dark navy blue      	Healthy
+Keelia    	1	F	warm purple         	Healthy
+Gaby      	1	F	dark navy blue      	Healthy
+Sigismond 	1	M	warm purple         	Healthy
+Claudelle 	1	F	dark navy blue      	Radioactive
+Rose      	1	F	dark navy blue      	Healthy
+Phineas   	1	M	warm purple         	Radioactive
+Earl      	1	M	warm purple         	Healthy
+Katey     	1	F	warm purple         	Healthy
+Reginald  	1	M	dark navy blue      	Healthy
+Davidde   	1	M	warm purple         	Healthy
+Katrine   	1	F	warm purple         	Healthy
+Charlean  	0	F	warm purple         	Healthy
+Waring    	0	M	warm purple         	Healthy
+Madelon   	0	F	dark navy blue      	Healthy
+Zonda     	0	F	warm purple         	Healthy
+Florella  	0	F	warm purple         	Healthy
+Jorey     	0	F	warm purple         	Radioactive
+Don       	0	M	warm purple         	Healthy
+Madelyn   	0	F	warm purple         	Healthy
+Dacie     	0	F	warm purple         	Healthy
+Beryle    	0	F	dark navy blue      	Healthy
+Donn      	0	M	dark navy blue      	Healthy
+Jillane   	0	F	warm purple         	Healthy
+Crissy    	0	F	warm purple         	Radioactive
+Colin     	0	M	dark navy blue      	Healthy
+Katrina   	0	F	warm purple         	Healthy
+Rutter    	0	M	warm purple         	Healthy
+Rosella   	0	F	dark navy blue      	Healthy
+Tad       	0	M	dark navy blue      	Healthy
+Dorise    	0	F	warm purple         	Healthy
+Shaun     	0	F	warm purple         	Healthy
+Ellary    	0	M	dark navy blue      	Healthy
+Gill      	0	M	dark navy blue      	Healthy
+Husain    	0	M	warm purple         	Healthy
+Mabel     	0	F	dark navy blue      	Healthy
+Lesly     	0	F	warm purple         	Healthy
+Buiron    	0	M	warm purple         	Healthy
+Rianon    	0	F	dark navy blue      	Healthy
+Jaquith   	0	F	warm purple         	Healthy
+Shurwood  	0	M	warm purple         	Healthy
+Thebault  	0	M	dark navy blue      	Healthy
+Adams     	0	M	warm purple         	Healthy
+Shaina    	0	F	warm purple         	Healthy
+Daren     	0	M	dark navy blue      	Healthy
+Candide   	0	F	warm purple         	Healthy
+------------------------------------------------------------------------
+Lindsay   	10	M	warm purple         	Radioactive
+Elijah    	10	M	dark navy blue      	Healthy
+Trescha   	10	F	warm purple         	Radioactive
+Skyler    	10	M	dark navy blue      	Healthy
+Brita     	9	F	warm purple         	Healthy
+Kinnie    	9	M	dark navy blue      	Healthy
+Quinn     	9	F	warm purple         	Radioactive
+Kate      	9	F	dark navy blue      	Healthy
+Gretna    	9	F	warm purple         	Radioactive
+Josy      	9	F	warm purple         	Healthy
+Darline   	8	F	warm purple         	Healthy
+Chester   	8	M	dark navy blue      	Healthy
+Abby      	8	M	warm purple         	Radioactive
+Minnie    	8	F	dark navy blue      	Radioactive
+Rozelle   	8	F	warm purple         	Healthy
+Dulcine   	8	F	warm purple         	Radioactive
+Angelica  	8	F	warm purple         	Radioactive
+Dedra     	7	F	warm purple         	Radioactive
+Gasparo   	7	M	dark navy blue      	Healthy
+Danika    	7	F	warm purple         	Radioactive
+Amby      	7	M	dark navy blue      	Healthy
+Belinda   	7	F	warm purple         	Radioactive
+Vivianna  	7	F	warm purple         	Radioactive
+Collette  	7	F	warm purple         	Radioactive
+Georgine  	7	F	warm purple         	Healthy
+Rebekkah  	7	F	warm purple         	Radioactive
+Delano    	7	M	dark navy blue      	Healthy
+Kizzie    	7	F	warm purple         	Healthy
+Meryl     	7	F	warm purple         	Radioactive
+Bobbee    	6	F	warm purple         	Healthy
+Francine  	6	F	dark navy blue      	Healthy
+Grantham  	6	M	warm purple         	Radioactive
+Debi      	6	F	dark navy blue      	Healthy
+Millisent 	6	F	warm purple         	Healthy
+Shelley   	6	F	warm purple         	Radioactive
+Hedy      	6	F	warm purple         	Radioactive
+Sinclair  	6	M	warm purple         	Radioactive
+Jarret    	6	M	warm purple         	Radioactive
+Mallissa  	6	F	dark navy blue      	Healthy
+Carmine   	6	F	warm purple         	Radioactive
+Anstice   	6	F	warm purple         	Healthy
+Tildy     	6	F	warm purple         	Healthy
+Annabelle 	6	F	dark navy blue      	Radioactive
+Linette   	6	F	warm purple         	Healthy
+Sallyanne 	6	F	warm purple         	Radioactive
+Drucie    	6	F	warm purple         	Radioactive
+Kean      	5	M	warm purple         	Radioactive
+Veronika  	5	F	dark navy blue      	Healthy
+Lynelle   	5	F	warm purple         	Radioactive
+Shandie   	5	F	dark navy blue      	Healthy
+Lisbeth   	5	F	warm purple         	Radioactive
+Alonso    	5	M	warm purple         	Radioactive
+Barney    	5	M	warm purple         	Radioactive
+Velma     	5	F	warm purple         	Healthy
+Fredericka	5	F	warm purple         	Radioactive
+Gussie    	5	F	dark navy blue      	Healthy
+Christalle	5	F	warm purple         	Radioactive
+Minette   	5	F	warm purple         	Healthy
+Courtney  	5	F	warm purple         	Healthy
+Kassey    	5	F	dark navy blue      	Healthy
+Jaimie    	5	M	warm purple         	Healthy
+Andonis   	5	M	warm purple         	Radioactive
+Arch      	5	M	warm purple         	Radioactive
+Lesley    	5	M	warm purple         	Radioactive
+Lenette   	5	F	warm purple         	Radioactive
+Kingston  	5	M	warm purple         	Radioactive
+Dom       	5	M	warm purple         	Radioactive
+Mirabella 	5	F	warm purple         	Radioactive
+Robert    	5	M	warm purple         	Radioactive
+Analise   	5	F	warm purple         	Radioactive
+Chilton   	5	M	warm purple         	Radioactive
+Michell   	4	F	dark navy blue      	Healthy
+Salli     	4	F	warm purple         	Radioactive
+Carlo     	4	M	warm purple         	Healthy
+Benedicto 	4	M	warm purple         	Radioactive
+Hewie     	4	M	warm purple         	Healthy
+Decca     	4	M	dark navy blue      	Healthy
+Gib       	4	M	warm purple         	Healthy
+Antone    	4	M	warm purple         	Radioactive
+Gannie    	4	M	dark navy blue      	Healthy
+Chrystel  	4	F	warm purple         	Healthy
+Ferdinanda	4	F	warm purple         	Radioactive
+Zebedee   	4	M	warm purple         	Radioactive
+Caritta   	4	F	warm purple         	Radioactive
+Terence   	4	M	warm purple         	Radioactive
+Siward    	4	M	warm purple         	Radioactive
+Aloysius  	4	M	warm purple         	Healthy
+Lucian    	4	M	warm purple         	Healthy
+Lane      	4	F	warm purple         	Radioactive
+Roselia   	4	F	warm purple         	Healthy
+Renie     	4	F	dark navy blue      	Healthy
+Dominik   	4	M	dark navy blue      	Healthy
+Harv      	4	M	warm purple         	Radioactive
+Ilsa      	4	F	warm purple         	Healthy
+Park      	4	M	dark navy blue      	Radioactive
+Waldemar  	4	M	warm purple         	Healthy
+Aubert    	4	M	warm purple         	Radioactive
+Nathanil  	4	M	dark navy blue      	Radioactive
+Karola    	4	F	warm purple         	Radioactive
+Helaine   	4	F	warm purple         	Healthy
+Yorgo     	4	M	warm purple         	Radioactive
+Robina    	3	F	warm purple         	Radioactive
+Raimund   	3	M	dark navy blue      	Healthy
+Conrade   	3	M	warm purple         	Healthy
+Rollin    	3	M	warm purple         	Radioactive
+Lyman     	3	M	warm purple         	Radioactive
+Joellen   	3	F	dark navy blue      	Healthy
+Braden    	3	M	warm purple         	Healthy
+Ammamaria 	3	F	warm purple         	Radioactive
+Zebulon   	3	M	dark navy blue      	Radioactive
+Carter    	3	M	warm purple         	Healthy
+Kiah      	3	F	warm purple         	Healthy
+Josiah    	3	M	warm purple         	Radioactive
+Electra   	3	F	warm purple         	Healthy
+Alex      	3	M	warm purple         	Healthy
+Lolita    	3	F	warm purple         	Radioactive
+Wilton    	3	M	warm purple         	Healthy
+Teddie    	3	F	dark navy blue      	Healthy
+Gabriel   	3	M	dark navy blue      	Healthy
+Harmonia  	3	F	warm purple         	Healthy
+Quinton   	3	M	warm purple         	Healthy
+Casper    	3	M	dark navy blue      	Healthy
+Dael      	3	F	warm purple         	Healthy
+Halsey    	3	M	dark navy blue      	Radioactive
+Mart      	3	M	warm purple         	Radioactive
+Brandi    	3	F	warm purple         	Healthy
+Josee     	3	F	warm purple         	Radioactive
+Elvina    	3	F	dark navy blue      	Healthy
+Wolfie    	3	M	dark navy blue      	Healthy
+Mathilda  	3	F	warm purple         	Healthy
+Brigham   	3	M	dark navy blue      	Healthy
+Abie      	3	M	warm purple         	Radioactive
+Kristen   	3	F	warm purple         	Healthy
+Harmonie  	3	F	warm purple         	Healthy
+Luciana   	3	F	dark navy blue      	Healthy
+Edyth     	2	F	dark navy blue      	Healthy
+Devon     	2	F	warm purple         	Radioactive
+Frans     	2	M	warm purple         	Healthy
+Taddeusz  	2	M	warm purple         	Radioactive
+Michele   	2	M	warm purple         	Radioactive
+Kevon     	2	M	dark navy blue      	Healthy
+Sharai    	2	F	warm purple         	Healthy
+Drucill   	2	F	warm purple         	Healthy
+Durant    	2	M	warm purple         	Radioactive
+Tanhya    	2	F	warm purple         	Radioactive
+Candi     	2	F	warm purple         	Radioactive
+Jessica   	2	F	warm purple         	Radioactive
+Georges   	2	M	warm purple         	Healthy
+Archibald 	2	M	dark navy blue      	Healthy
+Zandra    	2	F	dark navy blue      	Healthy
+Ibbie     	2	F	warm purple         	Healthy
+Shannan   	2	M	warm purple         	Healthy
+Oralee    	2	F	dark navy blue      	Healthy
+Sarajane  	2	F	warm purple         	Healthy
+Grayce    	2	F	warm purple         	Healthy
+Tabbitha  	2	F	warm purple         	Healthy
+Rriocard  	2	M	warm purple         	Radioactive
+Irvin     	2	M	dark navy blue      	Healthy
+Rosalynd  	2	F	warm purple         	Radioactive
+Ryan      	2	M	dark navy blue      	Healthy
+Keelia    	2	F	warm purple         	Healthy
+Gaby      	2	F	dark navy blue      	Healthy
+Sigismond 	2	M	warm purple         	Healthy
+Claudelle 	2	F	dark navy blue      	Radioactive
+Rose      	2	F	dark navy blue      	Healthy
+Phineas   	2	M	warm purple         	Radioactive
+Earl      	2	M	warm purple         	Healthy
+Katey     	2	F	warm purple         	Healthy
+Reginald  	2	M	dark navy blue      	Healthy
+Davidde   	2	M	warm purple         	Healthy
+Katrine   	2	F	warm purple         	Radioactive
+Charlean  	1	F	warm purple         	Radioactive
+Waring    	1	M	warm purple         	Healthy
+Madelon   	1	F	dark navy blue      	Healthy
+Zonda     	1	F	warm purple         	Healthy
+Florella  	1	F	warm purple         	Healthy
+Jorey     	1	F	warm purple         	Radioactive
+Don       	1	M	warm purple         	Radioactive
+Madelyn   	1	F	warm purple         	Healthy
+Dacie     	1	F	warm purple         	Healthy
+Beryle    	1	F	dark navy blue      	Healthy
+Donn      	1	M	dark navy blue      	Healthy
+Jillane   	1	F	warm purple         	Healthy
+Crissy    	1	F	warm purple         	Radioactive
+Colin     	1	M	dark navy blue      	Healthy
+Katrina   	1	F	warm purple         	Healthy
+Rutter    	1	M	warm purple         	Radioactive
+Rosella   	1	F	dark navy blue      	Healthy
+Tad       	1	M	dark navy blue      	Healthy
+Dorise    	1	F	warm purple         	Healthy
+Shaun     	1	F	warm purple         	Healthy
+Ellary    	1	M	dark navy blue      	Healthy
+Gill      	1	M	dark navy blue      	Healthy
+Husain    	1	M	warm purple         	Healthy
+Mabel     	1	F	dark navy blue      	Healthy
+Lesly     	1	F	warm purple         	Healthy
+Buiron    	1	M	warm purple         	Healthy
+Rianon    	1	F	dark navy blue      	Healthy
+Jaquith   	1	F	warm purple         	Radioactive
+Shurwood  	1	M	warm purple         	Healthy
+Thebault  	1	M	dark navy blue      	Healthy
+Adams     	1	M	warm purple         	Healthy
+Shaina    	1	F	warm purple         	Radioactive
+Daren     	1	M	dark navy blue      	Healthy
+Candide   	1	F	warm purple         	Healthy
+Brittany  	0	F	warm purple         	Healthy
+Shadow    	0	M	dark navy blue      	Healthy
+Sandro    	0	M	warm purple         	Radioactive
+Bel       	0	F	warm purple         	Healthy
+Quincey   	0	M	warm purple         	Healthy
+Theobald  	0	M	warm purple         	Radioactive
+Shelley   	0	F	dark navy blue      	Healthy
+Kaile     	0	F	dark navy blue      	Healthy
+Tome      	0	M	warm purple         	Healthy
+Kevan     	0	M	dark navy blue      	Healthy
+Bogart    	0	M	warm purple         	Healthy
+Austina   	0	F	warm purple         	Radioactive
+Bobbi     	0	F	warm purple         	Radioactive
+Delmar    	0	M	dark navy blue      	Healthy
+Bengt     	0	M	dark navy blue      	Healthy
+Meredeth  	0	M	dark navy blue      	Healthy
+Wheeler   	0	M	warm purple         	Healthy
+Leland    	0	M	dark navy blue      	Healthy
+Brina     	0	F	warm purple         	Healthy
+Jillane   	0	F	dark navy blue      	Healthy
+Dede      	0	F	warm purple         	Healthy
+Lindon    	0	M	dark navy blue      	Healthy
+Darren    	0	M	warm purple         	Healthy
+Ruprecht  	0	M	warm purple         	Healthy
+Tarah     	0	F	dark navy blue      	Healthy
+Lorene    	0	F	dark navy blue      	Healthy
+Danella   	0	F	dark navy blue      	Healthy
+Paton     	0	M	dark navy blue      	Healthy
+Adella    	0	F	warm purple         	Healthy
+Dolley    	0	F	warm purple         	Healthy
+Sonnie    	0	F	warm purple         	Healthy
+Tracey    	0	M	dark navy blue      	Healthy
+Ruthy     	0	F	dark navy blue      	Healthy
+------------------------------------------------------------------------
+Brita     	10	F	warm purple         	Healthy
+Kinnie    	10	M	dark navy blue      	Healthy
+Quinn     	10	F	warm purple         	Radioactive
+Kate      	10	F	dark navy blue      	Healthy
+Gretna    	10	F	warm purple         	Radioactive
+Josy      	10	F	warm purple         	Healthy
+Darline   	9	F	warm purple         	Radioactive
+Chester   	9	M	dark navy blue      	Healthy
+Abby      	9	M	warm purple         	Radioactive
+Minnie    	9	F	dark navy blue      	Radioactive
+Rozelle   	9	F	warm purple         	Radioactive
+Dulcine   	9	F	warm purple         	Radioactive
+Angelica  	9	F	warm purple         	Radioactive
+Dedra     	8	F	warm purple         	Radioactive
+Gasparo   	8	M	dark navy blue      	Healthy
+Danika    	8	F	warm purple         	Radioactive
+Amby      	8	M	dark navy blue      	Healthy
+Belinda   	8	F	warm purple         	Radioactive
+Vivianna  	8	F	warm purple         	Radioactive
+Collette  	8	F	warm purple         	Radioactive
+Georgine  	8	F	warm purple         	Healthy
+Rebekkah  	8	F	warm purple         	Radioactive
+Delano    	8	M	dark navy blue      	Healthy
+Kizzie    	8	F	warm purple         	Healthy
+Meryl     	8	F	warm purple         	Radioactive
+Bobbee    	7	F	warm purple         	Radioactive
+Francine  	7	F	dark navy blue      	Healthy
+Grantham  	7	M	warm purple         	Radioactive
+Debi      	7	F	dark navy blue      	Healthy
+Millisent 	7	F	warm purple         	Healthy
+Shelley   	7	F	warm purple         	Radioactive
+Hedy      	7	F	warm purple         	Radioactive
+Sinclair  	7	M	warm purple         	Radioactive
+Jarret    	7	M	warm purple         	Radioactive
+Mallissa  	7	F	dark navy blue      	Healthy
+Carmine   	7	F	warm purple         	Radioactive
+Anstice   	7	F	warm purple         	Healthy
+Tildy     	7	F	warm purple         	Radioactive
+Annabelle 	7	F	dark navy blue      	Radioactive
+Linette   	7	F	warm purple         	Healthy
+Sallyanne 	7	F	warm purple         	Radioactive
+Drucie    	7	F	warm purple         	Radioactive
+Kean      	6	M	warm purple         	Radioactive
+Veronika  	6	F	dark navy blue      	Healthy
+Lynelle   	6	F	warm purple         	Radioactive
+Shandie   	6	F	dark navy blue      	Healthy
+Lisbeth   	6	F	warm purple         	Radioactive
+Alonso    	6	M	warm purple         	Radioactive
+Barney    	6	M	warm purple         	Radioactive
+Velma     	6	F	warm purple         	Healthy
+Fredericka	6	F	warm purple         	Radioactive
+Gussie    	6	F	dark navy blue      	Radioactive
+Christalle	6	F	warm purple         	Radioactive
+Minette   	6	F	warm purple         	Radioactive
+Courtney  	6	F	warm purple         	Radioactive
+Kassey    	6	F	dark navy blue      	Radioactive
+Jaimie    	6	M	warm purple         	Radioactive
+Andonis   	6	M	warm purple         	Radioactive
+Arch      	6	M	warm purple         	Radioactive
+Lesley    	6	M	warm purple         	Radioactive
+Lenette   	6	F	warm purple         	Radioactive
+Kingston  	6	M	warm purple         	Radioactive
+Dom       	6	M	warm purple         	Radioactive
+Mirabella 	6	F	warm purple         	Radioactive
+Robert    	6	M	warm purple         	Radioactive
+Analise   	6	F	warm purple         	Radioactive
+Chilton   	6	M	warm purple         	Radioactive
+Michell   	5	F	dark navy blue      	Healthy
+Salli     	5	F	warm purple         	Radioactive
+Carlo     	5	M	warm purple         	Healthy
+Benedicto 	5	M	warm purple         	Radioactive
+Hewie     	5	M	warm purple         	Healthy
+Decca     	5	M	dark navy blue      	Healthy
+Gib       	5	M	warm purple         	Radioactive
+Antone    	5	M	warm purple         	Radioactive
+Gannie    	5	M	dark navy blue      	Radioactive
+Chrystel  	5	F	warm purple         	Healthy
+Ferdinanda	5	F	warm purple         	Radioactive
+Zebedee   	5	M	warm purple         	Radioactive
+Caritta   	5	F	warm purple         	Radioactive
+Terence   	5	M	warm purple         	Radioactive
+Siward    	5	M	warm purple         	Radioactive
+Aloysius  	5	M	warm purple         	Radioactive
+Lucian    	5	M	warm purple         	Healthy
+Lane      	5	F	warm purple         	Radioactive
+Roselia   	5	F	warm purple         	Radioactive
+Renie     	5	F	dark navy blue      	Healthy
+Dominik   	5	M	dark navy blue      	Radioactive
+Harv      	5	M	warm purple         	Radioactive
+Ilsa      	5	F	warm purple         	Healthy
+Park      	5	M	dark navy blue      	Radioactive
+Waldemar  	5	M	warm purple         	Healthy
+Aubert    	5	M	warm purple         	Radioactive
+Nathanil  	5	M	dark navy blue      	Radioactive
+Karola    	5	F	warm purple         	Radioactive
+Helaine   	5	F	warm purple         	Radioactive
+Yorgo     	5	M	warm purple         	Radioactive
+Robina    	4	F	warm purple         	Radioactive
+Raimund   	4	M	dark navy blue      	Radioactive
+Conrade   	4	M	warm purple         	Radioactive
+Rollin    	4	M	warm purple         	Radioactive
+Lyman     	4	M	warm purple         	Radioactive
+Joellen   	4	F	dark navy blue      	Healthy
+Braden    	4	M	warm purple         	Healthy
+Ammamaria 	4	F	warm purple         	Radioactive
+Zebulon   	4	M	dark navy blue      	Radioactive
+Carter    	4	M	warm purple         	Healthy
+Kiah      	4	F	warm purple         	Radioactive
+Josiah    	4	M	warm purple         	Radioactive
+Electra   	4	F	warm purple         	Radioactive
+Alex      	4	M	warm purple         	Healthy
+Lolita    	4	F	warm purple         	Radioactive
+Wilton    	4	M	warm purple         	Healthy
+Teddie    	4	F	dark navy blue      	Healthy
+Gabriel   	4	M	dark navy blue      	Radioactive
+Harmonia  	4	F	warm purple         	Healthy
+Quinton   	4	M	warm purple         	Healthy
+Casper    	4	M	dark navy blue      	Healthy
+Dael      	4	F	warm purple         	Healthy
+Halsey    	4	M	dark navy blue      	Radioactive
+Mart      	4	M	warm purple         	Radioactive
+Brandi    	4	F	warm purple         	Radioactive
+Josee     	4	F	warm purple         	Radioactive
+Elvina    	4	F	dark navy blue      	Healthy
+Wolfie    	4	M	dark navy blue      	Healthy
+Mathilda  	4	F	warm purple         	Healthy
+Brigham   	4	M	dark navy blue      	Healthy
+Abie      	4	M	warm purple         	Radioactive
+Kristen   	4	F	warm purple         	Radioactive
+Harmonie  	4	F	warm purple         	Radioactive
+Luciana   	4	F	dark navy blue      	Healthy
+Edyth     	3	F	dark navy blue      	Healthy
+Devon     	3	F	warm purple         	Radioactive
+Frans     	3	M	warm purple         	Healthy
+Taddeusz  	3	M	warm purple         	Radioactive
+Michele   	3	M	warm purple         	Radioactive
+Kevon     	3	M	dark navy blue      	Healthy
+Sharai    	3	F	warm purple         	Healthy
+Drucill   	3	F	warm purple         	Radioactive
+Durant    	3	M	warm purple         	Radioactive
+Tanhya    	3	F	warm purple         	Radioactive
+Candi     	3	F	warm purple         	Radioactive
+Jessica   	3	F	warm purple         	Radioactive
+Georges   	3	M	warm purple         	Healthy
+Archibald 	3	M	dark navy blue      	Healthy
+Zandra    	3	F	dark navy blue      	Healthy
+Ibbie     	3	F	warm purple         	Healthy
+Shannan   	3	M	warm purple         	Radioactive
+Oralee    	3	F	dark navy blue      	Radioactive
+Sarajane  	3	F	warm purple         	Healthy
+Grayce    	3	F	warm purple         	Radioactive
+Tabbitha  	3	F	warm purple         	Radioactive
+Rriocard  	3	M	warm purple         	Radioactive
+Irvin     	3	M	dark navy blue      	Healthy
+Rosalynd  	3	F	warm purple         	Radioactive
+Ryan      	3	M	dark navy blue      	Radioactive
+Keelia    	3	F	warm purple         	Healthy
+Gaby      	3	F	dark navy blue      	Healthy
+Sigismond 	3	M	warm purple         	Radioactive
+Claudelle 	3	F	dark navy blue      	Radioactive
+Rose      	3	F	dark navy blue      	Healthy
+Phineas   	3	M	warm purple         	Radioactive
+Earl      	3	M	warm purple         	Healthy
+Katey     	3	F	warm purple         	Radioactive
+Reginald  	3	M	dark navy blue      	Healthy
+Davidde   	3	M	warm purple         	Radioactive
+Katrine   	3	F	warm purple         	Radioactive
+Charlean  	2	F	warm purple         	Radioactive
+Waring    	2	M	warm purple         	Radioactive
+Madelon   	2	F	dark navy blue      	Healthy
+Zonda     	2	F	warm purple         	Healthy
+Florella  	2	F	warm purple         	Radioactive
+Jorey     	2	F	warm purple         	Radioactive
+Don       	2	M	warm purple         	Radioactive
+Madelyn   	2	F	warm purple         	Healthy
+Dacie     	2	F	warm purple         	Healthy
+Beryle    	2	F	dark navy blue      	Healthy
+Donn      	2	M	dark navy blue      	Radioactive
+Jillane   	2	F	warm purple         	Radioactive
+Crissy    	2	F	warm purple         	Radioactive
+Colin     	2	M	dark navy blue      	Healthy
+Katrina   	2	F	warm purple         	Healthy
+Rutter    	2	M	warm purple         	Radioactive
+Rosella   	2	F	dark navy blue      	Healthy
+Tad       	2	M	dark navy blue      	Healthy
+Dorise    	2	F	warm purple         	Healthy
+Shaun     	2	F	warm purple         	Radioactive
+Ellary    	2	M	dark navy blue      	Healthy
+Gill      	2	M	dark navy blue      	Healthy
+Husain    	2	M	warm purple         	Healthy
+Mabel     	2	F	dark navy blue      	Healthy
+Lesly     	2	F	warm purple         	Healthy
+Buiron    	2	M	warm purple         	Healthy
+Rianon    	2	F	dark navy blue      	Healthy
+Jaquith   	2	F	warm purple         	Radioactive
+Shurwood  	2	M	warm purple         	Radioactive
+Thebault  	2	M	dark navy blue      	Healthy
+Adams     	2	M	warm purple         	Radioactive
+Shaina    	2	F	warm purple         	Radioactive
+Daren     	2	M	dark navy blue      	Healthy
+Candide   	2	F	warm purple         	Healthy
+Brittany  	1	F	warm purple         	Radioactive
+Shadow    	1	M	dark navy blue      	Healthy
+Sandro    	1	M	warm purple         	Radioactive
+Bel       	1	F	warm purple         	Healthy
+Quincey   	1	M	warm purple         	Healthy
+Theobald  	1	M	warm purple         	Radioactive
+Shelley   	1	F	dark navy blue      	Healthy
+Kaile     	1	F	dark navy blue      	Healthy
+Tome      	1	M	warm purple         	Healthy
+Kevan     	1	M	dark navy blue      	Healthy
+Bogart    	1	M	warm purple         	Healthy
+Austina   	1	F	warm purple         	Radioactive
+Bobbi     	1	F	warm purple         	Radioactive
+Delmar    	1	M	dark navy blue      	Healthy
+Bengt     	1	M	dark navy blue      	Healthy
+Meredeth  	1	M	dark navy blue      	Healthy
+Wheeler   	1	M	warm purple         	Radioactive
+Leland    	1	M	dark navy blue      	Healthy
+Brina     	1	F	warm purple         	Healthy
+Jillane   	1	F	dark navy blue      	Healthy
+Dede      	1	F	warm purple         	Healthy
+Lindon    	1	M	dark navy blue      	Healthy
+Darren    	1	M	warm purple         	Healthy
+Ruprecht  	1	M	warm purple         	Healthy
+Tarah     	1	F	dark navy blue      	Healthy
+Lorene    	1	F	dark navy blue      	Healthy
+Danella   	1	F	dark navy blue      	Radioactive
+Paton     	1	M	dark navy blue      	Healthy
+Adella    	1	F	warm purple         	Healthy
+Dolley    	1	F	warm purple         	Healthy
+Sonnie    	1	F	warm purple         	Radioactive
+Tracey    	1	M	dark navy blue      	Healthy
+Ruthy     	1	F	dark navy blue      	Healthy
+Mile      	0	M	warm purple         	Healthy
+Iona      	0	F	dark navy blue      	Healthy
+Perrine   	0	F	warm purple         	Healthy
+Jenelle   	0	F	warm purple         	Radioactive
+Berni     	0	F	dark navy blue      	Healthy
+Malanie   	0	F	dark navy blue      	Healthy
+Homer     	0	M	warm purple         	Radioactive
+Alastair  	0	M	dark navy blue      	Healthy
+Jarrod    	0	M	warm purple         	Healthy
+Wang      	0	M	warm purple         	Radioactive
+Dame      	0	M	dark navy blue      	Radioactive
+Maxi      	0	F	dark navy blue      	Healthy
+Dana      	0	F	warm purple         	Healthy
+Avie      	0	F	dark navy blue      	Healthy
+Darsey    	0	F	warm purple         	Radioactive
+Domini    	0	F	dark navy blue      	Healthy
+Marylou   	0	F	warm purple         	Radioactive
+Farlay    	0	M	dark navy blue      	Healthy
+Delinda   	0	F	warm purple         	Healthy
+Alonso    	0	M	warm purple         	Radioactive
+Della     	0	F	dark navy blue      	Healthy
+Armando   	0	M	warm purple         	Radioactive
+Nikola    	0	M	dark navy blue      	Healthy
+Glenn     	0	F	warm purple         	Radioactive
+Artemis   	0	M	dark navy blue      	Healthy
+Carie     	0	F	dark navy blue      	Healthy
+Fenelia   	0	F	warm purple         	Healthy
+Evyn      	0	M	warm purple         	Healthy
+Towney    	0	M	dark navy blue      	Healthy
+Symon     	0	M	dark navy blue      	Healthy
+Ibrahim   	0	M	warm purple         	Healthy
+Crissie   	0	F	dark navy blue      	Healthy
+Brier     	0	F	warm purple         	Healthy
+Friedrick 	0	M	dark navy blue      	Healthy
+Berni     	0	F	warm purple         	Healthy
+Bendite   	0	F	dark navy blue      	Healthy
+Emelyne   	0	F	dark navy blue      	Healthy
+------------------------------------------------------------------------
+Darline   	10	F	warm purple         	Radioactive
+Chester   	10	M	dark navy blue      	Healthy
+Abby      	10	M	warm purple         	Radioactive
+Minnie    	10	F	dark navy blue      	Radioactive
+Rozelle   	10	F	warm purple         	Radioactive
+Dulcine   	10	F	warm purple         	Radioactive
+Angelica  	10	F	warm purple         	Radioactive
+Dedra     	9	F	warm purple         	Radioactive
+Gasparo   	9	M	dark navy blue      	Healthy
+Danika    	9	F	warm purple         	Radioactive
+Amby      	9	M	dark navy blue      	Healthy
+Belinda   	9	F	warm purple         	Radioactive
+Vivianna  	9	F	warm purple         	Radioactive
+Collette  	9	F	warm purple         	Radioactive
+Georgine  	9	F	warm purple         	Radioactive
+Rebekkah  	9	F	warm purple         	Radioactive
+Delano    	9	M	dark navy blue      	Radioactive
+Kizzie    	9	F	warm purple         	Radioactive
+Meryl     	9	F	warm purple         	Radioactive
+Bobbee    	8	F	warm purple         	Radioactive
+Francine  	8	F	dark navy blue      	Healthy
+Grantham  	8	M	warm purple         	Radioactive
+Debi      	8	F	dark navy blue      	Radioactive
+Millisent 	8	F	warm purple         	Healthy
+Shelley   	8	F	warm purple         	Radioactive
+Hedy      	8	F	warm purple         	Radioactive
+Sinclair  	8	M	warm purple         	Radioactive
+Jarret    	8	M	warm purple         	Radioactive
+Mallissa  	8	F	dark navy blue      	Healthy
+Carmine   	8	F	warm purple         	Radioactive
+Anstice   	8	F	warm purple         	Radioactive
+Tildy     	8	F	warm purple         	Radioactive
+Annabelle 	8	F	dark navy blue      	Radioactive
+Linette   	8	F	warm purple         	Healthy
+Sallyanne 	8	F	warm purple         	Radioactive
+Drucie    	8	F	warm purple         	Radioactive
+Kean      	7	M	warm purple         	Radioactive
+Veronika  	7	F	dark navy blue      	Healthy
+Lynelle   	7	F	warm purple         	Radioactive
+Shandie   	7	F	dark navy blue      	Radioactive
+Lisbeth   	7	F	warm purple         	Radioactive
+Alonso    	7	M	warm purple         	Radioactive
+Barney    	7	M	warm purple         	Radioactive
+Velma     	7	F	warm purple         	Healthy
+Fredericka	7	F	warm purple         	Radioactive
+Gussie    	7	F	dark navy blue      	Radioactive
+Christalle	7	F	warm purple         	Radioactive
+Minette   	7	F	warm purple         	Radioactive
+Courtney  	7	F	warm purple         	Radioactive
+Kassey    	7	F	dark navy blue      	Radioactive
+Jaimie    	7	M	warm purple         	Radioactive
+Andonis   	7	M	warm purple         	Radioactive
+Arch      	7	M	warm purple         	Radioactive
+Lesley    	7	M	warm purple         	Radioactive
+Lenette   	7	F	warm purple         	Radioactive
+Kingston  	7	M	warm purple         	Radioactive
+Dom       	7	M	warm purple         	Radioactive
+Mirabella 	7	F	warm purple         	Radioactive
+Robert    	7	M	warm purple         	Radioactive
+Analise   	7	F	warm purple         	Radioactive
+Chilton   	7	M	warm purple         	Radioactive
+Michell   	6	F	dark navy blue      	Healthy
+Salli     	6	F	warm purple         	Radioactive
+Carlo     	6	M	warm purple         	Healthy
+Benedicto 	6	M	warm purple         	Radioactive
+Hewie     	6	M	warm purple         	Radioactive
+Decca     	6	M	dark navy blue      	Radioactive
+Gib       	6	M	warm purple         	Radioactive
+Antone    	6	M	warm purple         	Radioactive
+Gannie    	6	M	dark navy blue      	Radioactive
+Chrystel  	6	F	warm purple         	Radioactive
+Ferdinanda	6	F	warm purple         	Radioactive
+Zebedee   	6	M	warm purple         	Radioactive
+Caritta   	6	F	warm purple         	Radioactive
+Terence   	6	M	warm purple         	Radioactive
+Siward    	6	M	warm purple         	Radioactive
+Aloysius  	6	M	warm purple         	Radioactive
+Lucian    	6	M	warm purple         	Radioactive
+Lane      	6	F	warm purple         	Radioactive
+Roselia   	6	F	warm purple         	Radioactive
+Renie     	6	F	dark navy blue      	Healthy
+Dominik   	6	M	dark navy blue      	Radioactive
+Harv      	6	M	warm purple         	Radioactive
+Ilsa      	6	F	warm purple         	Healthy
+Park      	6	M	dark navy blue      	Radioactive
+Waldemar  	6	M	warm purple         	Radioactive
+Aubert    	6	M	warm purple         	Radioactive
+Nathanil  	6	M	dark navy blue      	Radioactive
+Karola    	6	F	warm purple         	Radioactive
+Helaine   	6	F	warm purple         	Radioactive
+Yorgo     	6	M	warm purple         	Radioactive
+Robina    	5	F	warm purple         	Radioactive
+Raimund   	5	M	dark navy blue      	Radioactive
+Conrade   	5	M	warm purple         	Radioactive
+Rollin    	5	M	warm purple         	Radioactive
+Lyman     	5	M	warm purple         	Radioactive
+Joellen   	5	F	dark navy blue      	Healthy
+Braden    	5	M	warm purple         	Radioactive
+Ammamaria 	5	F	warm purple         	Radioactive
+Zebulon   	5	M	dark navy blue      	Radioactive
+Carter    	5	M	warm purple         	Healthy
+Kiah      	5	F	warm purple         	Radioactive
+Josiah    	5	M	warm purple         	Radioactive
+Electra   	5	F	warm purple         	Radioactive
+Alex      	5	M	warm purple         	Healthy
+Lolita    	5	F	warm purple         	Radioactive
+Wilton    	5	M	warm purple         	Radioactive
+Teddie    	5	F	dark navy blue      	Healthy
+Gabriel   	5	M	dark navy blue      	Radioactive
+Harmonia  	5	F	warm purple         	Healthy
+Quinton   	5	M	warm purple         	Radioactive
+Casper    	5	M	dark navy blue      	Healthy
+Dael      	5	F	warm purple         	Radioactive
+Halsey    	5	M	dark navy blue      	Radioactive
+Mart      	5	M	warm purple         	Radioactive
+Brandi    	5	F	warm purple         	Radioactive
+Josee     	5	F	warm purple         	Radioactive
+Elvina    	5	F	dark navy blue      	Healthy
+Wolfie    	5	M	dark navy blue      	Healthy
+Mathilda  	5	F	warm purple         	Radioactive
+Brigham   	5	M	dark navy blue      	Healthy
+Abie      	5	M	warm purple         	Radioactive
+Kristen   	5	F	warm purple         	Radioactive
+Harmonie  	5	F	warm purple         	Radioactive
+Luciana   	5	F	dark navy blue      	Radioactive
+Edyth     	4	F	dark navy blue      	Radioactive
+Devon     	4	F	warm purple         	Radioactive
+Frans     	4	M	warm purple         	Radioactive
+Taddeusz  	4	M	warm purple         	Radioactive
+Michele   	4	M	warm purple         	Radioactive
+Kevon     	4	M	dark navy blue      	Healthy
+Sharai    	4	F	warm purple         	Radioactive
+Drucill   	4	F	warm purple         	Radioactive
+Durant    	4	M	warm purple         	Radioactive
+Tanhya    	4	F	warm purple         	Radioactive
+Candi     	4	F	warm purple         	Radioactive
+Jessica   	4	F	warm purple         	Radioactive
+Georges   	4	M	warm purple         	Radioactive
+Archibald 	4	M	dark navy blue      	Healthy
+Zandra    	4	F	dark navy blue      	Radioactive
+Ibbie     	4	F	warm purple         	Healthy
+Shannan   	4	M	warm purple         	Radioactive
+Oralee    	4	F	dark navy blue      	Radioactive
+Sarajane  	4	F	warm purple         	Radioactive
+Grayce    	4	F	warm purple         	Radioactive
+Tabbitha  	4	F	warm purple         	Radioactive
+Rriocard  	4	M	warm purple         	Radioactive
+Irvin     	4	M	dark navy blue      	Healthy
+Rosalynd  	4	F	warm purple         	Radioactive
+Ryan      	4	M	dark navy blue      	Radioactive
+Keelia    	4	F	warm purple         	Radioactive
+Gaby      	4	F	dark navy blue      	Healthy
+Sigismond 	4	M	warm purple         	Radioactive
+Claudelle 	4	F	dark navy blue      	Radioactive
+Rose      	4	F	dark navy blue      	Healthy
+Phineas   	4	M	warm purple         	Radioactive
+Earl      	4	M	warm purple         	Healthy
+Katey     	4	F	warm purple         	Radioactive
+Reginald  	4	M	dark navy blue      	Healthy
+Davidde   	4	M	warm purple         	Radioactive
+Katrine   	4	F	warm purple         	Radioactive
+Charlean  	3	F	warm purple         	Radioactive
+Waring    	3	M	warm purple         	Radioactive
+Madelon   	3	F	dark navy blue      	Radioactive
+Zonda     	3	F	warm purple         	Radioactive
+Florella  	3	F	warm purple         	Radioactive
+Jorey     	3	F	warm purple         	Radioactive
+Don       	3	M	warm purple         	Radioactive
+Madelyn   	3	F	warm purple         	Radioactive
+Dacie     	3	F	warm purple         	Healthy
+Beryle    	3	F	dark navy blue      	Healthy
+Donn      	3	M	dark navy blue      	Radioactive
+Jillane   	3	F	warm purple         	Radioactive
+Crissy    	3	F	warm purple         	Radioactive
+Colin     	3	M	dark navy blue      	Radioactive
+Katrina   	3	F	warm purple         	Healthy
+Rutter    	3	M	warm purple         	Radioactive
+Rosella   	3	F	dark navy blue      	Healthy
+Tad       	3	M	dark navy blue      	Healthy
+Dorise    	3	F	warm purple         	Healthy
+Shaun     	3	F	warm purple         	Radioactive
+Ellary    	3	M	dark navy blue      	Radioactive
+Gill      	3	M	dark navy blue      	Healthy
+Husain    	3	M	warm purple         	Radioactive
+Mabel     	3	F	dark navy blue      	Healthy
+Lesly     	3	F	warm purple         	Healthy
+Buiron    	3	M	warm purple         	Radioactive
+Rianon    	3	F	dark navy blue      	Healthy
+Jaquith   	3	F	warm purple         	Radioactive
+Shurwood  	3	M	warm purple         	Radioactive
+Thebault  	3	M	dark navy blue      	Healthy
+Adams     	3	M	warm purple         	Radioactive
+Shaina    	3	F	warm purple         	Radioactive
+Daren     	3	M	dark navy blue      	Healthy
+Candide   	3	F	warm purple         	Radioactive
+Brittany  	2	F	warm purple         	Radioactive
+Shadow    	2	M	dark navy blue      	Healthy
+Sandro    	2	M	warm purple         	Radioactive
+Bel       	2	F	warm purple         	Radioactive
+Quincey   	2	M	warm purple         	Radioactive
+Theobald  	2	M	warm purple         	Radioactive
+Shelley   	2	F	dark navy blue      	Healthy
+Kaile     	2	F	dark navy blue      	Radioactive
+Tome      	2	M	warm purple         	Healthy
+Kevan     	2	M	dark navy blue      	Radioactive
+Bogart    	2	M	warm purple         	Radioactive
+Austina   	2	F	warm purple         	Radioactive
+Bobbi     	2	F	warm purple         	Radioactive
+Delmar    	2	M	dark navy blue      	Healthy
+Bengt     	2	M	dark navy blue      	Radioactive
+Meredeth  	2	M	dark navy blue      	Radioactive
+Wheeler   	2	M	warm purple         	Radioactive
+Leland    	2	M	dark navy blue      	Radioactive
+Brina     	2	F	warm purple         	Radioactive
+Jillane   	2	F	dark navy blue      	Healthy
+Dede      	2	F	warm purple         	Radioactive
+Lindon    	2	M	dark navy blue      	Healthy
+Darren    	2	M	warm purple         	Healthy
+Ruprecht  	2	M	warm purple         	Radioactive
+Tarah     	2	F	dark navy blue      	Healthy
+Lorene    	2	F	dark navy blue      	Radioactive
+Danella   	2	F	dark navy blue      	Radioactive
+Paton     	2	M	dark navy blue      	Radioactive
+Adella    	2	F	warm purple         	Healthy
+Dolley    	2	F	warm purple         	Radioactive
+Sonnie    	2	F	warm purple         	Radioactive
+Tracey    	2	M	dark navy blue      	Healthy
+Ruthy     	2	F	dark navy blue      	Healthy
+Mile      	1	M	warm purple         	Radioactive
+Iona      	1	F	dark navy blue      	Radioactive
+Perrine   	1	F	warm purple         	Radioactive
+Jenelle   	1	F	warm purple         	Radioactive
+Berni     	1	F	dark navy blue      	Healthy
+Malanie   	1	F	dark navy blue      	Healthy
+Homer     	1	M	warm purple         	Radioactive
+Alastair  	1	M	dark navy blue      	Healthy
+Jarrod    	1	M	warm purple         	Healthy
+Wang      	1	M	warm purple         	Radioactive
+Dame      	1	M	dark navy blue      	Radioactive
+Maxi      	1	F	dark navy blue      	Healthy
+Dana      	1	F	warm purple         	Radioactive
+Avie      	1	F	dark navy blue      	Radioactive
+Darsey    	1	F	warm purple         	Radioactive
+Domini    	1	F	dark navy blue      	Radioactive
+Marylou   	1	F	warm purple         	Radioactive
+Farlay    	1	M	dark navy blue      	Healthy
+Delinda   	1	F	warm purple         	Radioactive
+Alonso    	1	M	warm purple         	Radioactive
+Della     	1	F	dark navy blue      	Radioactive
+Armando   	1	M	warm purple         	Radioactive
+Nikola    	1	M	dark navy blue      	Healthy
+Glenn     	1	F	warm purple         	Radioactive
+Artemis   	1	M	dark navy blue      	Healthy
+Carie     	1	F	dark navy blue      	Healthy
+Fenelia   	1	F	warm purple         	Radioactive
+Evyn      	1	M	warm purple         	Radioactive
+Towney    	1	M	dark navy blue      	Healthy
+Symon     	1	M	dark navy blue      	Healthy
+Ibrahim   	1	M	warm purple         	Radioactive
+Crissie   	1	F	dark navy blue      	Healthy
+Brier     	1	F	warm purple         	Healthy
+Friedrick 	1	M	dark navy blue      	Healthy
+Berni     	1	F	warm purple         	Healthy
+Bendite   	1	F	dark navy blue      	Healthy
+Emelyne   	1	F	dark navy blue      	Healthy
+Langsdon  	0	M	warm purple         	Radioactive
+Hannah    	0	F	dark navy blue      	Healthy
+Alyce     	0	F	dark navy blue      	Radioactive
+Mady      	0	F	warm purple         	Radioactive
+Carlina   	0	F	dark navy blue      	Healthy
+Tanny     	0	M	warm purple         	Radioactive
+Lalo      	0	M	dark navy blue      	Radioactive
+Janith    	0	F	dark navy blue      	Healthy
+Beckie    	0	F	warm purple         	Radioactive
+Fredra    	0	F	dark navy blue      	Healthy
+Shanda    	0	F	warm purple         	Radioactive
+Marlow    	0	M	dark navy blue      	Healthy
+Daffy     	0	F	dark navy blue      	Healthy
+Lula      	0	F	warm purple         	Healthy
+Ammamaria 	0	F	dark navy blue      	Healthy
+Vanessa   	0	F	warm purple         	Radioactive
+Merilyn   	0	F	dark navy blue      	Healthy
+Cherise   	0	F	dark navy blue      	Healthy
+Ginni     	0	F	warm purple         	Radioactive
+Querida   	0	F	dark navy blue      	Healthy
+Lorie     	0	F	dark navy blue      	Healthy
+Lucian    	0	M	warm purple         	Healthy
+Jakie     	0	M	dark navy blue      	Healthy
+Eldredge  	0	M	dark navy blue      	Healthy
+Marcus    	0	M	dark navy blue      	Healthy
+Nollie    	0	F	dark navy blue      	Healthy
+Lowrance  	0	M	warm purple         	Healthy
+------------------------------------------------------------------------
+Dedra     	10	F	warm purple         	Radioactive
+Gasparo   	10	M	dark navy blue      	Radioactive
+Danika    	10	F	warm purple         	Radioactive
+Amby      	10	M	dark navy blue      	Healthy
+Belinda   	10	F	warm purple         	Radioactive
+Vivianna  	10	F	warm purple         	Radioactive
+Collette  	10	F	warm purple         	Radioactive
+Georgine  	10	F	warm purple         	Radioactive
+Rebekkah  	10	F	warm purple         	Radioactive
+Delano    	10	M	dark navy blue      	Radioactive
+Kizzie    	10	F	warm purple         	Radioactive
+Meryl     	10	F	warm purple         	Radioactive
+Bobbee    	9	F	warm purple         	Radioactive
+Francine  	9	F	dark navy blue      	Healthy
+Grantham  	9	M	warm purple         	Radioactive
+Debi      	9	F	dark navy blue      	Radioactive
+Millisent 	9	F	warm purple         	Radioactive
+Shelley   	9	F	warm purple         	Radioactive
+Hedy      	9	F	warm purple         	Radioactive
+Sinclair  	9	M	warm purple         	Radioactive
+Jarret    	9	M	warm purple         	Radioactive
+Mallissa  	9	F	dark navy blue      	Radioactive
+Carmine   	9	F	warm purple         	Radioactive
+Anstice   	9	F	warm purple         	Radioactive
+Tildy     	9	F	warm purple         	Radioactive
+Annabelle 	9	F	dark navy blue      	Radioactive
+Linette   	9	F	warm purple         	Radioactive
+Sallyanne 	9	F	warm purple         	Radioactive
+Drucie    	9	F	warm purple         	Radioactive
+Kean      	8	M	warm purple         	Radioactive
+Veronika  	8	F	dark navy blue      	Healthy
+Lynelle   	8	F	warm purple         	Radioactive
+Shandie   	8	F	dark navy blue      	Radioactive
+Lisbeth   	8	F	warm purple         	Radioactive
+Alonso    	8	M	warm purple         	Radioactive
+Barney    	8	M	warm purple         	Radioactive
+Velma     	8	F	warm purple         	Radioactive
+Fredericka	8	F	warm purple         	Radioactive
+Gussie    	8	F	dark navy blue      	Radioactive
+Christalle	8	F	warm purple         	Radioactive
+Minette   	8	F	warm purple         	Radioactive
+Courtney  	8	F	warm purple         	Radioactive
+Kassey    	8	F	dark navy blue      	Radioactive
+Jaimie    	8	M	warm purple         	Radioactive
+Andonis   	8	M	warm purple         	Radioactive
+Arch      	8	M	warm purple         	Radioactive
+Lesley    	8	M	warm purple         	Radioactive
+Lenette   	8	F	warm purple         	Radioactive
+Kingston  	8	M	warm purple         	Radioactive
+Dom       	8	M	warm purple         	Radioactive
+Mirabella 	8	F	warm purple         	Radioactive
+Robert    	8	M	warm purple         	Radioactive
+Analise   	8	F	warm purple         	Radioactive
+Chilton   	8	M	warm purple         	Radioactive
+Michell   	7	F	dark navy blue      	Radioactive
+Salli     	7	F	warm purple         	Radioactive
+Carlo     	7	M	warm purple         	Radioactive
+Benedicto 	7	M	warm purple         	Radioactive
+Hewie     	7	M	warm purple         	Radioactive
+Decca     	7	M	dark navy blue      	Radioactive
+Gib       	7	M	warm purple         	Radioactive
+Antone    	7	M	warm purple         	Radioactive
+Gannie    	7	M	dark navy blue      	Radioactive
+Chrystel  	7	F	warm purple         	Radioactive
+Ferdinanda	7	F	warm purple         	Radioactive
+Zebedee   	7	M	warm purple         	Radioactive
+Caritta   	7	F	warm purple         	Radioactive
+Terence   	7	M	warm purple         	Radioactive
+Siward    	7	M	warm purple         	Radioactive
+Aloysius  	7	M	warm purple         	Radioactive
+Lucian    	7	M	warm purple         	Radioactive
+Lane      	7	F	warm purple         	Radioactive
+Roselia   	7	F	warm purple         	Radioactive
+Renie     	7	F	dark navy blue      	Healthy
+Dominik   	7	M	dark navy blue      	Radioactive
+Harv      	7	M	warm purple         	Radioactive
+Ilsa      	7	F	warm purple         	Radioactive
+Park      	7	M	dark navy blue      	Radioactive
+Waldemar  	7	M	warm purple         	Radioactive
+Aubert    	7	M	warm purple         	Radioactive
+Nathanil  	7	M	dark navy blue      	Radioactive
+Karola    	7	F	warm purple         	Radioactive
+Helaine   	7	F	warm purple         	Radioactive
+Yorgo     	7	M	warm purple         	Radioactive
+Robina    	6	F	warm purple         	Radioactive
+Raimund   	6	M	dark navy blue      	Radioactive
+Conrade   	6	M	warm purple         	Radioactive
+Rollin    	6	M	warm purple         	Radioactive
+Lyman     	6	M	warm purple         	Radioactive
+Joellen   	6	F	dark navy blue      	Healthy
+Braden    	6	M	warm purple         	Radioactive
+Ammamaria 	6	F	warm purple         	Radioactive
+Zebulon   	6	M	dark navy blue      	Radioactive
+Carter    	6	M	warm purple         	Healthy
+Kiah      	6	F	warm purple         	Radioactive
+Josiah    	6	M	warm purple         	Radioactive
+Electra   	6	F	warm purple         	Radioactive
+Alex      	6	M	warm purple         	Radioactive
+Lolita    	6	F	warm purple         	Radioactive
+Wilton    	6	M	warm purple         	Radioactive
+Teddie    	6	F	dark navy blue      	Healthy
+Gabriel   	6	M	dark navy blue      	Radioactive
+Harmonia  	6	F	warm purple         	Healthy
+Quinton   	6	M	warm purple         	Radioactive
+Casper    	6	M	dark navy blue      	Radioactive
+Dael      	6	F	warm purple         	Radioactive
+Halsey    	6	M	dark navy blue      	Radioactive
+Mart      	6	M	warm purple         	Radioactive
+Brandi    	6	F	warm purple         	Radioactive
+Josee     	6	F	warm purple         	Radioactive
+Elvina    	6	F	dark navy blue      	Healthy
+Wolfie    	6	M	dark navy blue      	Radioactive
+Mathilda  	6	F	warm purple         	Radioactive
+Brigham   	6	M	dark navy blue      	Radioactive
+Abie      	6	M	warm purple         	Radioactive
+Kristen   	6	F	warm purple         	Radioactive
+Harmonie  	6	F	warm purple         	Radioactive
+Luciana   	6	F	dark navy blue      	Radioactive
+Edyth     	5	F	dark navy blue      	Radioactive
+Devon     	5	F	warm purple         	Radioactive
+Frans     	5	M	warm purple         	Radioactive
+Taddeusz  	5	M	warm purple         	Radioactive
+Michele   	5	M	warm purple         	Radioactive
+Kevon     	5	M	dark navy blue      	Healthy
+Sharai    	5	F	warm purple         	Radioactive
+Drucill   	5	F	warm purple         	Radioactive
+Durant    	5	M	warm purple         	Radioactive
+Tanhya    	5	F	warm purple         	Radioactive
+Candi     	5	F	warm purple         	Radioactive
+Jessica   	5	F	warm purple         	Radioactive
+Georges   	5	M	warm purple         	Radioactive
+Archibald 	5	M	dark navy blue      	Radioactive
+Zandra    	5	F	dark navy blue      	Radioactive
+Ibbie     	5	F	warm purple         	Healthy
+Shannan   	5	M	warm purple         	Radioactive
+Oralee    	5	F	dark navy blue      	Radioactive
+Sarajane  	5	F	warm purple         	Radioactive
+Grayce    	5	F	warm purple         	Radioactive
+Tabbitha  	5	F	warm purple         	Radioactive
+Rriocard  	5	M	warm purple         	Radioactive
+Irvin     	5	M	dark navy blue      	Healthy
+Rosalynd  	5	F	warm purple         	Radioactive
+Ryan      	5	M	dark navy blue      	Radioactive
+Keelia    	5	F	warm purple         	Radioactive
+Gaby      	5	F	dark navy blue      	Radioactive
+Sigismond 	5	M	warm purple         	Radioactive
+Claudelle 	5	F	dark navy blue      	Radioactive
+Rose      	5	F	dark navy blue      	Healthy
+Phineas   	5	M	warm purple         	Radioactive
+Earl      	5	M	warm purple         	Healthy
+Katey     	5	F	warm purple         	Radioactive
+Reginald  	5	M	dark navy blue      	Healthy
+Davidde   	5	M	warm purple         	Radioactive
+Katrine   	5	F	warm purple         	Radioactive
+Charlean  	4	F	warm purple         	Radioactive
+Waring    	4	M	warm purple         	Radioactive
+Madelon   	4	F	dark navy blue      	Radioactive
+Zonda     	4	F	warm purple         	Radioactive
+Florella  	4	F	warm purple         	Radioactive
+Jorey     	4	F	warm purple         	Radioactive
+Don       	4	M	warm purple         	Radioactive
+Madelyn   	4	F	warm purple         	Radioactive
+Dacie     	4	F	warm purple         	Radioactive
+Beryle    	4	F	dark navy blue      	Healthy
+Donn      	4	M	dark navy blue      	Radioactive
+Jillane   	4	F	warm purple         	Radioactive
+Crissy    	4	F	warm purple         	Radioactive
+Colin     	4	M	dark navy blue      	Radioactive
+Katrina   	4	F	warm purple         	Radioactive
+Rutter    	4	M	warm purple         	Radioactive
+Rosella   	4	F	dark navy blue      	Healthy
+Tad       	4	M	dark navy blue      	Healthy
+Dorise    	4	F	warm purple         	Healthy
+Shaun     	4	F	warm purple         	Radioactive
+Ellary    	4	M	dark navy blue      	Radioactive
+Gill      	4	M	dark navy blue      	Healthy
+Husain    	4	M	warm purple         	Radioactive
+Mabel     	4	F	dark navy blue      	Radioactive
+Lesly     	4	F	warm purple         	Radioactive
+Buiron    	4	M	warm purple         	Radioactive
+Rianon    	4	F	dark navy blue      	Radioactive
+Jaquith   	4	F	warm purple         	Radioactive
+Shurwood  	4	M	warm purple         	Radioactive
+Thebault  	4	M	dark navy blue      	Healthy
+Adams     	4	M	warm purple         	Radioactive
+Shaina    	4	F	warm purple         	Radioactive
+Daren     	4	M	dark navy blue      	Healthy
+Candide   	4	F	warm purple         	Radioactive
+Brittany  	3	F	warm purple         	Radioactive
+Shadow    	3	M	dark navy blue      	Radioactive
+Sandro    	3	M	warm purple         	Radioactive
+Bel       	3	F	warm purple         	Radioactive
+Quincey   	3	M	warm purple         	Radioactive
+Theobald  	3	M	warm purple         	Radioactive
+Shelley   	3	F	dark navy blue      	Healthy
+Kaile     	3	F	dark navy blue      	Radioactive
+Tome      	3	M	warm purple         	Radioactive
+Kevan     	3	M	dark navy blue      	Radioactive
+Bogart    	3	M	warm purple         	Radioactive
+Austina   	3	F	warm purple         	Radioactive
+Bobbi     	3	F	warm purple         	Radioactive
+Delmar    	3	M	dark navy blue      	Radioactive
+Bengt     	3	M	dark navy blue      	Radioactive
+Meredeth  	3	M	dark navy blue      	Radioactive
+Wheeler   	3	M	warm purple         	Radioactive
+Leland    	3	M	dark navy blue      	Radioactive
+Brina     	3	F	warm purple         	Radioactive
+Jillane   	3	F	dark navy blue      	Healthy
+Dede      	3	F	warm purple         	Radioactive
+Lindon    	3	M	dark navy blue      	Healthy
+Darren    	3	M	warm purple         	Radioactive
+Ruprecht  	3	M	warm purple         	Radioactive
+Tarah     	3	F	dark navy blue      	Healthy
+Lorene    	3	F	dark navy blue      	Radioactive
+Danella   	3	F	dark navy blue      	Radioactive
+Paton     	3	M	dark navy blue      	Radioactive
+Adella    	3	F	warm purple         	Radioactive
+Dolley    	3	F	warm purple         	Radioactive
+Sonnie    	3	F	warm purple         	Radioactive
+Tracey    	3	M	dark navy blue      	Radioactive
+Ruthy     	3	F	dark navy blue      	Healthy
+Mile      	2	M	warm purple         	Radioactive
+Iona      	2	F	dark navy blue      	Radioactive
+Perrine   	2	F	warm purple         	Radioactive
+Jenelle   	2	F	warm purple         	Radioactive
+Berni     	2	F	dark navy blue      	Healthy
+Malanie   	2	F	dark navy blue      	Radioactive
+Homer     	2	M	warm purple         	Radioactive
+Alastair  	2	M	dark navy blue      	Radioactive
+Jarrod    	2	M	warm purple         	Radioactive
+Wang      	2	M	warm purple         	Radioactive
+Dame      	2	M	dark navy blue      	Radioactive
+Maxi      	2	F	dark navy blue      	Radioactive
+Dana      	2	F	warm purple         	Radioactive
+Avie      	2	F	dark navy blue      	Radioactive
+Darsey    	2	F	warm purple         	Radioactive
+Domini    	2	F	dark navy blue      	Radioactive
+Marylou   	2	F	warm purple         	Radioactive
+Farlay    	2	M	dark navy blue      	Healthy
+Delinda   	2	F	warm purple         	Radioactive
+Alonso    	2	M	warm purple         	Radioactive
+Della     	2	F	dark navy blue      	Radioactive
+Armando   	2	M	warm purple         	Radioactive
+Nikola    	2	M	dark navy blue      	Healthy
+Glenn     	2	F	warm purple         	Radioactive
+Artemis   	2	M	dark navy blue      	Healthy
+Carie     	2	F	dark navy blue      	Radioactive
+Fenelia   	2	F	warm purple         	Radioactive
+Evyn      	2	M	warm purple         	Radioactive
+Towney    	2	M	dark navy blue      	Radioactive
+Symon     	2	M	dark navy blue      	Healthy
+Ibrahim   	2	M	warm purple         	Radioactive
+Crissie   	2	F	dark navy blue      	Healthy
+Brier     	2	F	warm purple         	Radioactive
+Friedrick 	2	M	dark navy blue      	Healthy
+Berni     	2	F	warm purple         	Healthy
+Bendite   	2	F	dark navy blue      	Healthy
+Emelyne   	2	F	dark navy blue      	Healthy
+Langsdon  	1	M	warm purple         	Radioactive
+Hannah    	1	F	dark navy blue      	Healthy
+Alyce     	1	F	dark navy blue      	Radioactive
+Mady      	1	F	warm purple         	Radioactive
+Carlina   	1	F	dark navy blue      	Radioactive
+Tanny     	1	M	warm purple         	Radioactive
+Lalo      	1	M	dark navy blue      	Radioactive
+Janith    	1	F	dark navy blue      	Radioactive
+Beckie    	1	F	warm purple         	Radioactive
+Fredra    	1	F	dark navy blue      	Healthy
+Shanda    	1	F	warm purple         	Radioactive
+Marlow    	1	M	dark navy blue      	Radioactive
+Daffy     	1	F	dark navy blue      	Healthy
+Lula      	1	F	warm purple         	Radioactive
+Ammamaria 	1	F	dark navy blue      	Healthy
+Vanessa   	1	F	warm purple         	Radioactive
+Merilyn   	1	F	dark navy blue      	Healthy
+Cherise   	1	F	dark navy blue      	Radioactive
+Ginni     	1	F	warm purple         	Radioactive
+Querida   	1	F	dark navy blue      	Radioactive
+Lorie     	1	F	dark navy blue      	Healthy
+Lucian    	1	M	warm purple         	Healthy
+Jakie     	1	M	dark navy blue      	Healthy
+Eldredge  	1	M	dark navy blue      	Healthy
+Marcus    	1	M	dark navy blue      	Healthy
+Nollie    	1	F	dark navy blue      	Healthy
+Lowrance  	1	M	warm purple         	Radioactive
+Stesha    	0	F	dark navy blue      	Healthy
+Paco      	0	M	warm purple         	Radioactive
+Silvan    	0	M	dark navy blue      	Healthy
+Darius    	0	M	warm purple         	Radioactive
+Dav       	0	M	dark navy blue      	Healthy
+Milo      	0	M	warm purple         	Radioactive
+Vevay     	0	F	dark navy blue      	Healthy
+Eal       	0	M	warm purple         	Radioactive
+Celestyna 	0	F	dark navy blue      	Healthy
+Any       	0	M	dark navy blue      	Healthy
+Tab       	0	M	warm purple         	Radioactive
+Odey      	0	M	dark navy blue      	Healthy
+Idette    	0	F	warm purple         	Healthy
+Tamar     	0	F	dark navy blue      	Healthy
+Anthe     	0	F	dark navy blue      	Healthy
+Marsiella 	0	F	warm purple         	Radioactive
+Jaynell   	0	F	dark navy blue      	Radioactive
+Wildon    	0	M	dark navy blue      	Healthy
+Vanny     	0	F	dark navy blue      	Healthy
+Roana     	0	F	dark navy blue      	Healthy
+Ernie     	0	M	dark navy blue      	Healthy
+Ignace    	0	M	dark navy blue      	Healthy
+Jeannette 	0	F	warm purple         	Radioactive
+Natala    	0	F	dark navy blue      	Healthy
+Marybelle 	0	F	dark navy blue      	Healthy
+Ardene    	0	F	dark navy blue      	Healthy
+Roman     	0	M	dark navy blue      	Healthy
+Rochester 	0	M	warm purple         	Healthy
+Caesar    	0	M	dark navy blue      	Healthy
+Augusto   	0	M	dark navy blue      	Healthy
+------------------------------------------------------------------------
+Bobbee    	10	F	warm purple         	Radioactive
+Francine  	10	F	dark navy blue      	Healthy
+Grantham  	10	M	warm purple         	Radioactive
+Debi      	10	F	dark navy blue      	Radioactive
+Millisent 	10	F	warm purple         	Radioactive
+Shelley   	10	F	warm purple         	Radioactive
+Hedy      	10	F	warm purple         	Radioactive
+Sinclair  	10	M	warm purple         	Radioactive
+Jarret    	10	M	warm purple         	Radioactive
+Mallissa  	10	F	dark navy blue      	Radioactive
+Carmine   	10	F	warm purple         	Radioactive
+Anstice   	10	F	warm purple         	Radioactive
+Tildy     	10	F	warm purple         	Radioactive
+Annabelle 	10	F	dark navy blue      	Radioactive
+Linette   	10	F	warm purple         	Radioactive
+Sallyanne 	10	F	warm purple         	Radioactive
+Drucie    	10	F	warm purple         	Radioactive
+Kean      	9	M	warm purple         	Radioactive
+Veronika  	9	F	dark navy blue      	Healthy
+Lynelle   	9	F	warm purple         	Radioactive
+Shandie   	9	F	dark navy blue      	Radioactive
+Lisbeth   	9	F	warm purple         	Radioactive
+Alonso    	9	M	warm purple         	Radioactive
+Barney    	9	M	warm purple         	Radioactive
+Velma     	9	F	warm purple         	Radioactive
+Fredericka	9	F	warm purple         	Radioactive
+Gussie    	9	F	dark navy blue      	Radioactive
+Christalle	9	F	warm purple         	Radioactive
+Minette   	9	F	warm purple         	Radioactive
+Courtney  	9	F	warm purple         	Radioactive
+Kassey    	9	F	dark navy blue      	Radioactive
+Jaimie    	9	M	warm purple         	Radioactive
+Andonis   	9	M	warm purple         	Radioactive
+Arch      	9	M	warm purple         	Radioactive
+Lesley    	9	M	warm purple         	Radioactive
+Lenette   	9	F	warm purple         	Radioactive
+Kingston  	9	M	warm purple         	Radioactive
+Dom       	9	M	warm purple         	Radioactive
+Mirabella 	9	F	warm purple         	Radioactive
+Robert    	9	M	warm purple         	Radioactive
+Analise   	9	F	warm purple         	Radioactive
+Chilton   	9	M	warm purple         	Radioactive
+Michell   	8	F	dark navy blue      	Radioactive
+Salli     	8	F	warm purple         	Radioactive
+Carlo     	8	M	warm purple         	Radioactive
+Benedicto 	8	M	warm purple         	Radioactive
+Hewie     	8	M	warm purple         	Radioactive
+Decca     	8	M	dark navy blue      	Radioactive
+Gib       	8	M	warm purple         	Radioactive
+Antone    	8	M	warm purple         	Radioactive
+Gannie    	8	M	dark navy blue      	Radioactive
+Chrystel  	8	F	warm purple         	Radioactive
+Ferdinanda	8	F	warm purple         	Radioactive
+Zebedee   	8	M	warm purple         	Radioactive
+Caritta   	8	F	warm purple         	Radioactive
+Terence   	8	M	warm purple         	Radioactive
+Siward    	8	M	warm purple         	Radioactive
+Aloysius  	8	M	warm purple         	Radioactive
+Lucian    	8	M	warm purple         	Radioactive
+Lane      	8	F	warm purple         	Radioactive
+Roselia   	8	F	warm purple         	Radioactive
+Renie     	8	F	dark navy blue      	Healthy
+Dominik   	8	M	dark navy blue      	Radioactive
+Harv      	8	M	warm purple         	Radioactive
+Ilsa      	8	F	warm purple         	Radioactive
+Park      	8	M	dark navy blue      	Radioactive
+Waldemar  	8	M	warm purple         	Radioactive
+Aubert    	8	M	warm purple         	Radioactive
+Nathanil  	8	M	dark navy blue      	Radioactive
+Karola    	8	F	warm purple         	Radioactive
+Helaine   	8	F	warm purple         	Radioactive
+Yorgo     	8	M	warm purple         	Radioactive
+Robina    	7	F	warm purple         	Radioactive
+Raimund   	7	M	dark navy blue      	Radioactive
+Conrade   	7	M	warm purple         	Radioactive
+Rollin    	7	M	warm purple         	Radioactive
+Lyman     	7	M	warm purple         	Radioactive
+Joellen   	7	F	dark navy blue      	Radioactive
+Braden    	7	M	warm purple         	Radioactive
+Ammamaria 	7	F	warm purple         	Radioactive
+Zebulon   	7	M	dark navy blue      	Radioactive
+Carter    	7	M	warm purple         	Radioactive
+Kiah      	7	F	warm purple         	Radioactive
+Josiah    	7	M	warm purple         	Radioactive
+Electra   	7	F	warm purple         	Radioactive
+Alex      	7	M	warm purple         	Radioactive
+Lolita    	7	F	warm purple         	Radioactive
+Wilton    	7	M	warm purple         	Radioactive
+Teddie    	7	F	dark navy blue      	Radioactive
+Gabriel   	7	M	dark navy blue      	Radioactive
+Harmonia  	7	F	warm purple         	Radioactive
+Quinton   	7	M	warm purple         	Radioactive
+Casper    	7	M	dark navy blue      	Radioactive
+Dael      	7	F	warm purple         	Radioactive
+Halsey    	7	M	dark navy blue      	Radioactive
+Mart      	7	M	warm purple         	Radioactive
+Brandi    	7	F	warm purple         	Radioactive
+Josee     	7	F	warm purple         	Radioactive
+Elvina    	7	F	dark navy blue      	Radioactive
+Wolfie    	7	M	dark navy blue      	Radioactive
+Mathilda  	7	F	warm purple         	Radioactive
+Brigham   	7	M	dark navy blue      	Radioactive
+Abie      	7	M	warm purple         	Radioactive
+Kristen   	7	F	warm purple         	Radioactive
+Harmonie  	7	F	warm purple         	Radioactive
+Luciana   	7	F	dark navy blue      	Radioactive
+Edyth     	6	F	dark navy blue      	Radioactive
+Devon     	6	F	warm purple         	Radioactive
+Frans     	6	M	warm purple         	Radioactive
+Taddeusz  	6	M	warm purple         	Radioactive
+Michele   	6	M	warm purple         	Radioactive
+Kevon     	6	M	dark navy blue      	Healthy
+Sharai    	6	F	warm purple         	Radioactive
+Drucill   	6	F	warm purple         	Radioactive
+Durant    	6	M	warm purple         	Radioactive
+Tanhya    	6	F	warm purple         	Radioactive
+Candi     	6	F	warm purple         	Radioactive
+Jessica   	6	F	warm purple         	Radioactive
+Georges   	6	M	warm purple         	Radioactive
+Archibald 	6	M	dark navy blue      	Radioactive
+Zandra    	6	F	dark navy blue      	Radioactive
+Ibbie     	6	F	warm purple         	Radioactive
+Shannan   	6	M	warm purple         	Radioactive
+Oralee    	6	F	dark navy blue      	Radioactive
+Sarajane  	6	F	warm purple         	Radioactive
+Grayce    	6	F	warm purple         	Radioactive
+Tabbitha  	6	F	warm purple         	Radioactive
+Rriocard  	6	M	warm purple         	Radioactive
+Irvin     	6	M	dark navy blue      	Healthy
+Rosalynd  	6	F	warm purple         	Radioactive
+Ryan      	6	M	dark navy blue      	Radioactive
+Keelia    	6	F	warm purple         	Radioactive
+Gaby      	6	F	dark navy blue      	Radioactive
+Sigismond 	6	M	warm purple         	Radioactive
+Claudelle 	6	F	dark navy blue      	Radioactive
+Rose      	6	F	dark navy blue      	Radioactive
+Phineas   	6	M	warm purple         	Radioactive
+Earl      	6	M	warm purple         	Healthy
+Katey     	6	F	warm purple         	Radioactive
+Reginald  	6	M	dark navy blue      	Radioactive
+Davidde   	6	M	warm purple         	Radioactive
+Katrine   	6	F	warm purple         	Radioactive
+Charlean  	5	F	warm purple         	Radioactive
+Waring    	5	M	warm purple         	Radioactive
+Madelon   	5	F	dark navy blue      	Radioactive
+Zonda     	5	F	warm purple         	Radioactive
+Florella  	5	F	warm purple         	Radioactive
+Jorey     	5	F	warm purple         	Radioactive
+Don       	5	M	warm purple         	Radioactive
+Madelyn   	5	F	warm purple         	Radioactive
+Dacie     	5	F	warm purple         	Radioactive
+Beryle    	5	F	dark navy blue      	Radioactive
+Donn      	5	M	dark navy blue      	Radioactive
+Jillane   	5	F	warm purple         	Radioactive
+Crissy    	5	F	warm purple         	Radioactive
+Colin     	5	M	dark navy blue      	Radioactive
+Katrina   	5	F	warm purple         	Radioactive
+Rutter    	5	M	warm purple         	Radioactive
+Rosella   	5	F	dark navy blue      	Radioactive
+Tad       	5	M	dark navy blue      	Radioactive
+Dorise    	5	F	warm purple         	Radioactive
+Shaun     	5	F	warm purple         	Radioactive
+Ellary    	5	M	dark navy blue      	Radioactive
+Gill      	5	M	dark navy blue      	Radioactive
+Husain    	5	M	warm purple         	Radioactive
+Mabel     	5	F	dark navy blue      	Radioactive
+Lesly     	5	F	warm purple         	Radioactive
+Buiron    	5	M	warm purple         	Radioactive
+Rianon    	5	F	dark navy blue      	Radioactive
+Jaquith   	5	F	warm purple         	Radioactive
+Shurwood  	5	M	warm purple         	Radioactive
+Thebault  	5	M	dark navy blue      	Radioactive
+Adams     	5	M	warm purple         	Radioactive
+Shaina    	5	F	warm purple         	Radioactive
+Daren     	5	M	dark navy blue      	Healthy
+Candide   	5	F	warm purple         	Radioactive
+Brittany  	4	F	warm purple         	Radioactive
+Shadow    	4	M	dark navy blue      	Radioactive
+Sandro    	4	M	warm purple         	Radioactive
+Bel       	4	F	warm purple         	Radioactive
+Quincey   	4	M	warm purple         	Radioactive
+Theobald  	4	M	warm purple         	Radioactive
+Shelley   	4	F	dark navy blue      	Healthy
+Kaile     	4	F	dark navy blue      	Radioactive
+Tome      	4	M	warm purple         	Radioactive
+Kevan     	4	M	dark navy blue      	Radioactive
+Bogart    	4	M	warm purple         	Radioactive
+Austina   	4	F	warm purple         	Radioactive
+Bobbi     	4	F	warm purple         	Radioactive
+Delmar    	4	M	dark navy blue      	Radioactive
+Bengt     	4	M	dark navy blue      	Radioactive
+Meredeth  	4	M	dark navy blue      	Radioactive
+Wheeler   	4	M	warm purple         	Radioactive
+Leland    	4	M	dark navy blue      	Radioactive
+Brina     	4	F	warm purple         	Radioactive
+Jillane   	4	F	dark navy blue      	Radioactive
+Dede      	4	F	warm purple         	Radioactive
+Lindon    	4	M	dark navy blue      	Healthy
+Darren    	4	M	warm purple         	Radioactive
+Ruprecht  	4	M	warm purple         	Radioactive
+Tarah     	4	F	dark navy blue      	Healthy
+Lorene    	4	F	dark navy blue      	Radioactive
+Danella   	4	F	dark navy blue      	Radioactive
+Paton     	4	M	dark navy blue      	Radioactive
+Adella    	4	F	warm purple         	Radioactive
+Dolley    	4	F	warm purple         	Radioactive
+Sonnie    	4	F	warm purple         	Radioactive
+Tracey    	4	M	dark navy blue      	Radioactive
+Ruthy     	4	F	dark navy blue      	Radioactive
+Mile      	3	M	warm purple         	Radioactive
+Iona      	3	F	dark navy blue      	Radioactive
+Perrine   	3	F	warm purple         	Radioactive
+Jenelle   	3	F	warm purple         	Radioactive
+Berni     	3	F	dark navy blue      	Healthy
+Malanie   	3	F	dark navy blue      	Radioactive
+Homer     	3	M	warm purple         	Radioactive
+Alastair  	3	M	dark navy blue      	Radioactive
+Jarrod    	3	M	warm purple         	Radioactive
+Wang      	3	M	warm purple         	Radioactive
+Dame      	3	M	dark navy blue      	Radioactive
+Maxi      	3	F	dark navy blue      	Radioactive
+Dana      	3	F	warm purple         	Radioactive
+Avie      	3	F	dark navy blue      	Radioactive
+Darsey    	3	F	warm purple         	Radioactive
+Domini    	3	F	dark navy blue      	Radioactive
+Marylou   	3	F	warm purple         	Radioactive
+Farlay    	3	M	dark navy blue      	Healthy
+Delinda   	3	F	warm purple         	Radioactive
+Alonso    	3	M	warm purple         	Radioactive
+Della     	3	F	dark navy blue      	Radioactive
+Armando   	3	M	warm purple         	Radioactive
+Nikola    	3	M	dark navy blue      	Healthy
+Glenn     	3	F	warm purple         	Radioactive
+Artemis   	3	M	dark navy blue      	Radioactive
+Carie     	3	F	dark navy blue      	Radioactive
+Fenelia   	3	F	warm purple         	Radioactive
+Evyn      	3	M	warm purple         	Radioactive
+Towney    	3	M	dark navy blue      	Radioactive
+Symon     	3	M	dark navy blue      	Radioactive
+Ibrahim   	3	M	warm purple         	Radioactive
+Crissie   	3	F	dark navy blue      	Radioactive
+Brier     	3	F	warm purple         	Radioactive
+Friedrick 	3	M	dark navy blue      	Radioactive
+Berni     	3	F	warm purple         	Radioactive
+Bendite   	3	F	dark navy blue      	Healthy
+Emelyne   	3	F	dark navy blue      	Healthy
+Langsdon  	2	M	warm purple         	Radioactive
+Hannah    	2	F	dark navy blue      	Healthy
+Alyce     	2	F	dark navy blue      	Radioactive
+Mady      	2	F	warm purple         	Radioactive
+Carlina   	2	F	dark navy blue      	Radioactive
+Tanny     	2	M	warm purple         	Radioactive
+Lalo      	2	M	dark navy blue      	Radioactive
+Janith    	2	F	dark navy blue      	Radioactive
+Beckie    	2	F	warm purple         	Radioactive
+Fredra    	2	F	dark navy blue      	Healthy
+Shanda    	2	F	warm purple         	Radioactive
+Marlow    	2	M	dark navy blue      	Radioactive
+Daffy     	2	F	dark navy blue      	Healthy
+Lula      	2	F	warm purple         	Radioactive
+Ammamaria 	2	F	dark navy blue      	Healthy
+Vanessa   	2	F	warm purple         	Radioactive
+Merilyn   	2	F	dark navy blue      	Healthy
+Cherise   	2	F	dark navy blue      	Radioactive
+Ginni     	2	F	warm purple         	Radioactive
+Querida   	2	F	dark navy blue      	Radioactive
+Lorie     	2	F	dark navy blue      	Radioactive
+Lucian    	2	M	warm purple         	Healthy
+Jakie     	2	M	dark navy blue      	Healthy
+Eldredge  	2	M	dark navy blue      	Healthy
+Marcus    	2	M	dark navy blue      	Healthy
+Nollie    	2	F	dark navy blue      	Healthy
+Lowrance  	2	M	warm purple         	Radioactive
+Stesha    	1	F	dark navy blue      	Radioactive
+Paco      	1	M	warm purple         	Radioactive
+Silvan    	1	M	dark navy blue      	Radioactive
+Darius    	1	M	warm purple         	Radioactive
+Dav       	1	M	dark navy blue      	Radioactive
+Milo      	1	M	warm purple         	Radioactive
+Vevay     	1	F	dark navy blue      	Healthy
+Eal       	1	M	warm purple         	Radioactive
+Celestyna 	1	F	dark navy blue      	Radioactive
+Any       	1	M	dark navy blue      	Radioactive
+Tab       	1	M	warm purple         	Radioactive
+Odey      	1	M	dark navy blue      	Radioactive
+Idette    	1	F	warm purple         	Radioactive
+Tamar     	1	F	dark navy blue      	Radioactive
+Anthe     	1	F	dark navy blue      	Radioactive
+Marsiella 	1	F	warm purple         	Radioactive
+Jaynell   	1	F	dark navy blue      	Radioactive
+Wildon    	1	M	dark navy blue      	Radioactive
+Vanny     	1	F	dark navy blue      	Radioactive
+Roana     	1	F	dark navy blue      	Healthy
+Ernie     	1	M	dark navy blue      	Healthy
+Ignace    	1	M	dark navy blue      	Healthy
+Jeannette 	1	F	warm purple         	Radioactive
+Natala    	1	F	dark navy blue      	Radioactive
+Marybelle 	1	F	dark navy blue      	Healthy
+Ardene    	1	F	dark navy blue      	Radioactive
+Roman     	1	M	dark navy blue      	Radioactive
+Rochester 	1	M	warm purple         	Radioactive
+Caesar    	1	M	dark navy blue      	Healthy
+Augusto   	1	M	dark navy blue      	Radioactive
+Melloney  	0	F	dark navy blue      	Healthy
+Broderick 	0	M	dark navy blue      	Radioactive
+Garek     	0	M	dark navy blue      	Healthy
+Fulvia    	0	F	dark navy blue      	Radioactive
+Mickie    	0	F	dark navy blue      	Radioactive
+Sibel     	0	F	warm purple         	Healthy
+Darla     	0	F	dark navy blue      	Radioactive
+Mireielle 	0	F	dark navy blue      	Radioactive
+Frieda    	0	F	dark navy blue      	Healthy
+Oralle    	0	F	dark navy blue      	Healthy
+Janetta   	0	F	dark navy blue      	Healthy
+Melanie   	0	F	dark navy blue      	Healthy
+Chucho    	0	M	dark navy blue      	Radioactive
+Rosana    	0	F	dark navy blue      	Healthy
+Neville   	0	M	dark navy blue      	Healthy
+------------------------------------------------------------------------
+Kean      	10	M	warm purple         	Radioactive
+Veronika  	10	F	dark navy blue      	Healthy
+Lynelle   	10	F	warm purple         	Radioactive
+Shandie   	10	F	dark navy blue      	Radioactive
+Lisbeth   	10	F	warm purple         	Radioactive
+Alonso    	10	M	warm purple         	Radioactive
+Barney    	10	M	warm purple         	Radioactive
+Velma     	10	F	warm purple         	Radioactive
+Fredericka	10	F	warm purple         	Radioactive
+Gussie    	10	F	dark navy blue      	Radioactive
+Christalle	10	F	warm purple         	Radioactive
+Minette   	10	F	warm purple         	Radioactive
+Courtney  	10	F	warm purple         	Radioactive
+Kassey    	10	F	dark navy blue      	Radioactive
+Jaimie    	10	M	warm purple         	Radioactive
+Andonis   	10	M	warm purple         	Radioactive
+Arch      	10	M	warm purple         	Radioactive
+Lesley    	10	M	warm purple         	Radioactive
+Lenette   	10	F	warm purple         	Radioactive
+Kingston  	10	M	warm purple         	Radioactive
+Dom       	10	M	warm purple         	Radioactive
+Mirabella 	10	F	warm purple         	Radioactive
+Robert    	10	M	warm purple         	Radioactive
+Analise   	10	F	warm purple         	Radioactive
+Chilton   	10	M	warm purple         	Radioactive
+Michell   	9	F	dark navy blue      	Radioactive
+Salli     	9	F	warm purple         	Radioactive
+Carlo     	9	M	warm purple         	Radioactive
+Benedicto 	9	M	warm purple         	Radioactive
+Hewie     	9	M	warm purple         	Radioactive
+Decca     	9	M	dark navy blue      	Radioactive
+Gib       	9	M	warm purple         	Radioactive
+Antone    	9	M	warm purple         	Radioactive
+Gannie    	9	M	dark navy blue      	Radioactive
+Chrystel  	9	F	warm purple         	Radioactive
+Ferdinanda	9	F	warm purple         	Radioactive
+Zebedee   	9	M	warm purple         	Radioactive
+Caritta   	9	F	warm purple         	Radioactive
+Terence   	9	M	warm purple         	Radioactive
+Siward    	9	M	warm purple         	Radioactive
+Aloysius  	9	M	warm purple         	Radioactive
+Lucian    	9	M	warm purple         	Radioactive
+Lane      	9	F	warm purple         	Radioactive
+Roselia   	9	F	warm purple         	Radioactive
+Renie     	9	F	dark navy blue      	Radioactive
+Dominik   	9	M	dark navy blue      	Radioactive
+Harv      	9	M	warm purple         	Radioactive
+Ilsa      	9	F	warm purple         	Radioactive
+Park      	9	M	dark navy blue      	Radioactive
+Waldemar  	9	M	warm purple         	Radioactive
+Aubert    	9	M	warm purple         	Radioactive
+Nathanil  	9	M	dark navy blue      	Radioactive
+Karola    	9	F	warm purple         	Radioactive
+Helaine   	9	F	warm purple         	Radioactive
+Yorgo     	9	M	warm purple         	Radioactive
+Robina    	8	F	warm purple         	Radioactive
+Raimund   	8	M	dark navy blue      	Radioactive
+Conrade   	8	M	warm purple         	Radioactive
+Rollin    	8	M	warm purple         	Radioactive
+Lyman     	8	M	warm purple         	Radioactive
+Joellen   	8	F	dark navy blue      	Radioactive
+Braden    	8	M	warm purple         	Radioactive
+Ammamaria 	8	F	warm purple         	Radioactive
+Zebulon   	8	M	dark navy blue      	Radioactive
+Carter    	8	M	warm purple         	Radioactive
+Kiah      	8	F	warm purple         	Radioactive
+Josiah    	8	M	warm purple         	Radioactive
+Electra   	8	F	warm purple         	Radioactive
+Alex      	8	M	warm purple         	Radioactive
+Lolita    	8	F	warm purple         	Radioactive
+Wilton    	8	M	warm purple         	Radioactive
+Teddie    	8	F	dark navy blue      	Radioactive
+Gabriel   	8	M	dark navy blue      	Radioactive
+Harmonia  	8	F	warm purple         	Radioactive
+Quinton   	8	M	warm purple         	Radioactive
+Casper    	8	M	dark navy blue      	Radioactive
+Dael      	8	F	warm purple         	Radioactive
+Halsey    	8	M	dark navy blue      	Radioactive
+Mart      	8	M	warm purple         	Radioactive
+Brandi    	8	F	warm purple         	Radioactive
+Josee     	8	F	warm purple         	Radioactive
+Elvina    	8	F	dark navy blue      	Radioactive
+Wolfie    	8	M	dark navy blue      	Radioactive
+Mathilda  	8	F	warm purple         	Radioactive
+Brigham   	8	M	dark navy blue      	Radioactive
+Abie      	8	M	warm purple         	Radioactive
+Kristen   	8	F	warm purple         	Radioactive
+Harmonie  	8	F	warm purple         	Radioactive
+Luciana   	8	F	dark navy blue      	Radioactive
+Edyth     	7	F	dark navy blue      	Radioactive
+Devon     	7	F	warm purple         	Radioactive
+Frans     	7	M	warm purple         	Radioactive
+Taddeusz  	7	M	warm purple         	Radioactive
+Michele   	7	M	warm purple         	Radioactive
+Kevon     	7	M	dark navy blue      	Radioactive
+Sharai    	7	F	warm purple         	Radioactive
+Drucill   	7	F	warm purple         	Radioactive
+Durant    	7	M	warm purple         	Radioactive
+Tanhya    	7	F	warm purple         	Radioactive
+Candi     	7	F	warm purple         	Radioactive
+Jessica   	7	F	warm purple         	Radioactive
+Georges   	7	M	warm purple         	Radioactive
+Archibald 	7	M	dark navy blue      	Radioactive
+Zandra    	7	F	dark navy blue      	Radioactive
+Ibbie     	7	F	warm purple         	Radioactive
+Shannan   	7	M	warm purple         	Radioactive
+Oralee    	7	F	dark navy blue      	Radioactive
+Sarajane  	7	F	warm purple         	Radioactive
+Grayce    	7	F	warm purple         	Radioactive
+Tabbitha  	7	F	warm purple         	Radioactive
+Rriocard  	7	M	warm purple         	Radioactive
+Irvin     	7	M	dark navy blue      	Radioactive
+Rosalynd  	7	F	warm purple         	Radioactive
+Ryan      	7	M	dark navy blue      	Radioactive
+Keelia    	7	F	warm purple         	Radioactive
+Gaby      	7	F	dark navy blue      	Radioactive
+Sigismond 	7	M	warm purple         	Radioactive
+Claudelle 	7	F	dark navy blue      	Radioactive
+Rose      	7	F	dark navy blue      	Radioactive
+Phineas   	7	M	warm purple         	Radioactive
+Earl      	7	M	warm purple         	Radioactive
+Katey     	7	F	warm purple         	Radioactive
+Reginald  	7	M	dark navy blue      	Radioactive
+Davidde   	7	M	warm purple         	Radioactive
+Katrine   	7	F	warm purple         	Radioactive
+Charlean  	6	F	warm purple         	Radioactive
+Waring    	6	M	warm purple         	Radioactive
+Madelon   	6	F	dark navy blue      	Radioactive
+Zonda     	6	F	warm purple         	Radioactive
+Florella  	6	F	warm purple         	Radioactive
+Jorey     	6	F	warm purple         	Radioactive
+Don       	6	M	warm purple         	Radioactive
+Madelyn   	6	F	warm purple         	Radioactive
+Dacie     	6	F	warm purple         	Radioactive
+Beryle    	6	F	dark navy blue      	Radioactive
+Donn      	6	M	dark navy blue      	Radioactive
+Jillane   	6	F	warm purple         	Radioactive
+Crissy    	6	F	warm purple         	Radioactive
+Colin     	6	M	dark navy blue      	Radioactive
+Katrina   	6	F	warm purple         	Radioactive
+Rutter    	6	M	warm purple         	Radioactive
+Rosella   	6	F	dark navy blue      	Radioactive
+Tad       	6	M	dark navy blue      	Radioactive
+Dorise    	6	F	warm purple         	Radioactive
+Shaun     	6	F	warm purple         	Radioactive
+Ellary    	6	M	dark navy blue      	Radioactive
+Gill      	6	M	dark navy blue      	Radioactive
+Husain    	6	M	warm purple         	Radioactive
+Mabel     	6	F	dark navy blue      	Radioactive
+Lesly     	6	F	warm purple         	Radioactive
+Buiron    	6	M	warm purple         	Radioactive
+Rianon    	6	F	dark navy blue      	Radioactive
+Jaquith   	6	F	warm purple         	Radioactive
+Shurwood  	6	M	warm purple         	Radioactive
+Thebault  	6	M	dark navy blue      	Radioactive
+Adams     	6	M	warm purple         	Radioactive
+Shaina    	6	F	warm purple         	Radioactive
+Daren     	6	M	dark navy blue      	Radioactive
+Candide   	6	F	warm purple         	Radioactive
+Brittany  	5	F	warm purple         	Radioactive
+Shadow    	5	M	dark navy blue      	Radioactive
+Sandro    	5	M	warm purple         	Radioactive
+Bel       	5	F	warm purple         	Radioactive
+Quincey   	5	M	warm purple         	Radioactive
+Theobald  	5	M	warm purple         	Radioactive
+Shelley   	5	F	dark navy blue      	Radioactive
+Kaile     	5	F	dark navy blue      	Radioactive
+Tome      	5	M	warm purple         	Radioactive
+Kevan     	5	M	dark navy blue      	Radioactive
+Bogart    	5	M	warm purple         	Radioactive
+Austina   	5	F	warm purple         	Radioactive
+Bobbi     	5	F	warm purple         	Radioactive
+Delmar    	5	M	dark navy blue      	Radioactive
+Bengt     	5	M	dark navy blue      	Radioactive
+Meredeth  	5	M	dark navy blue      	Radioactive
+Wheeler   	5	M	warm purple         	Radioactive
+Leland    	5	M	dark navy blue      	Radioactive
+Brina     	5	F	warm purple         	Radioactive
+Jillane   	5	F	dark navy blue      	Radioactive
+Dede      	5	F	warm purple         	Radioactive
+Lindon    	5	M	dark navy blue      	Radioactive
+Darren    	5	M	warm purple         	Radioactive
+Ruprecht  	5	M	warm purple         	Radioactive
+Tarah     	5	F	dark navy blue      	Radioactive
+Lorene    	5	F	dark navy blue      	Radioactive
+Danella   	5	F	dark navy blue      	Radioactive
+Paton     	5	M	dark navy blue      	Radioactive
+Adella    	5	F	warm purple         	Radioactive
+Dolley    	5	F	warm purple         	Radioactive
+Sonnie    	5	F	warm purple         	Radioactive
+Tracey    	5	M	dark navy blue      	Radioactive
+Ruthy     	5	F	dark navy blue      	Radioactive
+Mile      	4	M	warm purple         	Radioactive
+Iona      	4	F	dark navy blue      	Radioactive
+Perrine   	4	F	warm purple         	Radioactive
+Jenelle   	4	F	warm purple         	Radioactive
+Berni     	4	F	dark navy blue      	Healthy
+Malanie   	4	F	dark navy blue      	Radioactive
+Homer     	4	M	warm purple         	Radioactive
+Alastair  	4	M	dark navy blue      	Radioactive
+Jarrod    	4	M	warm purple         	Radioactive
+Wang      	4	M	warm purple         	Radioactive
+Dame      	4	M	dark navy blue      	Radioactive
+Maxi      	4	F	dark navy blue      	Radioactive
+Dana      	4	F	warm purple         	Radioactive
+Avie      	4	F	dark navy blue      	Radioactive
+Darsey    	4	F	warm purple         	Radioactive
+Domini    	4	F	dark navy blue      	Radioactive
+Marylou   	4	F	warm purple         	Radioactive
+Farlay    	4	M	dark navy blue      	Healthy
+Delinda   	4	F	warm purple         	Radioactive
+Alonso    	4	M	warm purple         	Radioactive
+Della     	4	F	dark navy blue      	Radioactive
+Armando   	4	M	warm purple         	Radioactive
+Nikola    	4	M	dark navy blue      	Healthy
+Glenn     	4	F	warm purple         	Radioactive
+Artemis   	4	M	dark navy blue      	Radioactive
+Carie     	4	F	dark navy blue      	Radioactive
+Fenelia   	4	F	warm purple         	Radioactive
+Evyn      	4	M	warm purple         	Radioactive
+Towney    	4	M	dark navy blue      	Radioactive
+Symon     	4	M	dark navy blue      	Radioactive
+Ibrahim   	4	M	warm purple         	Radioactive
+Crissie   	4	F	dark navy blue      	Radioactive
+Brier     	4	F	warm purple         	Radioactive
+Friedrick 	4	M	dark navy blue      	Radioactive
+Berni     	4	F	warm purple         	Radioactive
+Bendite   	4	F	dark navy blue      	Healthy
+Emelyne   	4	F	dark navy blue      	Healthy
+Langsdon  	3	M	warm purple         	Radioactive
+Hannah    	3	F	dark navy blue      	Healthy
+Alyce     	3	F	dark navy blue      	Radioactive
+Mady      	3	F	warm purple         	Radioactive
+Carlina   	3	F	dark navy blue      	Radioactive
+Tanny     	3	M	warm purple         	Radioactive
+Lalo      	3	M	dark navy blue      	Radioactive
+Janith    	3	F	dark navy blue      	Radioactive
+Beckie    	3	F	warm purple         	Radioactive
+Fredra    	3	F	dark navy blue      	Radioactive
+Shanda    	3	F	warm purple         	Radioactive
+Marlow    	3	M	dark navy blue      	Radioactive
+Daffy     	3	F	dark navy blue      	Radioactive
+Lula      	3	F	warm purple         	Radioactive
+Ammamaria 	3	F	dark navy blue      	Radioactive
+Vanessa   	3	F	warm purple         	Radioactive
+Merilyn   	3	F	dark navy blue      	Radioactive
+Cherise   	3	F	dark navy blue      	Radioactive
+Ginni     	3	F	warm purple         	Radioactive
+Querida   	3	F	dark navy blue      	Radioactive
+Lorie     	3	F	dark navy blue      	Radioactive
+Lucian    	3	M	warm purple         	Radioactive
+Jakie     	3	M	dark navy blue      	Radioactive
+Eldredge  	3	M	dark navy blue      	Radioactive
+Marcus    	3	M	dark navy blue      	Radioactive
+Nollie    	3	F	dark navy blue      	Radioactive
+Lowrance  	3	M	warm purple         	Radioactive
+Stesha    	2	F	dark navy blue      	Radioactive
+Paco      	2	M	warm purple         	Radioactive
+Silvan    	2	M	dark navy blue      	Radioactive
+Darius    	2	M	warm purple         	Radioactive
+Dav       	2	M	dark navy blue      	Radioactive
+Milo      	2	M	warm purple         	Radioactive
+Vevay     	2	F	dark navy blue      	Healthy
+Eal       	2	M	warm purple         	Radioactive
+Celestyna 	2	F	dark navy blue      	Radioactive
+Any       	2	M	dark navy blue      	Radioactive
+Tab       	2	M	warm purple         	Radioactive
+Odey      	2	M	dark navy blue      	Radioactive
+Idette    	2	F	warm purple         	Radioactive
+Tamar     	2	F	dark navy blue      	Radioactive
+Anthe     	2	F	dark navy blue      	Radioactive
+Marsiella 	2	F	warm purple         	Radioactive
+Jaynell   	2	F	dark navy blue      	Radioactive
+Wildon    	2	M	dark navy blue      	Radioactive
+Vanny     	2	F	dark navy blue      	Radioactive
+Roana     	2	F	dark navy blue      	Radioactive
+Ernie     	2	M	dark navy blue      	Radioactive
+Ignace    	2	M	dark navy blue      	Healthy
+Jeannette 	2	F	warm purple         	Radioactive
+Natala    	2	F	dark navy blue      	Radioactive
+Marybelle 	2	F	dark navy blue      	Healthy
+Ardene    	2	F	dark navy blue      	Radioactive
+Roman     	2	M	dark navy blue      	Radioactive
+Rochester 	2	M	warm purple         	Radioactive
+Caesar    	2	M	dark navy blue      	Radioactive
+Augusto   	2	M	dark navy blue      	Radioactive
+Melloney  	1	F	dark navy blue      	Healthy
+Broderick 	1	M	dark navy blue      	Radioactive
+Garek     	1	M	dark navy blue      	Healthy
+Fulvia    	1	F	dark navy blue      	Radioactive
+Mickie    	1	F	dark navy blue      	Radioactive
+Sibel     	1	F	warm purple         	Radioactive
+Darla     	1	F	dark navy blue      	Radioactive
+Mireielle 	1	F	dark navy blue      	Radioactive
+Frieda    	1	F	dark navy blue      	Radioactive
+Oralle    	1	F	dark navy blue      	Healthy
+Janetta   	1	F	dark navy blue      	Healthy
+Melanie   	1	F	dark navy blue      	Healthy
+Chucho    	1	M	dark navy blue      	Radioactive
+Rosana    	1	F	dark navy blue      	Radioactive
+Neville   	1	M	dark navy blue      	Radioactive
+Hali      	0	F	dark navy blue      	Radioactive
+Tristam   	0	M	dark navy blue      	Radioactive
+Jennica   	0	F	dark navy blue      	Radioactive
+Rod       	0	M	dark navy blue      	Healthy
+Clare     	0	M	dark navy blue      	Healthy
+Waverley  	0	M	dark navy blue      	Radioactive
+Codee     	0	F	dark navy blue      	Radioactive
+Violetta  	0	F	dark navy blue      	Healthy
+Romy      	0	F	dark navy blue      	Healthy
+------------------------------------------------------------------------
+Michell   	10	F	dark navy blue      	Radioactive
+Salli     	10	F	warm purple         	Radioactive
+Carlo     	10	M	warm purple         	Radioactive
+Benedicto 	10	M	warm purple         	Radioactive
+Hewie     	10	M	warm purple         	Radioactive
+Decca     	10	M	dark navy blue      	Radioactive
+Gib       	10	M	warm purple         	Radioactive
+Antone    	10	M	warm purple         	Radioactive
+Gannie    	10	M	dark navy blue      	Radioactive
+Chrystel  	10	F	warm purple         	Radioactive
+Ferdinanda	10	F	warm purple         	Radioactive
+Zebedee   	10	M	warm purple         	Radioactive
+Caritta   	10	F	warm purple         	Radioactive
+Terence   	10	M	warm purple         	Radioactive
+Siward    	10	M	warm purple         	Radioactive
+Aloysius  	10	M	warm purple         	Radioactive
+Lucian    	10	M	warm purple         	Radioactive
+Lane      	10	F	warm purple         	Radioactive
+Roselia   	10	F	warm purple         	Radioactive
+Renie     	10	F	dark navy blue      	Radioactive
+Dominik   	10	M	dark navy blue      	Radioactive
+Harv      	10	M	warm purple         	Radioactive
+Ilsa      	10	F	warm purple         	Radioactive
+Park      	10	M	dark navy blue      	Radioactive
+Waldemar  	10	M	warm purple         	Radioactive
+Aubert    	10	M	warm purple         	Radioactive
+Nathanil  	10	M	dark navy blue      	Radioactive
+Karola    	10	F	warm purple         	Radioactive
+Helaine   	10	F	warm purple         	Radioactive
+Yorgo     	10	M	warm purple         	Radioactive
+Robina    	9	F	warm purple         	Radioactive
+Raimund   	9	M	dark navy blue      	Radioactive
+Conrade   	9	M	warm purple         	Radioactive
+Rollin    	9	M	warm purple         	Radioactive
+Lyman     	9	M	warm purple         	Radioactive
+Joellen   	9	F	dark navy blue      	Radioactive
+Braden    	9	M	warm purple         	Radioactive
+Ammamaria 	9	F	warm purple         	Radioactive
+Zebulon   	9	M	dark navy blue      	Radioactive
+Carter    	9	M	warm purple         	Radioactive
+Kiah      	9	F	warm purple         	Radioactive
+Josiah    	9	M	warm purple         	Radioactive
+Electra   	9	F	warm purple         	Radioactive
+Alex      	9	M	warm purple         	Radioactive
+Lolita    	9	F	warm purple         	Radioactive
+Wilton    	9	M	warm purple         	Radioactive
+Teddie    	9	F	dark navy blue      	Radioactive
+Gabriel   	9	M	dark navy blue      	Radioactive
+Harmonia  	9	F	warm purple         	Radioactive
+Quinton   	9	M	warm purple         	Radioactive
+Casper    	9	M	dark navy blue      	Radioactive
+Dael      	9	F	warm purple         	Radioactive
+Halsey    	9	M	dark navy blue      	Radioactive
+Mart      	9	M	warm purple         	Radioactive
+Brandi    	9	F	warm purple         	Radioactive
+Josee     	9	F	warm purple         	Radioactive
+Elvina    	9	F	dark navy blue      	Radioactive
+Wolfie    	9	M	dark navy blue      	Radioactive
+Mathilda  	9	F	warm purple         	Radioactive
+Brigham   	9	M	dark navy blue      	Radioactive
+Abie      	9	M	warm purple         	Radioactive
+Kristen   	9	F	warm purple         	Radioactive
+Harmonie  	9	F	warm purple         	Radioactive
+Luciana   	9	F	dark navy blue      	Radioactive
+Edyth     	8	F	dark navy blue      	Radioactive
+Devon     	8	F	warm purple         	Radioactive
+Frans     	8	M	warm purple         	Radioactive
+Taddeusz  	8	M	warm purple         	Radioactive
+Michele   	8	M	warm purple         	Radioactive
+Kevon     	8	M	dark navy blue      	Radioactive
+Sharai    	8	F	warm purple         	Radioactive
+Drucill   	8	F	warm purple         	Radioactive
+Durant    	8	M	warm purple         	Radioactive
+Tanhya    	8	F	warm purple         	Radioactive
+Candi     	8	F	warm purple         	Radioactive
+Jessica   	8	F	warm purple         	Radioactive
+Georges   	8	M	warm purple         	Radioactive
+Archibald 	8	M	dark navy blue      	Radioactive
+Zandra    	8	F	dark navy blue      	Radioactive
+Ibbie     	8	F	warm purple         	Radioactive
+Shannan   	8	M	warm purple         	Radioactive
+Oralee    	8	F	dark navy blue      	Radioactive
+Sarajane  	8	F	warm purple         	Radioactive
+Grayce    	8	F	warm purple         	Radioactive
+Tabbitha  	8	F	warm purple         	Radioactive
+Rriocard  	8	M	warm purple         	Radioactive
+Irvin     	8	M	dark navy blue      	Radioactive
+Rosalynd  	8	F	warm purple         	Radioactive
+Ryan      	8	M	dark navy blue      	Radioactive
+Keelia    	8	F	warm purple         	Radioactive
+Gaby      	8	F	dark navy blue      	Radioactive
+Sigismond 	8	M	warm purple         	Radioactive
+Claudelle 	8	F	dark navy blue      	Radioactive
+Rose      	8	F	dark navy blue      	Radioactive
+Phineas   	8	M	warm purple         	Radioactive
+Earl      	8	M	warm purple         	Radioactive
+Katey     	8	F	warm purple         	Radioactive
+Reginald  	8	M	dark navy blue      	Radioactive
+Davidde   	8	M	warm purple         	Radioactive
+Katrine   	8	F	warm purple         	Radioactive
+Charlean  	7	F	warm purple         	Radioactive
+Waring    	7	M	warm purple         	Radioactive
+Madelon   	7	F	dark navy blue      	Radioactive
+Zonda     	7	F	warm purple         	Radioactive
+Florella  	7	F	warm purple         	Radioactive
+Jorey     	7	F	warm purple         	Radioactive
+Don       	7	M	warm purple         	Radioactive
+Madelyn   	7	F	warm purple         	Radioactive
+Dacie     	7	F	warm purple         	Radioactive
+Beryle    	7	F	dark navy blue      	Radioactive
+Donn      	7	M	dark navy blue      	Radioactive
+Jillane   	7	F	warm purple         	Radioactive
+Crissy    	7	F	warm purple         	Radioactive
+Colin     	7	M	dark navy blue      	Radioactive
+Katrina   	7	F	warm purple         	Radioactive
+Rutter    	7	M	warm purple         	Radioactive
+Rosella   	7	F	dark navy blue      	Radioactive
+Tad       	7	M	dark navy blue      	Radioactive
+Dorise    	7	F	warm purple         	Radioactive
+Shaun     	7	F	warm purple         	Radioactive
+Ellary    	7	M	dark navy blue      	Radioactive
+Gill      	7	M	dark navy blue      	Radioactive
+Husain    	7	M	warm purple         	Radioactive
+Mabel     	7	F	dark navy blue      	Radioactive
+Lesly     	7	F	warm purple         	Radioactive
+Buiron    	7	M	warm purple         	Radioactive
+Rianon    	7	F	dark navy blue      	Radioactive
+Jaquith   	7	F	warm purple         	Radioactive
+Shurwood  	7	M	warm purple         	Radioactive
+Thebault  	7	M	dark navy blue      	Radioactive
+Adams     	7	M	warm purple         	Radioactive
+Shaina    	7	F	warm purple         	Radioactive
+Daren     	7	M	dark navy blue      	Radioactive
+Candide   	7	F	warm purple         	Radioactive
+Brittany  	6	F	warm purple         	Radioactive
+Shadow    	6	M	dark navy blue      	Radioactive
+Sandro    	6	M	warm purple         	Radioactive
+Bel       	6	F	warm purple         	Radioactive
+Quincey   	6	M	warm purple         	Radioactive
+Theobald  	6	M	warm purple         	Radioactive
+Shelley   	6	F	dark navy blue      	Radioactive
+Kaile     	6	F	dark navy blue      	Radioactive
+Tome      	6	M	warm purple         	Radioactive
+Kevan     	6	M	dark navy blue      	Radioactive
+Bogart    	6	M	warm purple         	Radioactive
+Austina   	6	F	warm purple         	Radioactive
+Bobbi     	6	F	warm purple         	Radioactive
+Delmar    	6	M	dark navy blue      	Radioactive
+Bengt     	6	M	dark navy blue      	Radioactive
+Meredeth  	6	M	dark navy blue      	Radioactive
+Wheeler   	6	M	warm purple         	Radioactive
+Leland    	6	M	dark navy blue      	Radioactive
+Brina     	6	F	warm purple         	Radioactive
+Jillane   	6	F	dark navy blue      	Radioactive
+Dede      	6	F	warm purple         	Radioactive
+Lindon    	6	M	dark navy blue      	Radioactive
+Darren    	6	M	warm purple         	Radioactive
+Ruprecht  	6	M	warm purple         	Radioactive
+Tarah     	6	F	dark navy blue      	Radioactive
+Lorene    	6	F	dark navy blue      	Radioactive
+Danella   	6	F	dark navy blue      	Radioactive
+Paton     	6	M	dark navy blue      	Radioactive
+Adella    	6	F	warm purple         	Radioactive
+Dolley    	6	F	warm purple         	Radioactive
+Sonnie    	6	F	warm purple         	Radioactive
+Tracey    	6	M	dark navy blue      	Radioactive
+Ruthy     	6	F	dark navy blue      	Radioactive
+Mile      	5	M	warm purple         	Radioactive
+Iona      	5	F	dark navy blue      	Radioactive
+Perrine   	5	F	warm purple         	Radioactive
+Jenelle   	5	F	warm purple         	Radioactive
+Berni     	5	F	dark navy blue      	Healthy
+Malanie   	5	F	dark navy blue      	Radioactive
+Homer     	5	M	warm purple         	Radioactive
+Alastair  	5	M	dark navy blue      	Radioactive
+Jarrod    	5	M	warm purple         	Radioactive
+Wang      	5	M	warm purple         	Radioactive
+Dame      	5	M	dark navy blue      	Radioactive
+Maxi      	5	F	dark navy blue      	Radioactive
+Dana      	5	F	warm purple         	Radioactive
+Avie      	5	F	dark navy blue      	Radioactive
+Darsey    	5	F	warm purple         	Radioactive
+Domini    	5	F	dark navy blue      	Radioactive
+Marylou   	5	F	warm purple         	Radioactive
+Farlay    	5	M	dark navy blue      	Radioactive
+Delinda   	5	F	warm purple         	Radioactive
+Alonso    	5	M	warm purple         	Radioactive
+Della     	5	F	dark navy blue      	Radioactive
+Armando   	5	M	warm purple         	Radioactive
+Nikola    	5	M	dark navy blue      	Radioactive
+Glenn     	5	F	warm purple         	Radioactive
+Artemis   	5	M	dark navy blue      	Radioactive
+Carie     	5	F	dark navy blue      	Radioactive
+Fenelia   	5	F	warm purple         	Radioactive
+Evyn      	5	M	warm purple         	Radioactive
+Towney    	5	M	dark navy blue      	Radioactive
+Symon     	5	M	dark navy blue      	Radioactive
+Ibrahim   	5	M	warm purple         	Radioactive
+Crissie   	5	F	dark navy blue      	Radioactive
+Brier     	5	F	warm purple         	Radioactive
+Friedrick 	5	M	dark navy blue      	Radioactive
+Berni     	5	F	warm purple         	Radioactive
+Bendite   	5	F	dark navy blue      	Radioactive
+Emelyne   	5	F	dark navy blue      	Radioactive
+Langsdon  	4	M	warm purple         	Radioactive
+Hannah    	4	F	dark navy blue      	Radioactive
+Alyce     	4	F	dark navy blue      	Radioactive
+Mady      	4	F	warm purple         	Radioactive
+Carlina   	4	F	dark navy blue      	Radioactive
+Tanny     	4	M	warm purple         	Radioactive
+Lalo      	4	M	dark navy blue      	Radioactive
+Janith    	4	F	dark navy blue      	Radioactive
+Beckie    	4	F	warm purple         	Radioactive
+Fredra    	4	F	dark navy blue      	Radioactive
+Shanda    	4	F	warm purple         	Radioactive
+Marlow    	4	M	dark navy blue      	Radioactive
+Daffy     	4	F	dark navy blue      	Radioactive
+Lula      	4	F	warm purple         	Radioactive
+Ammamaria 	4	F	dark navy blue      	Radioactive
+Vanessa   	4	F	warm purple         	Radioactive
+Merilyn   	4	F	dark navy blue      	Radioactive
+Cherise   	4	F	dark navy blue      	Radioactive
+Ginni     	4	F	warm purple         	Radioactive
+Querida   	4	F	dark navy blue      	Radioactive
+Lorie     	4	F	dark navy blue      	Radioactive
+Lucian    	4	M	warm purple         	Radioactive
+Jakie     	4	M	dark navy blue      	Radioactive
+Eldredge  	4	M	dark navy blue      	Radioactive
+Marcus    	4	M	dark navy blue      	Radioactive
+Nollie    	4	F	dark navy blue      	Radioactive
+Lowrance  	4	M	warm purple         	Radioactive
+Stesha    	3	F	dark navy blue      	Radioactive
+Paco      	3	M	warm purple         	Radioactive
+Silvan    	3	M	dark navy blue      	Radioactive
+Darius    	3	M	warm purple         	Radioactive
+Dav       	3	M	dark navy blue      	Radioactive
+Milo      	3	M	warm purple         	Radioactive
+Vevay     	3	F	dark navy blue      	Healthy
+Eal       	3	M	warm purple         	Radioactive
+Celestyna 	3	F	dark navy blue      	Radioactive
+Any       	3	M	dark navy blue      	Radioactive
+Tab       	3	M	warm purple         	Radioactive
+Odey      	3	M	dark navy blue      	Radioactive
+Idette    	3	F	warm purple         	Radioactive
+Tamar     	3	F	dark navy blue      	Radioactive
+Anthe     	3	F	dark navy blue      	Radioactive
+Marsiella 	3	F	warm purple         	Radioactive
+Jaynell   	3	F	dark navy blue      	Radioactive
+Wildon    	3	M	dark navy blue      	Radioactive
+Vanny     	3	F	dark navy blue      	Radioactive
+Roana     	3	F	dark navy blue      	Radioactive
+Ernie     	3	M	dark navy blue      	Radioactive
+Ignace    	3	M	dark navy blue      	Radioactive
+Jeannette 	3	F	warm purple         	Radioactive
+Natala    	3	F	dark navy blue      	Radioactive
+Marybelle 	3	F	dark navy blue      	Radioactive
+Ardene    	3	F	dark navy blue      	Radioactive
+Roman     	3	M	dark navy blue      	Radioactive
+Rochester 	3	M	warm purple         	Radioactive
+Caesar    	3	M	dark navy blue      	Radioactive
+Augusto   	3	M	dark navy blue      	Radioactive
+Melloney  	2	F	dark navy blue      	Radioactive
+Broderick 	2	M	dark navy blue      	Radioactive
+Garek     	2	M	dark navy blue      	Radioactive
+Fulvia    	2	F	dark navy blue      	Radioactive
+Mickie    	2	F	dark navy blue      	Radioactive
+Sibel     	2	F	warm purple         	Radioactive
+Darla     	2	F	dark navy blue      	Radioactive
+Mireielle 	2	F	dark navy blue      	Radioactive
+Frieda    	2	F	dark navy blue      	Radioactive
+Oralle    	2	F	dark navy blue      	Radioactive
+Janetta   	2	F	dark navy blue      	Radioactive
+Melanie   	2	F	dark navy blue      	Healthy
+Chucho    	2	M	dark navy blue      	Radioactive
+Rosana    	2	F	dark navy blue      	Radioactive
+Neville   	2	M	dark navy blue      	Radioactive
+Hali      	1	F	dark navy blue      	Radioactive
+Tristam   	1	M	dark navy blue      	Radioactive
+Jennica   	1	F	dark navy blue      	Radioactive
+Rod       	1	M	dark navy blue      	Radioactive
+Clare     	1	M	dark navy blue      	Radioactive
+Waverley  	1	M	dark navy blue      	Radioactive
+Codee     	1	F	dark navy blue      	Radioactive
+Violetta  	1	F	dark navy blue      	Radioactive
+Romy      	1	F	dark navy blue      	Radioactive
+Brewer    	0	M	dark navy blue      	Radioactive
+Mortimer  	0	M	dark navy blue      	Radioactive
+Rebbecca  	0	F	dark navy blue      	Healthy
+Vivia     	0	F	dark navy blue      	Radioactive
+------------------------------------------------------------------------
+Robina    	10	F	warm purple         	Radioactive
+Raimund   	10	M	dark navy blue      	Radioactive
+Conrade   	10	M	warm purple         	Radioactive
+Rollin    	10	M	warm purple         	Radioactive
+Lyman     	10	M	warm purple         	Radioactive
+Joellen   	10	F	dark navy blue      	Radioactive
+Braden    	10	M	warm purple         	Radioactive
+Ammamaria 	10	F	warm purple         	Radioactive
+Zebulon   	10	M	dark navy blue      	Radioactive
+Carter    	10	M	warm purple         	Radioactive
+Kiah      	10	F	warm purple         	Radioactive
+Josiah    	10	M	warm purple         	Radioactive
+Electra   	10	F	warm purple         	Radioactive
+Alex      	10	M	warm purple         	Radioactive
+Lolita    	10	F	warm purple         	Radioactive
+Wilton    	10	M	warm purple         	Radioactive
+Teddie    	10	F	dark navy blue      	Radioactive
+Gabriel   	10	M	dark navy blue      	Radioactive
+Harmonia  	10	F	warm purple         	Radioactive
+Quinton   	10	M	warm purple         	Radioactive
+Casper    	10	M	dark navy blue      	Radioactive
+Dael      	10	F	warm purple         	Radioactive
+Halsey    	10	M	dark navy blue      	Radioactive
+Mart      	10	M	warm purple         	Radioactive
+Brandi    	10	F	warm purple         	Radioactive
+Josee     	10	F	warm purple         	Radioactive
+Elvina    	10	F	dark navy blue      	Radioactive
+Wolfie    	10	M	dark navy blue      	Radioactive
+Mathilda  	10	F	warm purple         	Radioactive
+Brigham   	10	M	dark navy blue      	Radioactive
+Abie      	10	M	warm purple         	Radioactive
+Kristen   	10	F	warm purple         	Radioactive
+Harmonie  	10	F	warm purple         	Radioactive
+Luciana   	10	F	dark navy blue      	Radioactive
+Edyth     	9	F	dark navy blue      	Radioactive
+Devon     	9	F	warm purple         	Radioactive
+Frans     	9	M	warm purple         	Radioactive
+Taddeusz  	9	M	warm purple         	Radioactive
+Michele   	9	M	warm purple         	Radioactive
+Kevon     	9	M	dark navy blue      	Radioactive
+Sharai    	9	F	warm purple         	Radioactive
+Drucill   	9	F	warm purple         	Radioactive
+Durant    	9	M	warm purple         	Radioactive
+Tanhya    	9	F	warm purple         	Radioactive
+Candi     	9	F	warm purple         	Radioactive
+Jessica   	9	F	warm purple         	Radioactive
+Georges   	9	M	warm purple         	Radioactive
+Archibald 	9	M	dark navy blue      	Radioactive
+Zandra    	9	F	dark navy blue      	Radioactive
+Ibbie     	9	F	warm purple         	Radioactive
+Shannan   	9	M	warm purple         	Radioactive
+Oralee    	9	F	dark navy blue      	Radioactive
+Sarajane  	9	F	warm purple         	Radioactive
+Grayce    	9	F	warm purple         	Radioactive
+Tabbitha  	9	F	warm purple         	Radioactive
+Rriocard  	9	M	warm purple         	Radioactive
+Irvin     	9	M	dark navy blue      	Radioactive
+Rosalynd  	9	F	warm purple         	Radioactive
+Ryan      	9	M	dark navy blue      	Radioactive
+Keelia    	9	F	warm purple         	Radioactive
+Gaby      	9	F	dark navy blue      	Radioactive
+Sigismond 	9	M	warm purple         	Radioactive
+Claudelle 	9	F	dark navy blue      	Radioactive
+Rose      	9	F	dark navy blue      	Radioactive
+Phineas   	9	M	warm purple         	Radioactive
+Earl      	9	M	warm purple         	Radioactive
+Katey     	9	F	warm purple         	Radioactive
+Reginald  	9	M	dark navy blue      	Radioactive
+Davidde   	9	M	warm purple         	Radioactive
+Katrine   	9	F	warm purple         	Radioactive
+Charlean  	8	F	warm purple         	Radioactive
+Waring    	8	M	warm purple         	Radioactive
+Madelon   	8	F	dark navy blue      	Radioactive
+Zonda     	8	F	warm purple         	Radioactive
+Florella  	8	F	warm purple         	Radioactive
+Jorey     	8	F	warm purple         	Radioactive
+Don       	8	M	warm purple         	Radioactive
+Madelyn   	8	F	warm purple         	Radioactive
+Dacie     	8	F	warm purple         	Radioactive
+Beryle    	8	F	dark navy blue      	Radioactive
+Donn      	8	M	dark navy blue      	Radioactive
+Jillane   	8	F	warm purple         	Radioactive
+Crissy    	8	F	warm purple         	Radioactive
+Colin     	8	M	dark navy blue      	Radioactive
+Katrina   	8	F	warm purple         	Radioactive
+Rutter    	8	M	warm purple         	Radioactive
+Rosella   	8	F	dark navy blue      	Radioactive
+Tad       	8	M	dark navy blue      	Radioactive
+Dorise    	8	F	warm purple         	Radioactive
+Shaun     	8	F	warm purple         	Radioactive
+Ellary    	8	M	dark navy blue      	Radioactive
+Gill      	8	M	dark navy blue      	Radioactive
+Husain    	8	M	warm purple         	Radioactive
+Mabel     	8	F	dark navy blue      	Radioactive
+Lesly     	8	F	warm purple         	Radioactive
+Buiron    	8	M	warm purple         	Radioactive
+Rianon    	8	F	dark navy blue      	Radioactive
+Jaquith   	8	F	warm purple         	Radioactive
+Shurwood  	8	M	warm purple         	Radioactive
+Thebault  	8	M	dark navy blue      	Radioactive
+Adams     	8	M	warm purple         	Radioactive
+Shaina    	8	F	warm purple         	Radioactive
+Daren     	8	M	dark navy blue      	Radioactive
+Candide   	8	F	warm purple         	Radioactive
+Brittany  	7	F	warm purple         	Radioactive
+Shadow    	7	M	dark navy blue      	Radioactive
+Sandro    	7	M	warm purple         	Radioactive
+Bel       	7	F	warm purple         	Radioactive
+Quincey   	7	M	warm purple         	Radioactive
+Theobald  	7	M	warm purple         	Radioactive
+Shelley   	7	F	dark navy blue      	Radioactive
+Kaile     	7	F	dark navy blue      	Radioactive
+Tome      	7	M	warm purple         	Radioactive
+Kevan     	7	M	dark navy blue      	Radioactive
+Bogart    	7	M	warm purple         	Radioactive
+Austina   	7	F	warm purple         	Radioactive
+Bobbi     	7	F	warm purple         	Radioactive
+Delmar    	7	M	dark navy blue      	Radioactive
+Bengt     	7	M	dark navy blue      	Radioactive
+Meredeth  	7	M	dark navy blue      	Radioactive
+Wheeler   	7	M	warm purple         	Radioactive
+Leland    	7	M	dark navy blue      	Radioactive
+Brina     	7	F	warm purple         	Radioactive
+Jillane   	7	F	dark navy blue      	Radioactive
+Dede      	7	F	warm purple         	Radioactive
+Lindon    	7	M	dark navy blue      	Radioactive
+Darren    	7	M	warm purple         	Radioactive
+Ruprecht  	7	M	warm purple         	Radioactive
+Tarah     	7	F	dark navy blue      	Radioactive
+Lorene    	7	F	dark navy blue      	Radioactive
+Danella   	7	F	dark navy blue      	Radioactive
+Paton     	7	M	dark navy blue      	Radioactive
+Adella    	7	F	warm purple         	Radioactive
+Dolley    	7	F	warm purple         	Radioactive
+Sonnie    	7	F	warm purple         	Radioactive
+Tracey    	7	M	dark navy blue      	Radioactive
+Ruthy     	7	F	dark navy blue      	Radioactive
+Mile      	6	M	warm purple         	Radioactive
+Iona      	6	F	dark navy blue      	Radioactive
+Perrine   	6	F	warm purple         	Radioactive
+Jenelle   	6	F	warm purple         	Radioactive
+Berni     	6	F	dark navy blue      	Radioactive
+Malanie   	6	F	dark navy blue      	Radioactive
+Homer     	6	M	warm purple         	Radioactive
+Alastair  	6	M	dark navy blue      	Radioactive
+Jarrod    	6	M	warm purple         	Radioactive
+Wang      	6	M	warm purple         	Radioactive
+Dame      	6	M	dark navy blue      	Radioactive
+Maxi      	6	F	dark navy blue      	Radioactive
+Dana      	6	F	warm purple         	Radioactive
+Avie      	6	F	dark navy blue      	Radioactive
+Darsey    	6	F	warm purple         	Radioactive
+Domini    	6	F	dark navy blue      	Radioactive
+Marylou   	6	F	warm purple         	Radioactive
+Farlay    	6	M	dark navy blue      	Radioactive
+Delinda   	6	F	warm purple         	Radioactive
+Alonso    	6	M	warm purple         	Radioactive
+Della     	6	F	dark navy blue      	Radioactive
+Armando   	6	M	warm purple         	Radioactive
+Nikola    	6	M	dark navy blue      	Radioactive
+Glenn     	6	F	warm purple         	Radioactive
+Artemis   	6	M	dark navy blue      	Radioactive
+Carie     	6	F	dark navy blue      	Radioactive
+Fenelia   	6	F	warm purple         	Radioactive
+Evyn      	6	M	warm purple         	Radioactive
+Towney    	6	M	dark navy blue      	Radioactive
+Symon     	6	M	dark navy blue      	Radioactive
+Ibrahim   	6	M	warm purple         	Radioactive
+Crissie   	6	F	dark navy blue      	Radioactive
+Brier     	6	F	warm purple         	Radioactive
+Friedrick 	6	M	dark navy blue      	Radioactive
+Berni     	6	F	warm purple         	Radioactive
+Bendite   	6	F	dark navy blue      	Radioactive
+Emelyne   	6	F	dark navy blue      	Radioactive
+Langsdon  	5	M	warm purple         	Radioactive
+Hannah    	5	F	dark navy blue      	Radioactive
+Alyce     	5	F	dark navy blue      	Radioactive
+Mady      	5	F	warm purple         	Radioactive
+Carlina   	5	F	dark navy blue      	Radioactive
+Tanny     	5	M	warm purple         	Radioactive
+Lalo      	5	M	dark navy blue      	Radioactive
+Janith    	5	F	dark navy blue      	Radioactive
+Beckie    	5	F	warm purple         	Radioactive
+Fredra    	5	F	dark navy blue      	Radioactive
+Shanda    	5	F	warm purple         	Radioactive
+Marlow    	5	M	dark navy blue      	Radioactive
+Daffy     	5	F	dark navy blue      	Radioactive
+Lula      	5	F	warm purple         	Radioactive
+Ammamaria 	5	F	dark navy blue      	Radioactive
+Vanessa   	5	F	warm purple         	Radioactive
+Merilyn   	5	F	dark navy blue      	Radioactive
+Cherise   	5	F	dark navy blue      	Radioactive
+Ginni     	5	F	warm purple         	Radioactive
+Querida   	5	F	dark navy blue      	Radioactive
+Lorie     	5	F	dark navy blue      	Radioactive
+Lucian    	5	M	warm purple         	Radioactive
+Jakie     	5	M	dark navy blue      	Radioactive
+Eldredge  	5	M	dark navy blue      	Radioactive
+Marcus    	5	M	dark navy blue      	Radioactive
+Nollie    	5	F	dark navy blue      	Radioactive
+Lowrance  	5	M	warm purple         	Radioactive
+Stesha    	4	F	dark navy blue      	Radioactive
+Paco      	4	M	warm purple         	Radioactive
+Silvan    	4	M	dark navy blue      	Radioactive
+Darius    	4	M	warm purple         	Radioactive
+Dav       	4	M	dark navy blue      	Radioactive
+Milo      	4	M	warm purple         	Radioactive
+Vevay     	4	F	dark navy blue      	Radioactive
+Eal       	4	M	warm purple         	Radioactive
+Celestyna 	4	F	dark navy blue      	Radioactive
+Any       	4	M	dark navy blue      	Radioactive
+Tab       	4	M	warm purple         	Radioactive
+Odey      	4	M	dark navy blue      	Radioactive
+Idette    	4	F	warm purple         	Radioactive
+Tamar     	4	F	dark navy blue      	Radioactive
+Anthe     	4	F	dark navy blue      	Radioactive
+Marsiella 	4	F	warm purple         	Radioactive
+Jaynell   	4	F	dark navy blue      	Radioactive
+Wildon    	4	M	dark navy blue      	Radioactive
+Vanny     	4	F	dark navy blue      	Radioactive
+Roana     	4	F	dark navy blue      	Radioactive
+Ernie     	4	M	dark navy blue      	Radioactive
+Ignace    	4	M	dark navy blue      	Radioactive
+Jeannette 	4	F	warm purple         	Radioactive
+Natala    	4	F	dark navy blue      	Radioactive
+Marybelle 	4	F	dark navy blue      	Radioactive
+Ardene    	4	F	dark navy blue      	Radioactive
+Roman     	4	M	dark navy blue      	Radioactive
+Rochester 	4	M	warm purple         	Radioactive
+Caesar    	4	M	dark navy blue      	Radioactive
+Augusto   	4	M	dark navy blue      	Radioactive
+Melloney  	3	F	dark navy blue      	Radioactive
+Broderick 	3	M	dark navy blue      	Radioactive
+Garek     	3	M	dark navy blue      	Radioactive
+Fulvia    	3	F	dark navy blue      	Radioactive
+Mickie    	3	F	dark navy blue      	Radioactive
+Sibel     	3	F	warm purple         	Radioactive
+Darla     	3	F	dark navy blue      	Radioactive
+Mireielle 	3	F	dark navy blue      	Radioactive
+Frieda    	3	F	dark navy blue      	Radioactive
+Oralle    	3	F	dark navy blue      	Radioactive
+Janetta   	3	F	dark navy blue      	Radioactive
+Melanie   	3	F	dark navy blue      	Radioactive
+Chucho    	3	M	dark navy blue      	Radioactive
+Rosana    	3	F	dark navy blue      	Radioactive
+Neville   	3	M	dark navy blue      	Radioactive
+Hali      	2	F	dark navy blue      	Radioactive
+Tristam   	2	M	dark navy blue      	Radioactive
+Jennica   	2	F	dark navy blue      	Radioactive
+Rod       	2	M	dark navy blue      	Radioactive
+Clare     	2	M	dark navy blue      	Radioactive
+Waverley  	2	M	dark navy blue      	Radioactive
+Codee     	2	F	dark navy blue      	Radioactive
+Violetta  	2	F	dark navy blue      	Radioactive
+Romy      	2	F	dark navy blue      	Radioactive
+Brewer    	1	M	dark navy blue      	Radioactive
+Mortimer  	1	M	dark navy blue      	Radioactive
+Rebbecca  	1	F	dark navy blue      	Radioactive
+Vivia     	1	F	dark navy blue      	Radioactive
+Melita    	0	F	dark navy blue      	Radioactive
+Gertrud   	0	F	dark navy blue      	Radioactive
+Jessamyn  	0	F	dark navy blue      	Radioactive
+------------------------------------------------------------------------
+Edyth     	10	F	dark navy blue      	Radioactive
+Devon     	10	F	warm purple         	Radioactive
+Frans     	10	M	warm purple         	Radioactive
+Taddeusz  	10	M	warm purple         	Radioactive
+Michele   	10	M	warm purple         	Radioactive
+Kevon     	10	M	dark navy blue      	Radioactive
+Sharai    	10	F	warm purple         	Radioactive
+Drucill   	10	F	warm purple         	Radioactive
+Durant    	10	M	warm purple         	Radioactive
+Tanhya    	10	F	warm purple         	Radioactive
+Candi     	10	F	warm purple         	Radioactive
+Jessica   	10	F	warm purple         	Radioactive
+Georges   	10	M	warm purple         	Radioactive
+Archibald 	10	M	dark navy blue      	Radioactive
+Zandra    	10	F	dark navy blue      	Radioactive
+Ibbie     	10	F	warm purple         	Radioactive
+Shannan   	10	M	warm purple         	Radioactive
+Oralee    	10	F	dark navy blue      	Radioactive
+Sarajane  	10	F	warm purple         	Radioactive
+Grayce    	10	F	warm purple         	Radioactive
+Tabbitha  	10	F	warm purple         	Radioactive
+Rriocard  	10	M	warm purple         	Radioactive
+Irvin     	10	M	dark navy blue      	Radioactive
+Rosalynd  	10	F	warm purple         	Radioactive
+Ryan      	10	M	dark navy blue      	Radioactive
+Keelia    	10	F	warm purple         	Radioactive
+Gaby      	10	F	dark navy blue      	Radioactive
+Sigismond 	10	M	warm purple         	Radioactive
+Claudelle 	10	F	dark navy blue      	Radioactive
+Rose      	10	F	dark navy blue      	Radioactive
+Phineas   	10	M	warm purple         	Radioactive
+Earl      	10	M	warm purple         	Radioactive
+Katey     	10	F	warm purple         	Radioactive
+Reginald  	10	M	dark navy blue      	Radioactive
+Davidde   	10	M	warm purple         	Radioactive
+Katrine   	10	F	warm purple         	Radioactive
+Charlean  	9	F	warm purple         	Radioactive
+Waring    	9	M	warm purple         	Radioactive
+Madelon   	9	F	dark navy blue      	Radioactive
+Zonda     	9	F	warm purple         	Radioactive
+Florella  	9	F	warm purple         	Radioactive
+Jorey     	9	F	warm purple         	Radioactive
+Don       	9	M	warm purple         	Radioactive
+Madelyn   	9	F	warm purple         	Radioactive
+Dacie     	9	F	warm purple         	Radioactive
+Beryle    	9	F	dark navy blue      	Radioactive
+Donn      	9	M	dark navy blue      	Radioactive
+Jillane   	9	F	warm purple         	Radioactive
+Crissy    	9	F	warm purple         	Radioactive
+Colin     	9	M	dark navy blue      	Radioactive
+Katrina   	9	F	warm purple         	Radioactive
+Rutter    	9	M	warm purple         	Radioactive
+Rosella   	9	F	dark navy blue      	Radioactive
+Tad       	9	M	dark navy blue      	Radioactive
+Dorise    	9	F	warm purple         	Radioactive
+Shaun     	9	F	warm purple         	Radioactive
+Ellary    	9	M	dark navy blue      	Radioactive
+Gill      	9	M	dark navy blue      	Radioactive
+Husain    	9	M	warm purple         	Radioactive
+Mabel     	9	F	dark navy blue      	Radioactive
+Lesly     	9	F	warm purple         	Radioactive
+Buiron    	9	M	warm purple         	Radioactive
+Rianon    	9	F	dark navy blue      	Radioactive
+Jaquith   	9	F	warm purple         	Radioactive
+Shurwood  	9	M	warm purple         	Radioactive
+Thebault  	9	M	dark navy blue      	Radioactive
+Adams     	9	M	warm purple         	Radioactive
+Shaina    	9	F	warm purple         	Radioactive
+Daren     	9	M	dark navy blue      	Radioactive
+Candide   	9	F	warm purple         	Radioactive
+Brittany  	8	F	warm purple         	Radioactive
+Shadow    	8	M	dark navy blue      	Radioactive
+Sandro    	8	M	warm purple         	Radioactive
+Bel       	8	F	warm purple         	Radioactive
+Quincey   	8	M	warm purple         	Radioactive
+Theobald  	8	M	warm purple         	Radioactive
+Shelley   	8	F	dark navy blue      	Radioactive
+Kaile     	8	F	dark navy blue      	Radioactive
+Tome      	8	M	warm purple         	Radioactive
+Kevan     	8	M	dark navy blue      	Radioactive
+Bogart    	8	M	warm purple         	Radioactive
+Austina   	8	F	warm purple         	Radioactive
+Bobbi     	8	F	warm purple         	Radioactive
+Delmar    	8	M	dark navy blue      	Radioactive
+Bengt     	8	M	dark navy blue      	Radioactive
+Meredeth  	8	M	dark navy blue      	Radioactive
+Wheeler   	8	M	warm purple         	Radioactive
+Leland    	8	M	dark navy blue      	Radioactive
+Brina     	8	F	warm purple         	Radioactive
+Jillane   	8	F	dark navy blue      	Radioactive
+Dede      	8	F	warm purple         	Radioactive
+Lindon    	8	M	dark navy blue      	Radioactive
+Darren    	8	M	warm purple         	Radioactive
+Ruprecht  	8	M	warm purple         	Radioactive
+Tarah     	8	F	dark navy blue      	Radioactive
+Lorene    	8	F	dark navy blue      	Radioactive
+Danella   	8	F	dark navy blue      	Radioactive
+Paton     	8	M	dark navy blue      	Radioactive
+Adella    	8	F	warm purple         	Radioactive
+Dolley    	8	F	warm purple         	Radioactive
+Sonnie    	8	F	warm purple         	Radioactive
+Tracey    	8	M	dark navy blue      	Radioactive
+Ruthy     	8	F	dark navy blue      	Radioactive
+Mile      	7	M	warm purple         	Radioactive
+Iona      	7	F	dark navy blue      	Radioactive
+Perrine   	7	F	warm purple         	Radioactive
+Jenelle   	7	F	warm purple         	Radioactive
+Berni     	7	F	dark navy blue      	Radioactive
+Malanie   	7	F	dark navy blue      	Radioactive
+Homer     	7	M	warm purple         	Radioactive
+Alastair  	7	M	dark navy blue      	Radioactive
+Jarrod    	7	M	warm purple         	Radioactive
+Wang      	7	M	warm purple         	Radioactive
+Dame      	7	M	dark navy blue      	Radioactive
+Maxi      	7	F	dark navy blue      	Radioactive
+Dana      	7	F	warm purple         	Radioactive
+Avie      	7	F	dark navy blue      	Radioactive
+Darsey    	7	F	warm purple         	Radioactive
+Domini    	7	F	dark navy blue      	Radioactive
+Marylou   	7	F	warm purple         	Radioactive
+Farlay    	7	M	dark navy blue      	Radioactive
+Delinda   	7	F	warm purple         	Radioactive
+Alonso    	7	M	warm purple         	Radioactive
+Della     	7	F	dark navy blue      	Radioactive
+Armando   	7	M	warm purple         	Radioactive
+Nikola    	7	M	dark navy blue      	Radioactive
+Glenn     	7	F	warm purple         	Radioactive
+Artemis   	7	M	dark navy blue      	Radioactive
+Carie     	7	F	dark navy blue      	Radioactive
+Fenelia   	7	F	warm purple         	Radioactive
+Evyn      	7	M	warm purple         	Radioactive
+Towney    	7	M	dark navy blue      	Radioactive
+Symon     	7	M	dark navy blue      	Radioactive
+Ibrahim   	7	M	warm purple         	Radioactive
+Crissie   	7	F	dark navy blue      	Radioactive
+Brier     	7	F	warm purple         	Radioactive
+Friedrick 	7	M	dark navy blue      	Radioactive
+Berni     	7	F	warm purple         	Radioactive
+Bendite   	7	F	dark navy blue      	Radioactive
+Emelyne   	7	F	dark navy blue      	Radioactive
+Langsdon  	6	M	warm purple         	Radioactive
+Hannah    	6	F	dark navy blue      	Radioactive
+Alyce     	6	F	dark navy blue      	Radioactive
+Mady      	6	F	warm purple         	Radioactive
+Carlina   	6	F	dark navy blue      	Radioactive
+Tanny     	6	M	warm purple         	Radioactive
+Lalo      	6	M	dark navy blue      	Radioactive
+Janith    	6	F	dark navy blue      	Radioactive
+Beckie    	6	F	warm purple         	Radioactive
+Fredra    	6	F	dark navy blue      	Radioactive
+Shanda    	6	F	warm purple         	Radioactive
+Marlow    	6	M	dark navy blue      	Radioactive
+Daffy     	6	F	dark navy blue      	Radioactive
+Lula      	6	F	warm purple         	Radioactive
+Ammamaria 	6	F	dark navy blue      	Radioactive
+Vanessa   	6	F	warm purple         	Radioactive
+Merilyn   	6	F	dark navy blue      	Radioactive
+Cherise   	6	F	dark navy blue      	Radioactive
+Ginni     	6	F	warm purple         	Radioactive
+Querida   	6	F	dark navy blue      	Radioactive
+Lorie     	6	F	dark navy blue      	Radioactive
+Lucian    	6	M	warm purple         	Radioactive
+Jakie     	6	M	dark navy blue      	Radioactive
+Eldredge  	6	M	dark navy blue      	Radioactive
+Marcus    	6	M	dark navy blue      	Radioactive
+Nollie    	6	F	dark navy blue      	Radioactive
+Lowrance  	6	M	warm purple         	Radioactive
+Stesha    	5	F	dark navy blue      	Radioactive
+Paco      	5	M	warm purple         	Radioactive
+Silvan    	5	M	dark navy blue      	Radioactive
+Darius    	5	M	warm purple         	Radioactive
+Dav       	5	M	dark navy blue      	Radioactive
+Milo      	5	M	warm purple         	Radioactive
+Vevay     	5	F	dark navy blue      	Radioactive
+Eal       	5	M	warm purple         	Radioactive
+Celestyna 	5	F	dark navy blue      	Radioactive
+Any       	5	M	dark navy blue      	Radioactive
+Tab       	5	M	warm purple         	Radioactive
+Odey      	5	M	dark navy blue      	Radioactive
+Idette    	5	F	warm purple         	Radioactive
+Tamar     	5	F	dark navy blue      	Radioactive
+Anthe     	5	F	dark navy blue      	Radioactive
+Marsiella 	5	F	warm purple         	Radioactive
+Jaynell   	5	F	dark navy blue      	Radioactive
+Wildon    	5	M	dark navy blue      	Radioactive
+Vanny     	5	F	dark navy blue      	Radioactive
+Roana     	5	F	dark navy blue      	Radioactive
+Ernie     	5	M	dark navy blue      	Radioactive
+Ignace    	5	M	dark navy blue      	Radioactive
+Jeannette 	5	F	warm purple         	Radioactive
+Natala    	5	F	dark navy blue      	Radioactive
+Marybelle 	5	F	dark navy blue      	Radioactive
+Ardene    	5	F	dark navy blue      	Radioactive
+Roman     	5	M	dark navy blue      	Radioactive
+Rochester 	5	M	warm purple         	Radioactive
+Caesar    	5	M	dark navy blue      	Radioactive
+Augusto   	5	M	dark navy blue      	Radioactive
+Melloney  	4	F	dark navy blue      	Radioactive
+Broderick 	4	M	dark navy blue      	Radioactive
+Garek     	4	M	dark navy blue      	Radioactive
+Fulvia    	4	F	dark navy blue      	Radioactive
+Mickie    	4	F	dark navy blue      	Radioactive
+Sibel     	4	F	warm purple         	Radioactive
+Darla     	4	F	dark navy blue      	Radioactive
+Mireielle 	4	F	dark navy blue      	Radioactive
+Frieda    	4	F	dark navy blue      	Radioactive
+Oralle    	4	F	dark navy blue      	Radioactive
+Janetta   	4	F	dark navy blue      	Radioactive
+Melanie   	4	F	dark navy blue      	Radioactive
+Chucho    	4	M	dark navy blue      	Radioactive
+Rosana    	4	F	dark navy blue      	Radioactive
+Neville   	4	M	dark navy blue      	Radioactive
+Hali      	3	F	dark navy blue      	Radioactive
+Tristam   	3	M	dark navy blue      	Radioactive
+Jennica   	3	F	dark navy blue      	Radioactive
+Rod       	3	M	dark navy blue      	Radioactive
+Clare     	3	M	dark navy blue      	Radioactive
+Waverley  	3	M	dark navy blue      	Radioactive
+Codee     	3	F	dark navy blue      	Radioactive
+Violetta  	3	F	dark navy blue      	Radioactive
+Romy      	3	F	dark navy blue      	Radioactive
+Brewer    	2	M	dark navy blue      	Radioactive
+Mortimer  	2	M	dark navy blue      	Radioactive
+Rebbecca  	2	F	dark navy blue      	Radioactive
+Vivia     	2	F	dark navy blue      	Radioactive
+Melita    	1	F	dark navy blue      	Radioactive
+Gertrud   	1	F	dark navy blue      	Radioactive
+Jessamyn  	1	F	dark navy blue      	Radioactive
+------------------------------------------------------------------------
+Charlean  	10	F	warm purple         	Radioactive
+Waring    	10	M	warm purple         	Radioactive
+Madelon   	10	F	dark navy blue      	Radioactive
+Zonda     	10	F	warm purple         	Radioactive
+Florella  	10	F	warm purple         	Radioactive
+Jorey     	10	F	warm purple         	Radioactive
+Don       	10	M	warm purple         	Radioactive
+Madelyn   	10	F	warm purple         	Radioactive
+Dacie     	10	F	warm purple         	Radioactive
+Beryle    	10	F	dark navy blue      	Radioactive
+Donn      	10	M	dark navy blue      	Radioactive
+Jillane   	10	F	warm purple         	Radioactive
+Crissy    	10	F	warm purple         	Radioactive
+Colin     	10	M	dark navy blue      	Radioactive
+Katrina   	10	F	warm purple         	Radioactive
+Rutter    	10	M	warm purple         	Radioactive
+Rosella   	10	F	dark navy blue      	Radioactive
+Tad       	10	M	dark navy blue      	Radioactive
+Dorise    	10	F	warm purple         	Radioactive
+Shaun     	10	F	warm purple         	Radioactive
+Ellary    	10	M	dark navy blue      	Radioactive
+Gill      	10	M	dark navy blue      	Radioactive
+Husain    	10	M	warm purple         	Radioactive
+Mabel     	10	F	dark navy blue      	Radioactive
+Lesly     	10	F	warm purple         	Radioactive
+Buiron    	10	M	warm purple         	Radioactive
+Rianon    	10	F	dark navy blue      	Radioactive
+Jaquith   	10	F	warm purple         	Radioactive
+Shurwood  	10	M	warm purple         	Radioactive
+Thebault  	10	M	dark navy blue      	Radioactive
+Adams     	10	M	warm purple         	Radioactive
+Shaina    	10	F	warm purple         	Radioactive
+Daren     	10	M	dark navy blue      	Radioactive
+Candide   	10	F	warm purple         	Radioactive
+Brittany  	9	F	warm purple         	Radioactive
+Shadow    	9	M	dark navy blue      	Radioactive
+Sandro    	9	M	warm purple         	Radioactive
+Bel       	9	F	warm purple         	Radioactive
+Quincey   	9	M	warm purple         	Radioactive
+Theobald  	9	M	warm purple         	Radioactive
+Shelley   	9	F	dark navy blue      	Radioactive
+Kaile     	9	F	dark navy blue      	Radioactive
+Tome      	9	M	warm purple         	Radioactive
+Kevan     	9	M	dark navy blue      	Radioactive
+Bogart    	9	M	warm purple         	Radioactive
+Austina   	9	F	warm purple         	Radioactive
+Bobbi     	9	F	warm purple         	Radioactive
+Delmar    	9	M	dark navy blue      	Radioactive
+Bengt     	9	M	dark navy blue      	Radioactive
+Meredeth  	9	M	dark navy blue      	Radioactive
+Wheeler   	9	M	warm purple         	Radioactive
+Leland    	9	M	dark navy blue      	Radioactive
+Brina     	9	F	warm purple         	Radioactive
+Jillane   	9	F	dark navy blue      	Radioactive
+Dede      	9	F	warm purple         	Radioactive
+Lindon    	9	M	dark navy blue      	Radioactive
+Darren    	9	M	warm purple         	Radioactive
+Ruprecht  	9	M	warm purple         	Radioactive
+Tarah     	9	F	dark navy blue      	Radioactive
+Lorene    	9	F	dark navy blue      	Radioactive
+Danella   	9	F	dark navy blue      	Radioactive
+Paton     	9	M	dark navy blue      	Radioactive
+Adella    	9	F	warm purple         	Radioactive
+Dolley    	9	F	warm purple         	Radioactive
+Sonnie    	9	F	warm purple         	Radioactive
+Tracey    	9	M	dark navy blue      	Radioactive
+Ruthy     	9	F	dark navy blue      	Radioactive
+Mile      	8	M	warm purple         	Radioactive
+Iona      	8	F	dark navy blue      	Radioactive
+Perrine   	8	F	warm purple         	Radioactive
+Jenelle   	8	F	warm purple         	Radioactive
+Berni     	8	F	dark navy blue      	Radioactive
+Malanie   	8	F	dark navy blue      	Radioactive
+Homer     	8	M	warm purple         	Radioactive
+Alastair  	8	M	dark navy blue      	Radioactive
+Jarrod    	8	M	warm purple         	Radioactive
+Wang      	8	M	warm purple         	Radioactive
+Dame      	8	M	dark navy blue      	Radioactive
+Maxi      	8	F	dark navy blue      	Radioactive
+Dana      	8	F	warm purple         	Radioactive
+Avie      	8	F	dark navy blue      	Radioactive
+Darsey    	8	F	warm purple         	Radioactive
+Domini    	8	F	dark navy blue      	Radioactive
+Marylou   	8	F	warm purple         	Radioactive
+Farlay    	8	M	dark navy blue      	Radioactive
+Delinda   	8	F	warm purple         	Radioactive
+Alonso    	8	M	warm purple         	Radioactive
+Della     	8	F	dark navy blue      	Radioactive
+Armando   	8	M	warm purple         	Radioactive
+Nikola    	8	M	dark navy blue      	Radioactive
+Glenn     	8	F	warm purple         	Radioactive
+Artemis   	8	M	dark navy blue      	Radioactive
+Carie     	8	F	dark navy blue      	Radioactive
+Fenelia   	8	F	warm purple         	Radioactive
+Evyn      	8	M	warm purple         	Radioactive
+Towney    	8	M	dark navy blue      	Radioactive
+Symon     	8	M	dark navy blue      	Radioactive
+Ibrahim   	8	M	warm purple         	Radioactive
+Crissie   	8	F	dark navy blue      	Radioactive
+Brier     	8	F	warm purple         	Radioactive
+Friedrick 	8	M	dark navy blue      	Radioactive
+Berni     	8	F	warm purple         	Radioactive
+Bendite   	8	F	dark navy blue      	Radioactive
+Emelyne   	8	F	dark navy blue      	Radioactive
+Langsdon  	7	M	warm purple         	Radioactive
+Hannah    	7	F	dark navy blue      	Radioactive
+Alyce     	7	F	dark navy blue      	Radioactive
+Mady      	7	F	warm purple         	Radioactive
+Carlina   	7	F	dark navy blue      	Radioactive
+Tanny     	7	M	warm purple         	Radioactive
+Lalo      	7	M	dark navy blue      	Radioactive
+Janith    	7	F	dark navy blue      	Radioactive
+Beckie    	7	F	warm purple         	Radioactive
+Fredra    	7	F	dark navy blue      	Radioactive
+Shanda    	7	F	warm purple         	Radioactive
+Marlow    	7	M	dark navy blue      	Radioactive
+Daffy     	7	F	dark navy blue      	Radioactive
+Lula      	7	F	warm purple         	Radioactive
+Ammamaria 	7	F	dark navy blue      	Radioactive
+Vanessa   	7	F	warm purple         	Radioactive
+Merilyn   	7	F	dark navy blue      	Radioactive
+Cherise   	7	F	dark navy blue      	Radioactive
+Ginni     	7	F	warm purple         	Radioactive
+Querida   	7	F	dark navy blue      	Radioactive
+Lorie     	7	F	dark navy blue      	Radioactive
+Lucian    	7	M	warm purple         	Radioactive
+Jakie     	7	M	dark navy blue      	Radioactive
+Eldredge  	7	M	dark navy blue      	Radioactive
+Marcus    	7	M	dark navy blue      	Radioactive
+Nollie    	7	F	dark navy blue      	Radioactive
+Lowrance  	7	M	warm purple         	Radioactive
+Stesha    	6	F	dark navy blue      	Radioactive
+Paco      	6	M	warm purple         	Radioactive
+Silvan    	6	M	dark navy blue      	Radioactive
+Darius    	6	M	warm purple         	Radioactive
+Dav       	6	M	dark navy blue      	Radioactive
+Milo      	6	M	warm purple         	Radioactive
+Vevay     	6	F	dark navy blue      	Radioactive
+Eal       	6	M	warm purple         	Radioactive
+Celestyna 	6	F	dark navy blue      	Radioactive
+Any       	6	M	dark navy blue      	Radioactive
+Tab       	6	M	warm purple         	Radioactive
+Odey      	6	M	dark navy blue      	Radioactive
+Idette    	6	F	warm purple         	Radioactive
+Tamar     	6	F	dark navy blue      	Radioactive
+Anthe     	6	F	dark navy blue      	Radioactive
+Marsiella 	6	F	warm purple         	Radioactive
+Jaynell   	6	F	dark navy blue      	Radioactive
+Wildon    	6	M	dark navy blue      	Radioactive
+Vanny     	6	F	dark navy blue      	Radioactive
+Roana     	6	F	dark navy blue      	Radioactive
+Ernie     	6	M	dark navy blue      	Radioactive
+Ignace    	6	M	dark navy blue      	Radioactive
+Jeannette 	6	F	warm purple         	Radioactive
+Natala    	6	F	dark navy blue      	Radioactive
+Marybelle 	6	F	dark navy blue      	Radioactive
+Ardene    	6	F	dark navy blue      	Radioactive
+Roman     	6	M	dark navy blue      	Radioactive
+Rochester 	6	M	warm purple         	Radioactive
+Caesar    	6	M	dark navy blue      	Radioactive
+Augusto   	6	M	dark navy blue      	Radioactive
+Melloney  	5	F	dark navy blue      	Radioactive
+Broderick 	5	M	dark navy blue      	Radioactive
+Garek     	5	M	dark navy blue      	Radioactive
+Fulvia    	5	F	dark navy blue      	Radioactive
+Mickie    	5	F	dark navy blue      	Radioactive
+Sibel     	5	F	warm purple         	Radioactive
+Darla     	5	F	dark navy blue      	Radioactive
+Mireielle 	5	F	dark navy blue      	Radioactive
+Frieda    	5	F	dark navy blue      	Radioactive
+Oralle    	5	F	dark navy blue      	Radioactive
+Janetta   	5	F	dark navy blue      	Radioactive
+Melanie   	5	F	dark navy blue      	Radioactive
+Chucho    	5	M	dark navy blue      	Radioactive
+Rosana    	5	F	dark navy blue      	Radioactive
+Neville   	5	M	dark navy blue      	Radioactive
+Hali      	4	F	dark navy blue      	Radioactive
+Tristam   	4	M	dark navy blue      	Radioactive
+Jennica   	4	F	dark navy blue      	Radioactive
+Rod       	4	M	dark navy blue      	Radioactive
+Clare     	4	M	dark navy blue      	Radioactive
+Waverley  	4	M	dark navy blue      	Radioactive
+Codee     	4	F	dark navy blue      	Radioactive
+Violetta  	4	F	dark navy blue      	Radioactive
+Romy      	4	F	dark navy blue      	Radioactive
+Brewer    	3	M	dark navy blue      	Radioactive
+Mortimer  	3	M	dark navy blue      	Radioactive
+Rebbecca  	3	F	dark navy blue      	Radioactive
+Vivia     	3	F	dark navy blue      	Radioactive
+Melita    	2	F	dark navy blue      	Radioactive
+Gertrud   	2	F	dark navy blue      	Radioactive
+Jessamyn  	2	F	dark navy blue      	Radioactive
+------------------------------------------------------------------------
+Brittany  	10	F	warm purple         	Radioactive
+Shadow    	10	M	dark navy blue      	Radioactive
+Sandro    	10	M	warm purple         	Radioactive
+Bel       	10	F	warm purple         	Radioactive
+Quincey   	10	M	warm purple         	Radioactive
+Theobald  	10	M	warm purple         	Radioactive
+Shelley   	10	F	dark navy blue      	Radioactive
+Kaile     	10	F	dark navy blue      	Radioactive
+Tome      	10	M	warm purple         	Radioactive
+Kevan     	10	M	dark navy blue      	Radioactive
+Bogart    	10	M	warm purple         	Radioactive
+Austina   	10	F	warm purple         	Radioactive
+Bobbi     	10	F	warm purple         	Radioactive
+Delmar    	10	M	dark navy blue      	Radioactive
+Bengt     	10	M	dark navy blue      	Radioactive
+Meredeth  	10	M	dark navy blue      	Radioactive
+Wheeler   	10	M	warm purple         	Radioactive
+Leland    	10	M	dark navy blue      	Radioactive
+Brina     	10	F	warm purple         	Radioactive
+Jillane   	10	F	dark navy blue      	Radioactive
+Dede      	10	F	warm purple         	Radioactive
+Lindon    	10	M	dark navy blue      	Radioactive
+Darren    	10	M	warm purple         	Radioactive
+Ruprecht  	10	M	warm purple         	Radioactive
+Tarah     	10	F	dark navy blue      	Radioactive
+Lorene    	10	F	dark navy blue      	Radioactive
+Danella   	10	F	dark navy blue      	Radioactive
+Paton     	10	M	dark navy blue      	Radioactive
+Adella    	10	F	warm purple         	Radioactive
+Dolley    	10	F	warm purple         	Radioactive
+Sonnie    	10	F	warm purple         	Radioactive
+Tracey    	10	M	dark navy blue      	Radioactive
+Ruthy     	10	F	dark navy blue      	Radioactive
+Mile      	9	M	warm purple         	Radioactive
+Iona      	9	F	dark navy blue      	Radioactive
+Perrine   	9	F	warm purple         	Radioactive
+Jenelle   	9	F	warm purple         	Radioactive
+Berni     	9	F	dark navy blue      	Radioactive
+Malanie   	9	F	dark navy blue      	Radioactive
+Homer     	9	M	warm purple         	Radioactive
+Alastair  	9	M	dark navy blue      	Radioactive
+Jarrod    	9	M	warm purple         	Radioactive
+Wang      	9	M	warm purple         	Radioactive
+Dame      	9	M	dark navy blue      	Radioactive
+Maxi      	9	F	dark navy blue      	Radioactive
+Dana      	9	F	warm purple         	Radioactive
+Avie      	9	F	dark navy blue      	Radioactive
+Darsey    	9	F	warm purple         	Radioactive
+Domini    	9	F	dark navy blue      	Radioactive
+Marylou   	9	F	warm purple         	Radioactive
+Farlay    	9	M	dark navy blue      	Radioactive
+Delinda   	9	F	warm purple         	Radioactive
+Alonso    	9	M	warm purple         	Radioactive
+Della     	9	F	dark navy blue      	Radioactive
+Armando   	9	M	warm purple         	Radioactive
+Nikola    	9	M	dark navy blue      	Radioactive
+Glenn     	9	F	warm purple         	Radioactive
+Artemis   	9	M	dark navy blue      	Radioactive
+Carie     	9	F	dark navy blue      	Radioactive
+Fenelia   	9	F	warm purple         	Radioactive
+Evyn      	9	M	warm purple         	Radioactive
+Towney    	9	M	dark navy blue      	Radioactive
+Symon     	9	M	dark navy blue      	Radioactive
+Ibrahim   	9	M	warm purple         	Radioactive
+Crissie   	9	F	dark navy blue      	Radioactive
+Brier     	9	F	warm purple         	Radioactive
+Friedrick 	9	M	dark navy blue      	Radioactive
+Berni     	9	F	warm purple         	Radioactive
+Bendite   	9	F	dark navy blue      	Radioactive
+Emelyne   	9	F	dark navy blue      	Radioactive
+Langsdon  	8	M	warm purple         	Radioactive
+Hannah    	8	F	dark navy blue      	Radioactive
+Alyce     	8	F	dark navy blue      	Radioactive
+Mady      	8	F	warm purple         	Radioactive
+Carlina   	8	F	dark navy blue      	Radioactive
+Tanny     	8	M	warm purple         	Radioactive
+Lalo      	8	M	dark navy blue      	Radioactive
+Janith    	8	F	dark navy blue      	Radioactive
+Beckie    	8	F	warm purple         	Radioactive
+Fredra    	8	F	dark navy blue      	Radioactive
+Shanda    	8	F	warm purple         	Radioactive
+Marlow    	8	M	dark navy blue      	Radioactive
+Daffy     	8	F	dark navy blue      	Radioactive
+Lula      	8	F	warm purple         	Radioactive
+Ammamaria 	8	F	dark navy blue      	Radioactive
+Vanessa   	8	F	warm purple         	Radioactive
+Merilyn   	8	F	dark navy blue      	Radioactive
+Cherise   	8	F	dark navy blue      	Radioactive
+Ginni     	8	F	warm purple         	Radioactive
+Querida   	8	F	dark navy blue      	Radioactive
+Lorie     	8	F	dark navy blue      	Radioactive
+Lucian    	8	M	warm purple         	Radioactive
+Jakie     	8	M	dark navy blue      	Radioactive
+Eldredge  	8	M	dark navy blue      	Radioactive
+Marcus    	8	M	dark navy blue      	Radioactive
+Nollie    	8	F	dark navy blue      	Radioactive
+Lowrance  	8	M	warm purple         	Radioactive
+Stesha    	7	F	dark navy blue      	Radioactive
+Paco      	7	M	warm purple         	Radioactive
+Silvan    	7	M	dark navy blue      	Radioactive
+Darius    	7	M	warm purple         	Radioactive
+Dav       	7	M	dark navy blue      	Radioactive
+Milo      	7	M	warm purple         	Radioactive
+Vevay     	7	F	dark navy blue      	Radioactive
+Eal       	7	M	warm purple         	Radioactive
+Celestyna 	7	F	dark navy blue      	Radioactive
+Any       	7	M	dark navy blue      	Radioactive
+Tab       	7	M	warm purple         	Radioactive
+Odey      	7	M	dark navy blue      	Radioactive
+Idette    	7	F	warm purple         	Radioactive
+Tamar     	7	F	dark navy blue      	Radioactive
+Anthe     	7	F	dark navy blue      	Radioactive
+Marsiella 	7	F	warm purple         	Radioactive
+Jaynell   	7	F	dark navy blue      	Radioactive
+Wildon    	7	M	dark navy blue      	Radioactive
+Vanny     	7	F	dark navy blue      	Radioactive
+Roana     	7	F	dark navy blue      	Radioactive
+Ernie     	7	M	dark navy blue      	Radioactive
+Ignace    	7	M	dark navy blue      	Radioactive
+Jeannette 	7	F	warm purple         	Radioactive
+Natala    	7	F	dark navy blue      	Radioactive
+Marybelle 	7	F	dark navy blue      	Radioactive
+Ardene    	7	F	dark navy blue      	Radioactive
+Roman     	7	M	dark navy blue      	Radioactive
+Rochester 	7	M	warm purple         	Radioactive
+Caesar    	7	M	dark navy blue      	Radioactive
+Augusto   	7	M	dark navy blue      	Radioactive
+Melloney  	6	F	dark navy blue      	Radioactive
+Broderick 	6	M	dark navy blue      	Radioactive
+Garek     	6	M	dark navy blue      	Radioactive
+Fulvia    	6	F	dark navy blue      	Radioactive
+Mickie    	6	F	dark navy blue      	Radioactive
+Sibel     	6	F	warm purple         	Radioactive
+Darla     	6	F	dark navy blue      	Radioactive
+Mireielle 	6	F	dark navy blue      	Radioactive
+Frieda    	6	F	dark navy blue      	Radioactive
+Oralle    	6	F	dark navy blue      	Radioactive
+Janetta   	6	F	dark navy blue      	Radioactive
+Melanie   	6	F	dark navy blue      	Radioactive
+Chucho    	6	M	dark navy blue      	Radioactive
+Rosana    	6	F	dark navy blue      	Radioactive
+Neville   	6	M	dark navy blue      	Radioactive
+Hali      	5	F	dark navy blue      	Radioactive
+Tristam   	5	M	dark navy blue      	Radioactive
+Jennica   	5	F	dark navy blue      	Radioactive
+Rod       	5	M	dark navy blue      	Radioactive
+Clare     	5	M	dark navy blue      	Radioactive
+Waverley  	5	M	dark navy blue      	Radioactive
+Codee     	5	F	dark navy blue      	Radioactive
+Violetta  	5	F	dark navy blue      	Radioactive
+Romy      	5	F	dark navy blue      	Radioactive
+Brewer    	4	M	dark navy blue      	Radioactive
+Mortimer  	4	M	dark navy blue      	Radioactive
+Rebbecca  	4	F	dark navy blue      	Radioactive
+Vivia     	4	F	dark navy blue      	Radioactive
+Melita    	3	F	dark navy blue      	Radioactive
+Gertrud   	3	F	dark navy blue      	Radioactive
+Jessamyn  	3	F	dark navy blue      	Radioactive
+------------------------------------------------------------------------
+Mile      	10	M	warm purple         	Radioactive
+Iona      	10	F	dark navy blue      	Radioactive
+Perrine   	10	F	warm purple         	Radioactive
+Jenelle   	10	F	warm purple         	Radioactive
+Berni     	10	F	dark navy blue      	Radioactive
+Malanie   	10	F	dark navy blue      	Radioactive
+Homer     	10	M	warm purple         	Radioactive
+Alastair  	10	M	dark navy blue      	Radioactive
+Jarrod    	10	M	warm purple         	Radioactive
+Wang      	10	M	warm purple         	Radioactive
+Dame      	10	M	dark navy blue      	Radioactive
+Maxi      	10	F	dark navy blue      	Radioactive
+Dana      	10	F	warm purple         	Radioactive
+Avie      	10	F	dark navy blue      	Radioactive
+Darsey    	10	F	warm purple         	Radioactive
+Domini    	10	F	dark navy blue      	Radioactive
+Marylou   	10	F	warm purple         	Radioactive
+Farlay    	10	M	dark navy blue      	Radioactive
+Delinda   	10	F	warm purple         	Radioactive
+Alonso    	10	M	warm purple         	Radioactive
+Della     	10	F	dark navy blue      	Radioactive
+Armando   	10	M	warm purple         	Radioactive
+Nikola    	10	M	dark navy blue      	Radioactive
+Glenn     	10	F	warm purple         	Radioactive
+Artemis   	10	M	dark navy blue      	Radioactive
+Carie     	10	F	dark navy blue      	Radioactive
+Fenelia   	10	F	warm purple         	Radioactive
+Evyn      	10	M	warm purple         	Radioactive
+Towney    	10	M	dark navy blue      	Radioactive
+Symon     	10	M	dark navy blue      	Radioactive
+Ibrahim   	10	M	warm purple         	Radioactive
+Crissie   	10	F	dark navy blue      	Radioactive
+Brier     	10	F	warm purple         	Radioactive
+Friedrick 	10	M	dark navy blue      	Radioactive
+Berni     	10	F	warm purple         	Radioactive
+Bendite   	10	F	dark navy blue      	Radioactive
+Emelyne   	10	F	dark navy blue      	Radioactive
+Langsdon  	9	M	warm purple         	Radioactive
+Hannah    	9	F	dark navy blue      	Radioactive
+Alyce     	9	F	dark navy blue      	Radioactive
+Mady      	9	F	warm purple         	Radioactive
+Carlina   	9	F	dark navy blue      	Radioactive
+Tanny     	9	M	warm purple         	Radioactive
+Lalo      	9	M	dark navy blue      	Radioactive
+Janith    	9	F	dark navy blue      	Radioactive
+Beckie    	9	F	warm purple         	Radioactive
+Fredra    	9	F	dark navy blue      	Radioactive
+Shanda    	9	F	warm purple         	Radioactive
+Marlow    	9	M	dark navy blue      	Radioactive
+Daffy     	9	F	dark navy blue      	Radioactive
+Lula      	9	F	warm purple         	Radioactive
+Ammamaria 	9	F	dark navy blue      	Radioactive
+Vanessa   	9	F	warm purple         	Radioactive
+Merilyn   	9	F	dark navy blue      	Radioactive
+Cherise   	9	F	dark navy blue      	Radioactive
+Ginni     	9	F	warm purple         	Radioactive
+Querida   	9	F	dark navy blue      	Radioactive
+Lorie     	9	F	dark navy blue      	Radioactive
+Lucian    	9	M	warm purple         	Radioactive
+Jakie     	9	M	dark navy blue      	Radioactive
+Eldredge  	9	M	dark navy blue      	Radioactive
+Marcus    	9	M	dark navy blue      	Radioactive
+Nollie    	9	F	dark navy blue      	Radioactive
+Lowrance  	9	M	warm purple         	Radioactive
+Stesha    	8	F	dark navy blue      	Radioactive
+Paco      	8	M	warm purple         	Radioactive
+Silvan    	8	M	dark navy blue      	Radioactive
+Darius    	8	M	warm purple         	Radioactive
+Dav       	8	M	dark navy blue      	Radioactive
+Milo      	8	M	warm purple         	Radioactive
+Vevay     	8	F	dark navy blue      	Radioactive
+Eal       	8	M	warm purple         	Radioactive
+Celestyna 	8	F	dark navy blue      	Radioactive
+Any       	8	M	dark navy blue      	Radioactive
+Tab       	8	M	warm purple         	Radioactive
+Odey      	8	M	dark navy blue      	Radioactive
+Idette    	8	F	warm purple         	Radioactive
+Tamar     	8	F	dark navy blue      	Radioactive
+Anthe     	8	F	dark navy blue      	Radioactive
+Marsiella 	8	F	warm purple         	Radioactive
+Jaynell   	8	F	dark navy blue      	Radioactive
+Wildon    	8	M	dark navy blue      	Radioactive
+Vanny     	8	F	dark navy blue      	Radioactive
+Roana     	8	F	dark navy blue      	Radioactive
+Ernie     	8	M	dark navy blue      	Radioactive
+Ignace    	8	M	dark navy blue      	Radioactive
+Jeannette 	8	F	warm purple         	Radioactive
+Natala    	8	F	dark navy blue      	Radioactive
+Marybelle 	8	F	dark navy blue      	Radioactive
+Ardene    	8	F	dark navy blue      	Radioactive
+Roman     	8	M	dark navy blue      	Radioactive
+Rochester 	8	M	warm purple         	Radioactive
+Caesar    	8	M	dark navy blue      	Radioactive
+Augusto   	8	M	dark navy blue      	Radioactive
+Melloney  	7	F	dark navy blue      	Radioactive
+Broderick 	7	M	dark navy blue      	Radioactive
+Garek     	7	M	dark navy blue      	Radioactive
+Fulvia    	7	F	dark navy blue      	Radioactive
+Mickie    	7	F	dark navy blue      	Radioactive
+Sibel     	7	F	warm purple         	Radioactive
+Darla     	7	F	dark navy blue      	Radioactive
+Mireielle 	7	F	dark navy blue      	Radioactive
+Frieda    	7	F	dark navy blue      	Radioactive
+Oralle    	7	F	dark navy blue      	Radioactive
+Janetta   	7	F	dark navy blue      	Radioactive
+Melanie   	7	F	dark navy blue      	Radioactive
+Chucho    	7	M	dark navy blue      	Radioactive
+Rosana    	7	F	dark navy blue      	Radioactive
+Neville   	7	M	dark navy blue      	Radioactive
+Hali      	6	F	dark navy blue      	Radioactive
+Tristam   	6	M	dark navy blue      	Radioactive
+Jennica   	6	F	dark navy blue      	Radioactive
+Rod       	6	M	dark navy blue      	Radioactive
+Clare     	6	M	dark navy blue      	Radioactive
+Waverley  	6	M	dark navy blue      	Radioactive
+Codee     	6	F	dark navy blue      	Radioactive
+Violetta  	6	F	dark navy blue      	Radioactive
+Romy      	6	F	dark navy blue      	Radioactive
+Brewer    	5	M	dark navy blue      	Radioactive
+Mortimer  	5	M	dark navy blue      	Radioactive
+Rebbecca  	5	F	dark navy blue      	Radioactive
+Vivia     	5	F	dark navy blue      	Radioactive
+Melita    	4	F	dark navy blue      	Radioactive
+Gertrud   	4	F	dark navy blue      	Radioactive
+Jessamyn  	4	F	dark navy blue      	Radioactive
+------------------------------------------------------------------------
+Langsdon  	10	M	warm purple         	Radioactive
+Hannah    	10	F	dark navy blue      	Radioactive
+Alyce     	10	F	dark navy blue      	Radioactive
+Mady      	10	F	warm purple         	Radioactive
+Carlina   	10	F	dark navy blue      	Radioactive
+Tanny     	10	M	warm purple         	Radioactive
+Lalo      	10	M	dark navy blue      	Radioactive
+Janith    	10	F	dark navy blue      	Radioactive
+Beckie    	10	F	warm purple         	Radioactive
+Fredra    	10	F	dark navy blue      	Radioactive
+Shanda    	10	F	warm purple         	Radioactive
+Marlow    	10	M	dark navy blue      	Radioactive
+Daffy     	10	F	dark navy blue      	Radioactive
+Lula      	10	F	warm purple         	Radioactive
+Ammamaria 	10	F	dark navy blue      	Radioactive
+Vanessa   	10	F	warm purple         	Radioactive
+Merilyn   	10	F	dark navy blue      	Radioactive
+Cherise   	10	F	dark navy blue      	Radioactive
+Ginni     	10	F	warm purple         	Radioactive
+Querida   	10	F	dark navy blue      	Radioactive
+Lorie     	10	F	dark navy blue      	Radioactive
+Lucian    	10	M	warm purple         	Radioactive
+Jakie     	10	M	dark navy blue      	Radioactive
+Eldredge  	10	M	dark navy blue      	Radioactive
+Marcus    	10	M	dark navy blue      	Radioactive
+Nollie    	10	F	dark navy blue      	Radioactive
+Lowrance  	10	M	warm purple         	Radioactive
+Stesha    	9	F	dark navy blue      	Radioactive
+Paco      	9	M	warm purple         	Radioactive
+Silvan    	9	M	dark navy blue      	Radioactive
+Darius    	9	M	warm purple         	Radioactive
+Dav       	9	M	dark navy blue      	Radioactive
+Milo      	9	M	warm purple         	Radioactive
+Vevay     	9	F	dark navy blue      	Radioactive
+Eal       	9	M	warm purple         	Radioactive
+Celestyna 	9	F	dark navy blue      	Radioactive
+Any       	9	M	dark navy blue      	Radioactive
+Tab       	9	M	warm purple         	Radioactive
+Odey      	9	M	dark navy blue      	Radioactive
+Idette    	9	F	warm purple         	Radioactive
+Tamar     	9	F	dark navy blue      	Radioactive
+Anthe     	9	F	dark navy blue      	Radioactive
+Marsiella 	9	F	warm purple         	Radioactive
+Jaynell   	9	F	dark navy blue      	Radioactive
+Wildon    	9	M	dark navy blue      	Radioactive
+Vanny     	9	F	dark navy blue      	Radioactive
+Roana     	9	F	dark navy blue      	Radioactive
+Ernie     	9	M	dark navy blue      	Radioactive
+Ignace    	9	M	dark navy blue      	Radioactive
+Jeannette 	9	F	warm purple         	Radioactive
+Natala    	9	F	dark navy blue      	Radioactive
+Marybelle 	9	F	dark navy blue      	Radioactive
+Ardene    	9	F	dark navy blue      	Radioactive
+Roman     	9	M	dark navy blue      	Radioactive
+Rochester 	9	M	warm purple         	Radioactive
+Caesar    	9	M	dark navy blue      	Radioactive
+Augusto   	9	M	dark navy blue      	Radioactive
+Melloney  	8	F	dark navy blue      	Radioactive
+Broderick 	8	M	dark navy blue      	Radioactive
+Garek     	8	M	dark navy blue      	Radioactive
+Fulvia    	8	F	dark navy blue      	Radioactive
+Mickie    	8	F	dark navy blue      	Radioactive
+Sibel     	8	F	warm purple         	Radioactive
+Darla     	8	F	dark navy blue      	Radioactive
+Mireielle 	8	F	dark navy blue      	Radioactive
+Frieda    	8	F	dark navy blue      	Radioactive
+Oralle    	8	F	dark navy blue      	Radioactive
+Janetta   	8	F	dark navy blue      	Radioactive
+Melanie   	8	F	dark navy blue      	Radioactive
+Chucho    	8	M	dark navy blue      	Radioactive
+Rosana    	8	F	dark navy blue      	Radioactive
+Neville   	8	M	dark navy blue      	Radioactive
+Hali      	7	F	dark navy blue      	Radioactive
+Tristam   	7	M	dark navy blue      	Radioactive
+Jennica   	7	F	dark navy blue      	Radioactive
+Rod       	7	M	dark navy blue      	Radioactive
+Clare     	7	M	dark navy blue      	Radioactive
+Waverley  	7	M	dark navy blue      	Radioactive
+Codee     	7	F	dark navy blue      	Radioactive
+Violetta  	7	F	dark navy blue      	Radioactive
+Romy      	7	F	dark navy blue      	Radioactive
+Brewer    	6	M	dark navy blue      	Radioactive
+Mortimer  	6	M	dark navy blue      	Radioactive
+Rebbecca  	6	F	dark navy blue      	Radioactive
+Vivia     	6	F	dark navy blue      	Radioactive
+Melita    	5	F	dark navy blue      	Radioactive
+Gertrud   	5	F	dark navy blue      	Radioactive
+Jessamyn  	5	F	dark navy blue      	Radioactive
+------------------------------------------------------------------------
+Stesha    	10	F	dark navy blue      	Radioactive
+Paco      	10	M	warm purple         	Radioactive
+Silvan    	10	M	dark navy blue      	Radioactive
+Darius    	10	M	warm purple         	Radioactive
+Dav       	10	M	dark navy blue      	Radioactive
+Milo      	10	M	warm purple         	Radioactive
+Vevay     	10	F	dark navy blue      	Radioactive
+Eal       	10	M	warm purple         	Radioactive
+Celestyna 	10	F	dark navy blue      	Radioactive
+Any       	10	M	dark navy blue      	Radioactive
+Tab       	10	M	warm purple         	Radioactive
+Odey      	10	M	dark navy blue      	Radioactive
+Idette    	10	F	warm purple         	Radioactive
+Tamar     	10	F	dark navy blue      	Radioactive
+Anthe     	10	F	dark navy blue      	Radioactive
+Marsiella 	10	F	warm purple         	Radioactive
+Jaynell   	10	F	dark navy blue      	Radioactive
+Wildon    	10	M	dark navy blue      	Radioactive
+Vanny     	10	F	dark navy blue      	Radioactive
+Roana     	10	F	dark navy blue      	Radioactive
+Ernie     	10	M	dark navy blue      	Radioactive
+Ignace    	10	M	dark navy blue      	Radioactive
+Jeannette 	10	F	warm purple         	Radioactive
+Natala    	10	F	dark navy blue      	Radioactive
+Marybelle 	10	F	dark navy blue      	Radioactive
+Ardene    	10	F	dark navy blue      	Radioactive
+Roman     	10	M	dark navy blue      	Radioactive
+Rochester 	10	M	warm purple         	Radioactive
+Caesar    	10	M	dark navy blue      	Radioactive
+Augusto   	10	M	dark navy blue      	Radioactive
+Melloney  	9	F	dark navy blue      	Radioactive
+Broderick 	9	M	dark navy blue      	Radioactive
+Garek     	9	M	dark navy blue      	Radioactive
+Fulvia    	9	F	dark navy blue      	Radioactive
+Mickie    	9	F	dark navy blue      	Radioactive
+Sibel     	9	F	warm purple         	Radioactive
+Darla     	9	F	dark navy blue      	Radioactive
+Mireielle 	9	F	dark navy blue      	Radioactive
+Frieda    	9	F	dark navy blue      	Radioactive
+Oralle    	9	F	dark navy blue      	Radioactive
+Janetta   	9	F	dark navy blue      	Radioactive
+Melanie   	9	F	dark navy blue      	Radioactive
+Chucho    	9	M	dark navy blue      	Radioactive
+Rosana    	9	F	dark navy blue      	Radioactive
+Neville   	9	M	dark navy blue      	Radioactive
+Hali      	8	F	dark navy blue      	Radioactive
+Tristam   	8	M	dark navy blue      	Radioactive
+Jennica   	8	F	dark navy blue      	Radioactive
+Rod       	8	M	dark navy blue      	Radioactive
+Clare     	8	M	dark navy blue      	Radioactive
+Waverley  	8	M	dark navy blue      	Radioactive
+Codee     	8	F	dark navy blue      	Radioactive
+Violetta  	8	F	dark navy blue      	Radioactive
+Romy      	8	F	dark navy blue      	Radioactive
+Brewer    	7	M	dark navy blue      	Radioactive
+Mortimer  	7	M	dark navy blue      	Radioactive
+Rebbecca  	7	F	dark navy blue      	Radioactive
+Vivia     	7	F	dark navy blue      	Radioactive
+Melita    	6	F	dark navy blue      	Radioactive
+Gertrud   	6	F	dark navy blue      	Radioactive
+Jessamyn  	6	F	dark navy blue      	Radioactive
+------------------------------------------------------------------------
+Melloney  	10	F	dark navy blue      	Radioactive
+Broderick 	10	M	dark navy blue      	Radioactive
+Garek     	10	M	dark navy blue      	Radioactive
+Fulvia    	10	F	dark navy blue      	Radioactive
+Mickie    	10	F	dark navy blue      	Radioactive
+Sibel     	10	F	warm purple         	Radioactive
+Darla     	10	F	dark navy blue      	Radioactive
+Mireielle 	10	F	dark navy blue      	Radioactive
+Frieda    	10	F	dark navy blue      	Radioactive
+Oralle    	10	F	dark navy blue      	Radioactive
+Janetta   	10	F	dark navy blue      	Radioactive
+Melanie   	10	F	dark navy blue      	Radioactive
+Chucho    	10	M	dark navy blue      	Radioactive
+Rosana    	10	F	dark navy blue      	Radioactive
+Neville   	10	M	dark navy blue      	Radioactive
+Hali      	9	F	dark navy blue      	Radioactive
+Tristam   	9	M	dark navy blue      	Radioactive
+Jennica   	9	F	dark navy blue      	Radioactive
+Rod       	9	M	dark navy blue      	Radioactive
+Clare     	9	M	dark navy blue      	Radioactive
+Waverley  	9	M	dark navy blue      	Radioactive
+Codee     	9	F	dark navy blue      	Radioactive
+Violetta  	9	F	dark navy blue      	Radioactive
+Romy      	9	F	dark navy blue      	Radioactive
+Brewer    	8	M	dark navy blue      	Radioactive
+Mortimer  	8	M	dark navy blue      	Radioactive
+Rebbecca  	8	F	dark navy blue      	Radioactive
+Vivia     	8	F	dark navy blue      	Radioactive
+Melita    	7	F	dark navy blue      	Radioactive
+Gertrud   	7	F	dark navy blue      	Radioactive
+Jessamyn  	7	F	dark navy blue      	Radioactive
+------------------------------------------------------------------------
+Hali      	10	F	dark navy blue      	Radioactive
+Tristam   	10	M	dark navy blue      	Radioactive
+Jennica   	10	F	dark navy blue      	Radioactive
+Rod       	10	M	dark navy blue      	Radioactive
+Clare     	10	M	dark navy blue      	Radioactive
+Waverley  	10	M	dark navy blue      	Radioactive
+Codee     	10	F	dark navy blue      	Radioactive
+Violetta  	10	F	dark navy blue      	Radioactive
+Romy      	10	F	dark navy blue      	Radioactive
+Brewer    	9	M	dark navy blue      	Radioactive
+Mortimer  	9	M	dark navy blue      	Radioactive
+Rebbecca  	9	F	dark navy blue      	Radioactive
+Vivia     	9	F	dark navy blue      	Radioactive
+Melita    	8	F	dark navy blue      	Radioactive
+Gertrud   	8	F	dark navy blue      	Radioactive
+Jessamyn  	8	F	dark navy blue      	Radioactive
+------------------------------------------------------------------------
+Brewer    	10	M	dark navy blue      	Radioactive
+Mortimer  	10	M	dark navy blue      	Radioactive
+Rebbecca  	10	F	dark navy blue      	Radioactive
+Vivia     	10	F	dark navy blue      	Radioactive
+Melita    	9	F	dark navy blue      	Radioactive
+Gertrud   	9	F	dark navy blue      	Radioactive
+Jessamyn  	9	F	dark navy blue      	Radioactive
+------------------------------------------------------------------------
+Melita    	10	F	dark navy blue      	Radioactive
+Gertrud   	10	F	dark navy blue      	Radioactive
+Jessamyn  	10	F	dark navy blue      	Radioactive
+------------------------------------------------------------------------
+------------------------------------------------------------------------
